@@ -2,131 +2,201 @@
 
 *Finding the One Sentence That Holds a Person Together.*
 
-On the morning of March 7, 1965, a twenty-five-year-old organizer named John Lewis was at the front of a line of six hundred people, walking across the Edmund Pettus Bridge in Selma, Alabama. The line was peaceful. The crossing was an attempt to march to Montgomery to demand voting rights. On the far side of the bridge, Alabama state troopers in gas masks were waiting in formation. When the front of the line reached them, the troopers attacked with batons and tear gas. Lewis was beaten so badly his skull was fractured. He was twenty-five years old.
+---
 
-Fifty-five years later, in July 2020, Lewis died in Washington, D.C., having served seventeen terms in the U.S. House of Representatives. The Librarian of Congress, Carla Hayden, wrote a remembrance for the Library of Congress blog. She did not try to summarize his whole life. She chose one phrase he used — *good trouble* — and built the entire profile around it.[^1]
+On the morning of March 7, 1965, a twenty-five-year-old organizer named John Lewis was at the front of a line of six hundred people, walking across the Edmund Pettus Bridge in Selma, Alabama. The line was peaceful. The crossing was an attempt to march to Montgomery to demand voting rights. On the far side of the bridge, Alabama state troopers in gas masks were waiting in formation. When the front of the line reached them, the troopers attacked with batons and tear gas. Lewis was beaten so badly his skull was fractured.
+
+Fifty-five years later, in July 2020, Lewis died in Washington, D.C., having served seventeen terms in the U.S. House of Representatives. The Librarian of Congress, Carla Hayden, wrote a remembrance for the Library of Congress blog. She had a six-decade public life to work with. She chose one phrase Lewis used — *good trouble* — and built the entire profile around it.[^1]
 
 [^1]: Carla D. Hayden, ["Remembering John Lewis: The Power of 'Good Trouble,'" *Library of Congress Blog*, 19 July 2020](https://blogs.loc.gov/loc/2020/07/remembering-john-lewis-the-power-of-good-trouble/).
 
-That choice — the choice to write about a six-decade public life through the lens of one short phrase — is the entire craft of the profile.
+Here is the puzzle I want you to sit with: why is that piece better because of what it leaves out?
 
-The profile is a genre that pretends to be biographical and is actually argumentative. The writer is not trying to give the reader everything that happened to a person. The writer is trying to show the reader one specific thing about a person that they would not otherwise have seen. The selection is the argument.
+The profile that tried to cover everything — the Bloody Sunday march, the seventeen terms in Congress, the Freedom Rides, the march to Montgomery, the friendship with Robert Kennedy, the arrest record that ran to forty-five entries, the Presidential Medal of Freedom, the lying in state — would have produced something comprehensive and, for exactly that reason, forgettable. You would have learned the shape of a life. You would not have felt the weight of it. Hayden chose two words and built everything around them. She gave you less. You understood more.
 
-The assignment at the end of this chapter is to write a profile of a person, place, group, or event associated with your college campus — built around one trait, one phrase, one angle — that you can defend through a combination of interview, field observation, and secondary research.
+That is not a paradox. It is the mechanism of the profile genre. Understanding it is what this chapter is about.
 
-## What a profile is, and what it isn't
+---
 
-A profile is *not* a Wikipedia entry. The Wikipedia entry is built to be comprehensive. It tries to be true about everything verifiable. A profile is built to be true about *one specific thing* by leaving most other things out.
+## What the profile actually is
 
-A profile is also not a hagiography. The job is not to praise the subject. The job is to show the subject specifically enough that the reader feels they understand something they didn't before. Sometimes that produces praise. Sometimes it doesn't.
+I need to be precise about what kind of writing a profile is, because it is commonly misunderstood — including by people who write them.
 
-The structural distinction the chapter needs you to internalize: a profile has a *spine* (the central insight about the subject), built around an *angle* (the specific lens you choose), supported by *evidence* (interview, observation, research). The spine is what the reader is meant to feel by the end. The angle is the writer's choice about how to get them there. The evidence is what earns the right to make the case.
+A profile is not a biography. A biography tries to be comprehensive. Its job is to give you the full record: the chronology, the relationships, the context, everything that happened and why. A biography that leaves out half its subject's life is a bad biography. A profile that leaves out half its subject's life is just a profile. Selectivity is not a deficiency in the genre. It is the genre.
 
-In Hayden's piece, the spine is *Lewis spent his life converting personal danger into political force*. The angle is *good trouble* — Lewis's own term for that conversion. The evidence is a sequence of specific moments: meeting Rosa Parks; reading James Lawson on nonviolence; the Edmund Pettus Bridge; the lifelong willingness to be arrested again, in his seventies, for the same kinds of acts that nearly killed him at twenty-five.
+A profile is not a hagiography. The job is not to praise the subject. The job is to show the reader one specific thing about a person that they would not otherwise have seen. Sometimes that produces admiration. Sometimes it produces something more complicated. The writer's goal is legibility — a reader who finishes the profile understands something they didn't understand before — not the reader's approval of the subject.
 
-Hayden could have written a thousand other profiles of Lewis. She wrote that one. The choice is the writing.
+Here is the structural fact about the genre that most students don't internalize until they have written a bad profile first.
 
-## The angle is the writer's contribution
+A profile has three components, and they are not interchangeable.
 
-Most student profiles fail at the angle. The student picks an interesting person, conducts an interview, collects too many quotes, returns to the desk, and produces a profile that reads like a list of facts about the subject in roughly chronological order. The profile is competent. It says nothing the reader could not have learned from the subject's LinkedIn page.
+The first is the *spine*: the central insight about the subject, the thing the profile is arguing. Not a fact. An insight. The spine of Hayden's Lewis piece is not "Lewis was a civil rights leader." That is a fact. The spine is something like: *Lewis spent his life converting personal physical danger into political moral force, and he never stopped offering his body as the instrument of that conversion.* That is an insight. It is arguable. It commits the writer to specific evidence and forces the rejection of evidence that doesn't serve it.
 
-The fix is to identify the angle before you start drafting. Not before you start researching — sometimes the research reveals the angle. But certainly before the drafting.
+The second is the *angle*: the specific lens through which the spine becomes visible. The angle for the Lewis piece is "good trouble" — Lewis's own phrase for the deliberate, principled willingness to be arrested, beaten, or killed in the service of a cause. The angle is not the spine. The angle is the entry point to the spine. A different writer could have used a different angle — Lewis's friendship with Rosa Parks, say, or his consistent return to Alabama after leaving it — and arrived at a different but equally defensible spine. The angle is the writer's contribution. It is the decision that makes the profile that profile and not some other profile.
 
-A useful exercise. After your interview, your field observation, and your secondary research, sit down and try to finish this sentence in twenty words or fewer:
+The third is the *evidence*: interview, field observation, and secondary research. The evidence is what earns the right to make the claim. Without it, you have an opinion. With it, you have an argument.
+
+<!-- → [DIAGRAM: Three-layer stack — bottom layer "Evidence" (interview / field observation / secondary research), middle layer "Angle" (the specific lens), top layer "Spine" (the central insight the profile argues). Arrows flow upward: evidence supports angle; angle makes spine visible. A second annotation shows the direction of the writer's work — downward, from spine to angle to evidence selection — while the reader experiences it upward. Caption: "The writer builds top-down. The reader experiences bottom-up." Purpose: make the distinction between spine, angle, and evidence structural rather than definitional before Exercise 1.] -->
+
+---
+
+## Why most student profiles fail
+
+I can describe the failure mode with some precision because it is almost always the same failure.
+
+The student picks an interesting subject. Conducts an interview. Takes some notes. Collects some background information. Returns to the desk. Writes a profile that covers the subject's life in roughly chronological order, includes several direct quotes, and concludes with a paragraph about the subject's inspiring qualities.
+
+The profile is competent. It says nothing the reader could not have learned from the subject's LinkedIn page.
+
+The failure is not execution. The failure is that the student never identified the angle. Without an angle, the writer has no principle for selecting evidence. Every fact about the subject seems equally relevant, because no particular argument is being made. The result is a list of facts that adds up to a description — *here is who this person is* — rather than a claim — *here is the one thing about this person that, once you see it, you cannot unsee*.
+
+There is a practical test for whether you have an angle before you draft. After your interview, your field notes, and your research, sit down and try to finish this sentence in twenty words or fewer:
 
 *The thing I want my reader to understand about my subject that they would not otherwise have seen is...*
 
-If you cannot finish the sentence, you do not have an angle yet. Go back to the material and look for what surprised you. The surprise is usually where the angle is.
+If you cannot finish the sentence in twenty words, you do not have an angle. You have material. Material is necessary. It is not sufficient.
 
-Some examples, condensed:
+Where do you find the angle in the material? The answer, almost without exception, is this: the angle is where the surprise is. The surprise is the thing the subject said that you didn't expect, the thing the field notes caught that the interview didn't mention, the moment the secondary research revealed a context that made a small detail suddenly significant. The boring interpretation of your subject — the obvious interpretation, the LinkedIn-page interpretation — is not the angle. The angle is what you found that contradicts or complicates the obvious interpretation.
 
-- *Toad Frog Alley Videos in Cleveland, Alabama, is one of the last independent video rental stores in the rural South — and the reason it survives is the same reason rural America survives at all: people who refuse to be efficient when efficiency would mean disappearance.* (The angle is *efficiency vs. survival*. The spine is *some institutions are valuable in proportion to their stubbornness*.)
+---
 
-- *The Japanese-American newspapers published inside the WWII internment camps were not survival journalism — they were the camps' inhabitants documenting themselves out of disappearance, in real time, by hand, with the tools available.* (The angle is *self-documentation as resistance*. The spine is *some communities refuse to be erased even when erasure is the explicit project.*)
+## The three kinds of research a profile requires
 
-These are not summaries. They are angles. They commit the writer to specific evidence. They eliminate most of the material the writer collected. The discipline of *eliminating* is the work.
+The profile needs three kinds of material, and each does something the others cannot do. They are not interchangeable, and they are not substitutes for each other.
 
-## The three kinds of research a profile needs
+**The interview.** You talk to the subject — or, if not the subject, to someone who knows the subject with unusual intimacy — and you ask questions. The interview gives you the subject's own voice: the actual words, in the actual rhythms, that no secondary source can replicate. Most student profiles contain too few interview quotes, and the quotes they do include are too tidy. The problem is usually that the student did not record the conversation. When you record and transcribe, you get the false starts, the digressions, the moment the subject went on a tangent and contradicted something they said earlier. That is where the angle often lives. The interview transcript is not a polished document. It is a mine. You are looking for the vein.
 
-Three different sources of material. Each does something the others cannot.
+**The field observation.** You spend time *with* the subject — or *at* the place, *during* the event — and you take notes on what is actually there. This is what anthropologists call thick description: detailed sensory notes on physical setting, behavior, sound, smell, gesture, mood. Half an hour of careful field notes will produce more usable material for the profile than two hours of interview, because the field notes capture things the subject would not think to tell you. They did not know you were watching when they shifted their weight from foot to foot during the difficult question. They did not notice that they rearranged the same three objects on their desk four times while they talked.
 
-**The interview.** You sit with the subject (or, if not the subject, someone who knows the subject well) and ask questions. The interview gives you the subject's voice — the actual words, in the actual rhythms, that nobody else can produce. Most student profiles have too few interview quotes, and the quotes they have are too tidy. The fix is to record the conversation (with permission) and transcribe it. The unusable parts of the transcript — the false starts, the digressions, the moment the subject went on a tangent and contradicted themselves — are often where the angle lives.
+There is a discipline to field notes that takes practice to develop. Do not interpret in the notes. Do not write *she seemed nervous*. Write *she shifted weight from her left foot to her right twice while answering, and straightened the pen on her desk*. The interpretation is your job at the desk. The notes are for the observable specifics that nobody else would have caught.
 
-**The field observation.** You spend time *with* the subject (or *at* the place, *during* the event) and take notes on what is actually there. This is what anthropologists call *thick description* — detailed sensory notes on physical setting, behavior, sound, smell, gesture, mood. Half an hour of careful field notes will produce more usable material for the profile than two hours of interview, because the field notes capture things the subject would not think to tell you in an interview.
+**The secondary research.** Articles, archives, data, prior coverage. The job here is not to repeat what others have written about the subject. The job is to find the context that makes your angle land — the trend, the statistic, the historical pattern, the prior moment that gives your subject's particular position in the world its weight.
 
-A practical move: when you take field notes, do not interpret. Do not write *she seemed nervous*. Write *she shifted weight from her left foot to her right twice while answering*. The interpretation is your job at the desk later. The notes are for the observable specifics that nobody else would have caught.
+The secondary research is most powerful when it is *not about your subject specifically* but about the world your subject is surviving inside. The profile of Toad Frog Alley Videos — one of the last independent video rental stores in rural Alabama — is not interesting because of what prior articles have said about Kandy Little, the store's owner. It is interesting because of what the secondary research reveals about rural economic decline, DVD market collapse, and streaming's conquest of physical media. The secondary research is the wall Kandy Little is standing against. Without that wall, her stubbornness is just stubbornness. With it, her stubbornness is an argument.
 
-**The secondary research.** Articles, books, websites, archives. The job here is not to repeat what others have said about the subject. The job is to find the *context* that lets your angle land — the trend, the statistic, the historical pattern, the prior event that makes the subject's particular position in the world legible.
+<!-- → [TABLE: Three-column table — rows: Interview, Field Observation, Secondary Research. Columns: What it produces, What it cannot produce, Common student error. Example row: Field Observation → unrepeatable sensory specifics the subject wouldn't mention → interpretation rather than observable data → "she seemed nervous" instead of "she shifted weight twice." Purpose: make the three research types legible as distinct tools with distinct failure modes, matching Exercise 4 and 5.] -->
 
-In the Toad Frog Alley essay, the secondary research is what does most of the heavy lifting on the spine: data on rural decline (Harvard Political Review), data on DVD sales (the *Guardian*), the FilmStruck shutdown (the *Washington Post*), industry-survival strategies (the *Hollywood Reporter*). None of these are *about* Kandy Little, the store's owner. All of them are *about the world Toad Frog Alley is surviving inside*. That is what secondary research is for.
+---
 
-## A word on tone
+## The tonal trap
 
-The profile genre has a tonal trap that consumes about a third of student drafts.
+There is a specific way that profiles go wrong at the sentence level, and I want to name it directly because it is almost impossible to see in your own first draft.
 
-The trap is *overt admiration*. The subject is admirable; the writer wants the reader to admire them; the writer's prose tells the reader, repeatedly, how admirable the subject is. The result reads like a press release. The reader, sensing that they are being told what to feel rather than being shown the subject, withdraws.
+The trap is overt admiration. The subject is admirable; the writer wants the reader to admire them; the prose tells the reader, repeatedly, how admirable the subject is. *She was remarkable.* *His dedication was inspiring.* *Her resilience in the face of adversity was extraordinary.* The result reads like a press release. The reader, sensing that they are being told what to feel rather than shown the subject, withdraws.
 
-The fix is direct. *Render the subject specifically; let the admiration come from the specifics, not from your adjectives.* If the subject is courageous, do not write *she was courageous*. Write the specific moment of courage. The reader will name the trait themselves. The naming is what creates the felt admiration. Your stating it preempts the work.
+The fix is not to be less admiring. The fix is to render the subject specifically enough that the admiration becomes the reader's conclusion rather than the writer's instruction. If the subject is courageous, do not write *she was courageous*. Write the specific moment of courage — what she did, what the cost of it was, what she said before and after. The reader will name the trait themselves. The naming is what creates the felt response. Your stating it preempts the work.
 
-This is the same scene-vs-summary discipline from Chapter 4, applied to a different genre. The discipline is the same: the more you tell, the less the reader feels; the more you show, the more they feel.
+This is the same discipline as scene and summary from Chapter 4, applied here. The more you tell the reader what to feel, the less they feel it. The more you show them the specific thing, the more they feel it on their own.
 
-A small related trap: profile writers often slip first-person into the prose at the wrong moments. *When I met her, I was struck by her warmth.* That sentence is doing three things at once — telling us about the writer, telling us about the subject, and telling us what to feel about both. None of the three things are doing real work. The fix is to ask: *would this sentence still be necessary if I weren't in it?* If yes, you can keep it. If no, cut.
+<!-- → [IMAGE: Two short prose passages side by side — left passage commits the overt-admiration error ("She was remarkable for her dedication..."); right passage renders the same moment as specific scene ("She arrived at 6 a.m. and the lights were already on..."). A callout on the left labels the key problem phrases. A callout on the right labels what the reader is now doing (naming the trait themselves). Purpose: make the tell-vs-show distinction concrete at the sentence level immediately before the student encounters it in Exercise 6.] -->
 
-There are profile traditions where the writer's first-person presence is the point. Gay Talese's "Frank Sinatra Has a Cold" (1966), one of the founding documents of literary nonfiction, is built around the fact that Talese could not get an interview with Sinatra and watched him from across rooms.[^2] The writer's distance becomes the angle. But Talese never explains his own emotional state. He shows his position — physical, journalistic — and lets the reader make the inference.
+The corollary trap is the wrongly-placed first person. *When I met her, I was struck by her warmth.* That sentence is doing three things at once — telling us about the writer, telling us about the subject, and telling us what to feel. None of the three are doing real work. The test is simple: would this sentence still be necessary if the writer were not in it? If no, cut it.
+
+This is not a rule against first person in profiles. Gay Talese's "Frank Sinatra Has a Cold" — published in *Esquire* in April 1966, still one of the finest pieces of literary nonfiction produced in English — is built around the fact that Talese could not get an interview with Sinatra and watched him from across rooms.[^2] The writer's physical and journalistic distance *is* the angle. But Talese never explains his own emotional state. He reports his position — where he was standing, what he could and couldn't see, what he was and wasn't permitted — and lets the reader make every inference about what that means. The first person earns its place when it is doing structural work. It does not earn its place by telling the reader what the writer felt.
 
 [^2]: Gay Talese, ["Frank Sinatra Has a Cold," *Esquire*, April 1966](https://classic.esquire.com/article/1966/04/1/frank-sinatra-has-a-cold).
 
-## Choosing a subject
+---
 
-For the assignment — a profile of a person, place, group, or event associated with your college campus — some constraints worth honoring.
+## A drafting sequence
 
-*The subject must be reachable.* You need either an interview with the subject or substantial access to someone who knows them. A famous alumnus who hasn't been on campus in twenty years is not reachable; a beloved cafeteria worker who has been there for twenty years is.
+Once the angle is identified, there is a drafting sequence that works reliably for this genre.
 
-*The subject must be specific.* "The football team" is too broad. "The football team's equipment manager, who has held the job since 1998" is specific.
+Open with a scene. Not a summary of the subject's career. Not a thesis statement about the angle. A scene: a specific place, a specific moment, sensory detail, the subject doing something. Hayden's Lewis piece opens with Lewis *at* the Library of Congress — a specific place, a specific visit — not with a recap of his congressional career. The Sinatra piece opens at a bar in Beverly Hills. Every strong profile I have read begins inside something specific and earns its way to the general.
 
-*The subject must have a trait worth profiling.* Not every interesting person has an *admirable* trait, and admiration is what the assignment is asking about. But "admirable" is a wider word than "heroic." Stubbornness can be admirable. Kindness can be admirable. The ability to hold a grudge productively can be admirable. The trait can be small. It just has to be real.
+While you draft, keep the angle sentence at the top of your document. Not for the reader — for you. Every time you add a piece of material, ask: does this advance the angle, or does it just add information? The material that advances the angle stays. The material that only adds information goes into a notes file. You will mourn it briefly. The profile will be better.
 
-A few examples that work well at the campus scale:
+Close with a return. Come back to the opening scene, or to a parallel moment, that lets the reader feel the spine without your announcing it. The close should not contain the sentence *and that is why John Lewis was extraordinary*. The close should be a specific image or exchange that lands with the weight of everything you have built toward it. Hayden closes with Lewis's own words about good trouble — not her characterization of his legacy, but his voice, in his idiom, carrying the argument the profile has earned. The profile ends with the subject. That is almost always right.
 
-- The custodian on the third floor of the library who has been arranging the chairs in the same pattern for fifteen years, and what that pattern reveals about a particular kind of professional pride.
-- The student-run coffee co-op that has refused to take corporate sponsorship for nine years, and what its survival depends on.
-- The professor who teaches an unpopular subject and has kept it on the curriculum through three department-chair changes.
-- The morning fitness group that meets at 5:45 a.m. at the campus track and includes one ninety-year-old who has not missed a session in eleven years.
+---
 
-Each of these has a trait, a setting, and enough specificity that an angle could emerge from the research.
+## What you are selecting against
 
-## The drafting move
+I want to be honest about the cost of the angle, because the cost is real and worth naming.
 
-The single most useful drafting decision in a profile: open with a scene, not a summary.
+Every profile with a strong angle is a profile that has excluded most of what is true about the subject. John Lewis was not only the person who converted danger into political force. He was also a man with a difficult personal history, a complex relationship to the Democratic Party, a record of legislative positions that some of his constituents found insufficient. Hayden's profile does not lie about Lewis. But it does not contain all of Lewis.
 
-Hayden's John Lewis piece opens with Lewis at the Library of Congress — a specific place, a specific moment — not with a recap of his career. The scene gives the reader something to hold. The career details land later, as context that earns its keep because the scene has already engaged the reader.
+The line between *a profile with a strong angle* and *a profile that has reduced its subject to a thesis* is harder to draw than I would like. The profile that excludes material in order to argue gets tighter and more powerful. The profile that excludes material in order to flatter is PR. Both operations look the same on the surface: selection, emphasis, omission. What distinguishes them is the writer's honesty about whether the material being excluded is inconvenient or irrelevant.
 
-The Sinatra piece opens at a bar in Beverly Hills. The internment-camp newspapers piece opens with a specific issue of the *Tulean Dispatch*. Each profile begins inside something specific, not with a thesis statement.
+There is no clean rule here. What I can say is this: the angle should come from the material, not precede it. If you decide what the angle is before you do the research and then collect evidence for it, you are building a case rather than discovering a truth. The discipline of doing the research first, sitting with the material, and finding the surprise in it is what keeps the profile honest. The angle that surprised you is usually more trustworthy than the angle you arrived with.
 
-A practical drafting sequence:
+<!-- → [DIAGRAM: Two-path flowchart. Path A (honest): Research → Surprise → Angle → Exclusion to argue. Path B (distorting): Predetermined angle → Research as evidence-collection → Exclusion to flatter. Both paths produce a profile with an angle. One is inquiry; one is advocacy. The visual distinction is the direction of the arrow between "angle" and "research." Caption: "The angle should come from the material. The material should not be collected to serve the angle." Purpose: make the distinction in Exercise 8 legible as a structural problem, not just an ethical one.] -->
 
-1. Write the scene first — the place, the moment, the sensory specifics. 300 to 500 words.
-2. Write the angle — *the thing I want my reader to understand* — at the top of your draft as a working line. Not necessarily for the final version. For your own use during drafting.
-3. Add the evidence — quotes, observations, secondary sources — selecting only what advances the angle. Material that doesn't advance the angle goes in your notes file, not the draft.
-4. Close with a return — back to the scene, or to a parallel scene, that lets the reader feel the angle without your having to name it.
+---
 
 ## A note about AI
 
-The profile is a genre where the LLM is most easily misused in a specific way: producing prose that *sounds like a profile* without doing any of the actual work the genre requires.
+The profile is the genre where the LLM is most easily misused, and I want to be specific about why.
 
-The actual work — interview, field observation, secondary research, judgment about which moments to render and which to compress, judgment about what the angle is — is not LLM-replicable. An LLM can write *something that has the texture of a profile* using only the subject's Wikipedia page and a stock vocabulary. The result will read as competent. It will not be a profile.
+A large language model can produce prose that has the texture of a profile — the rhythm of scene-setting, the balance of quote and commentary, the appearance of a specific subject — from nothing but a Wikipedia page and a stock vocabulary. The result will be grammatically competent. It will not be a profile, because a profile depends on the three kinds of research that the model cannot have done: the interview transcript with its unexpected digressions, the field notes with their unrepeatable sensory specifics, the secondary research selected for the particular angle this particular writer is making.
 
-The places the LLM is useful:
+The places where the model genuinely helps:
 
-- After you have done your interview, you can paste the transcript and ask the model to help you identify the moments that surprised you. Models are often better than human readers at spotting the *unexpected* in a long transcript.
-- After your field notes, you can ask the model to help you identify which details you have noted twice and which you have noted only once. The repeated details are often the noticing; the singular details are sometimes the angle.
-- You can ask the model to argue against your angle. *Here is my proposed angle. Make the strongest case that this is the wrong angle for this subject.* The pushback often improves the angle even when it doesn't change it.
+After you have the transcript, you can paste it and ask the model to identify the three moments that surprised it most — moments where the subject said something you wouldn't have predicted. Models are often better than a fatigued human reader at flagging the genuinely unexpected in a long text.
 
-The places the LLM does damage:
+After you have the field notes, you can ask the model which details you recorded twice and which you recorded only once. The repeated noticing is usually the noticing that matters.
 
-- Asking it to write the opening scene. The opening scene depends on what you actually observed. The model cannot have observed it.
-- Asking it to write the quotes. Made-up quotes are a violation of the genre. Models will produce plausible quotes if asked. Do not ask.
-- Asking it to "improve the flow." This is the single most common student request and the single most reliable way to flatten the voice of your profile toward a generic competence. The flow that comes out of your interview and your field notes is part of the angle. Smooth it carefully and you have an LLM profile, not yours.
+After you have the angle, you can ask the model to make the strongest case against it. *Here is my proposed angle. What is the best argument that this is the wrong angle for this subject?* The counterargument improves the angle even when it doesn't change it.
+
+The places where the model does damage: writing the opening scene (it cannot have observed what you observed), producing the quotes (fabricated quotes are a genre violation, and models will produce them if asked), and "improving the flow" of your prose (the single most reliable way to flatten your specific voice toward a generic competence that sounds like every other AI-assisted profile submitted that semester).
+
+The rule that covers all three: the model cannot do the work the genre requires. It can help you think about the work you have done.
+
+---
+
+## Exercises
+
+The chapter's inferred learning objectives: (1) distinguish the profile genre from biography and hagiography by identifying its structural components — spine, angle, evidence — and explaining how they function differently; (2) diagnose the absence of an angle in a weak profile and articulate what specific angle the material could have supported; (3) identify and apply the three kinds of research a profile requires, explaining what each does that the others cannot; (4) apply the scene-vs-summary discipline and the overt-admiration trap to profile prose at the sentence level; (5) articulate the cost of the angle — what a strong profile excludes and why that exclusion is principled rather than distorting.
+
+---
+
+**Warm-up**
+
+*1. Spine, angle, evidence.* The chapter describes three components of a profile. Take Carla Hayden's John Lewis piece — summarized in the chapter's opening pages — and identify each component as the chapter defines it: what is the spine (the central insight the piece is arguing), what is the angle (the specific lens that makes the spine visible), and what are the three strongest pieces of evidence the chapter attributes to the piece? Write three sentences, one for each component. The goal is to internalize the distinction between them before applying it to new material.
+*(Tests objective 1 — structural components of the profile.)*
+*Difficulty: Low.*
+
+*2. Profile vs. biography.* Find any Wikipedia article about a living person whose work or life interests you. Read the first three paragraphs. Then write two sentences: one describing what a biography of this person would try to do, and one describing the spine of a profile of this person that the Wikipedia article does not contain but the subject's life could support. The profile spine must be an insight, not a fact.
+*(Tests objective 1 — the distinction between comprehensive biography and argumentative profile.)*
+*Difficulty: Low.*
+
+---
+
+**Application**
+
+*3. Diagnose the failure.* The chapter describes the failure mode of a competent-but-forgettable profile: covers the subject's life chronologically, includes direct quotes, concludes with a paragraph about inspiring qualities, says nothing the reader could not have learned from LinkedIn. Write a 200-word version of that failure — a profile of a real, named public figure that commits every error the chapter names. Then write 100 words identifying, specifically, what angle the material in your failed version could have supported but didn't.
+*(Tests objective 2 — diagnosing absent angle and articulating what angle the material could bear.)*
+*Difficulty: Medium.*
+
+*4. Field notes vs. interpretation.* The chapter gives a specific instruction: in field notes, do not write *she seemed nervous*; write *she shifted weight from her left foot to her right twice while answering*. Spend fifteen minutes in a public space — a café, a library, a campus common area — and take field notes on one person you can observe without intruding. Write 200 words of raw field notes using only observable specifics, no interpretation. Then write 100 words of interpretation at the desk, drawing on your raw notes. Clearly separate the two.
+*(Tests objective 3 — the discipline of field observation and the note-to-interpretation gap.)*
+*Difficulty: Medium.*
+
+*5. Secondary research as wall.* The chapter argues that the strongest secondary research is not about the subject specifically but about the world the subject is surviving inside. Choose a campus subject you could profile — a person, a place, a program — and identify three pieces of secondary research that would constitute the "wall" that subject is standing against: the trend, the statistic, the historical pattern that gives their particular position its weight. For each, write one sentence explaining what it enables the angle to argue. Do not write the profile.
+*(Tests objective 3 — secondary research as contextual argument rather than background information.)*
+*Difficulty: Medium.*
+
+---
+
+**Synthesis**
+
+*6. The overt admiration fix.* Take any three consecutive sentences from a profile — published or student-written — that commit the overt-admiration error: sentences that tell the reader what to feel rather than show the subject specifically. Rewrite them using only observable specifics and direct quotation. Then write 100 words explaining what the rewrite cost (what information it sacrificed) and what it gained (what the reader now does that they didn't before).
+*(Tests objectives 4 and 5 together — sentence-level discipline applied to the cost of selectivity.)*
+*Difficulty: Medium-high.*
+
+*7. The angle test.* Select a person, place, or event you know well enough to have real material about. Write the twenty-words-or-fewer sentence the chapter specifies: *The thing I want my reader to understand about my subject that they would not otherwise have seen is...* Then write three alternative versions of that sentence — three genuinely different angles, each committing you to different evidence and forcing you to exclude different material. For each of the four angles (original plus three alternatives), identify in one sentence what it would require and what it would cost.
+*(Tests objectives 1, 2, and 5 together — angle identification, alternative-angle generation, and the cost of selectivity.)*
+*Difficulty: High.*
+
+---
+
+**Challenge**
+
+*8. The reduction problem.* The chapter ends with an unresolved tension: the line between *a profile with a strong angle* and *a profile that has reduced its subject to a thesis* is hard to draw. Find two published profiles of the same person — a historical figure, a public intellectual, an athlete, anyone with multiple profiles written about them. Identify the angle of each. Then argue, in 500–700 words, which profile is closer to the reduction problem and why. Your argument must use the chapter's distinction between excluding-to-argue and excluding-to-flatter. Take a position. The chapter doesn't give you a clean rule; your job is to develop one from the two cases.
+*(Open-ended. Tests all five objectives and asks the student to resolve the tension the chapter honestly refuses to resolve.)*
+*Difficulty: High.*
+
+---
 
 ## LLM Exercise — Chapter 7
 
@@ -187,45 +257,31 @@ is mine to do.
 
 **How to adapt this prompt:**
 
-- *For ChatGPT or Gemini:* works as written. Both tools will sometimes try to draft a scene after step 4; refuse the offer.
-- *For Cowork:* useful if your research materials live in separate files. Tell Cowork to read your transcript, field notes, and research files before starting the conversation.
-- *For Claude Code:* not the right tool.
+For ChatGPT or Gemini, the prompt works as written. Both tools will sometimes try to draft a scene after step 4; refuse the offer. For Cowork: useful if your research materials live in separate files — tell Cowork to read your transcript, field notes, and research files before starting the conversation. For Claude Code: not the right tool.
 
-**The instructive failure to expect:** when you propose your chosen angle, the model may overly endorse it. Push: *"Don't tell me my angle is good. Tell me what's wrong with it."* The reflexive validation is one of the model's worst habits in writing-coach mode; the discipline of demanding pushback is part of the literacy.
-
-**Preview of next chapter:** the next chapter pivots from rendering people to recommending solutions. The profile's specific-render-then-argue move reappears in proposal writing — but the rendering becomes the *problem* rather than the *person*, and the angle becomes the *solution*.
-
-## What would change my mind
-
-If a careful comparison of strong-angle profiles to weak-angle profiles showed that the strong-angle versions performed *worse* with readers — felt manipulative, missed the subject's complexity, oversimplified for argumentative effect — I would revise the central claim of this chapter that the angle is the writer's most important decision. The evidence from working journalism points the other way: every strong profile editor I have read says the same thing, in roughly the same words, about the angle. But the claim could be wrong, and it is worth keeping open.
-
-## Still puzzling
-
-The line between *a profile with a strong angle* and *a profile that has reduced its subject to a thesis* is harder to teach than I would like. Some of the strongest published profiles risk the second failure as part of doing the first one well. The honest pedagogy is to teach the move and then warn that the move can be done badly. That is not as clean as I want it.
+**The instructive failure to expect:** when you propose your chosen angle, the model may overly endorse it. Push: *"Don't tell me my angle is good. Tell me what's wrong with it."* The reflexive validation is one of the model's worst habits in writing-coach mode. The discipline of demanding pushback is part of the literacy.
 
 ---
 
-*Sources cited above link to primary text where available. The chapter draws on the OpenStax* Writing Guide with Handbook *Chapter 7 modules as the underlying scaffold, with all rendering, examples, voice, and analytical claims reworked for this textbook's pedagogy.*
+## AI Wayback Machine
 
-
----
-
-## 🕰️ AI Wayback Machine
-
-The ideas in this chapter didn't appear from nowhere. **Lillian Ross** was working on *Picture* (1952) — a long-form profile of John Huston shooting *The Red Badge of Courage* that became the template for the modern New Yorker profile decades before most people had heard of the profile as a genre. Here's a prompt to find out more — and then make it better.
+The ideas in this chapter didn't appear from nowhere. **Lillian Ross** was working on *Picture* (1952) — a long-form profile of John Huston shooting *The Red Badge of Courage* that became the template for the modern New Yorker profile — decades before most people had heard of the profile as a genre.
 
 **Run this:**
 
 ```
-Who was Lillian Ross, and how does their work on the long-form profile and "fly on the wall" interviewing connect to writing a profile that captures a person rather than a résumé? Keep it to three paragraphs. End with the single most surprising thing about their career or ideas.
+Who was Lillian Ross, and how does their work on the long-form profile
+and "fly on the wall" interviewing connect to writing a profile that
+captures a person rather than a résumé? Keep it to three paragraphs.
+End with the single most surprising thing about their career or ideas.
 ```
 
-→ Search **"Lillian Ross"** on Wikipedia after you run this. See what the model got right, got wrong, or left out.
+Then search **"Lillian Ross"** on Wikipedia. See what the model got right, got wrong, or left out.
 
 **Now make the prompt better.** Try one of these:
 
-- Ask it to explain Ross's signature technique of using a subject's own dialogue, almost unedited, to characterize them — and the cost of that technique when the subject is unsympathetic
+- Ask it to explain Ross's technique of using a subject's own dialogue, almost unedited, to characterize them — and the cost of that technique when the subject is unsympathetic.
 - Ask: "How did Ross's *Portrait of Hemingway* (1950) blow up — and what did the profile do that the standard celebrity profile of the time refused to do?"
-- Add the constraint: "Answer using one specific Ross technique that an interviewer learning to do profiles today should steal"
+- Add the constraint: "Answer using one specific Ross technique that an interviewer learning to do profiles today should steal."
 
 What changes? What gets better? What gets worse?
