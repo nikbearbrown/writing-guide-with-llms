@@ -2,180 +2,187 @@
 
 *Joining a Conversation You Did Not Start.*
 
-In January 2019, *The Lancet* — one of the oldest and most influential medical journals — published a report by a body called the EAT-Lancet Commission on Food, Planet, Health. The report ran to forty-seven pages of dense scientific writing, with contributions from thirty-seven scientists in sixteen countries. Its core finding: that the way humans currently produce and consume food is incompatible with the survival of the planetary systems that food production depends on, and that a specific kind of dietary shift — toward predominantly plant-based eating, with substantial reductions in red meat consumption — would be both healthier for individual humans and more sustainable for the global ecosystem.[^1]
+---
+
+In January 2019, *The Lancet* published a forty-seven-page report by something called the EAT-Lancet Commission on Food, Planet, Health. Thirty-seven scientists from sixteen countries. The core finding: the way humans currently produce and consume food is incompatible with the survival of the planetary systems that food production depends on, and a specific dietary shift — toward predominantly plant-based eating, with substantial reductions in red meat — would be both healthier for individuals and more sustainable for the ecosystem.[^1]
 
 [^1]: Walter Willett et al., ["Food in the Anthropocene: The EAT-Lancet Commission on Healthy Diets from Sustainable Food Systems," *The Lancet*, vol. 393, no. 10170 (2 February 2019)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2818%2931788-4/fulltext).
 
-The report did not appear from nowhere. It joined a conversation that had been running for decades. Agronomists at Wageningen had been modeling food-system limits since the 1990s. Vegetarian advocates had been arguing the case for plant-based diets since at least the 1970s. The greenhouse-gas footprint of beef production had been studied repeatedly since the early 2000s. The EAT-Lancet Commission's contribution was to *synthesize* the existing conversation — to bring decades of dispersed evidence into a single coherent argument with implications for public policy.
+The report did not appear from nowhere. It joined a conversation that had been running for decades. Agronomists at Wageningen had been modeling food-system limits since the 1990s. Vegetarian advocates had been making the case for plant-based diets since at least the 1970s. The greenhouse-gas footprint of beef production had been studied repeatedly since the early 2000s. The EAT-Lancet Commission did not discover that food production has environmental consequences. What it did was *synthesize* the existing conversation — bring decades of dispersed evidence into a single coherent argument with implications for public policy — and in doing so, it advanced the conversation.
 
-That move — *synthesizing an existing scholarly conversation to advance one's own argument with new evidence* — is what argumentative research writing does. The genre is the position argument from Chapter 12 with the further requirement that the position be defended through engagement with what other scholars and writers have said about the same question.
+<!-- → [INFOGRAPHIC: timeline of the food-sustainability scholarly conversation from ~1990 to 2019 — key publications and research milestones plotted chronologically, with the EAT-Lancet Commission report marked at the end as the synthesis moment; student should see that the Commission entered a decades-long conversation, not a vacuum] -->
 
-The assignment at the end of this chapter is your own argumentative research paper. Ten to twelve pages. Eight to ten sources, a mix of primary and secondary, mostly peer-reviewed or otherwise high-credibility. A debatable thesis you defend with evidence drawn from the sources, synthesized with your own analysis and commentary.
+That move — synthesizing an existing scholarly conversation to advance one's own argument, through engagement with what others have already said — is what argumentative research writing does. It is the position argument from Chapter 12 with the further requirement that the position be defended through genuine engagement with the literature, not just gestures at it.
 
-## What argumentative research is, and what it isn't
+---
 
-*Argumentative research* is the academic version of taking a position on a contested issue and defending it with evidence — but the evidence requirement is more demanding than in the shorter position argument. The genre asks you to demonstrate that you have actually engaged with the existing scholarly literature on your topic, not just gestured at it.
+## What the genre requires, and what it is not
 
-What argumentative research is not:
+Argumentative research requires you to do two things simultaneously: be a serious reader of other people's work, and be a writer with a position of your own. These pull in different directions. The student who can only do the first ends up summarizing sources without arguing. The student who can only do the second ends up arguing without evidence. The discipline is to do both at once, in the same piece of writing.
 
-- *A report*. A report describes findings. Argumentative research argues for an interpretation of findings.
-- *A literature review*. A literature review summarizes existing work without taking a strong position. Argumentative research uses the literature in service of a position.
-- *A personal opinion essay with footnotes*. The footnotes have to be doing real work. They cannot be decorative.
-- *A summary of sources*. The sources are evidence for your argument, not the argument itself. If your draft reads as a series of paragraphs each describing what one source says, you have not yet built an argument.
+Four things that argumentative research is not.
 
-The genre is hard because it requires you to do two things simultaneously: be a serious reader of other people's work and be a writer with a position of your own. The student who can only do one ends up either summarizing the sources without arguing or arguing without the evidence. The discipline is to do both at once.
+A *report* describes findings. Argumentative research argues for an interpretation of findings. The distinction is between *here is what the data shows* and *here is what follows from what the data shows, and here is why others who have looked at the same data are wrong or incomplete*.
 
-## The scholarly conversation — and why it matters
+A *literature review* summarizes existing work without taking a strong position. Argumentative research uses the literature in service of a position. The sources are not the argument; they are the evidence for the argument.
 
-The phrase *scholarly conversation* is one of the more useful metaphors in writing pedagogy. It frames research not as a static body of facts you must accumulate but as an ongoing argument among people working on the same questions.
+A *personal opinion essay with footnotes*. The footnotes have to be doing real work. A citation that does not change what the paragraph is arguing is decorative. Decorative citations are one of the clearest signals that a student has not yet understood the genre.
 
-Consider the food-sustainability conversation the EAT-Lancet Commission joined. The conversation includes:
+A *source summary*. If your draft reads as a series of paragraphs each describing what one source says, you have not yet built an argument. You have assembled a description of the literature. That is a preliminary step, not the final product.
 
-- Agronomists working on the carrying capacity of global agriculture.
-- Climate scientists working on the relationship between food systems and greenhouse gas emissions.
-- Nutritionists working on diet and health outcomes.
-- Economists working on the costs of food-system transitions.
-- Ethicists working on the moral standing of animals in food production.
-- Anthropologists working on the cultural dimensions of food choice.
-- Public-health researchers working on dietary patterns at population scale.
+<!-- → [TABLE: argumentative research vs. its near neighbors — columns: dimension, argumentative research, report, literature review, source summary — rows: relationship to sources, where the writer's position appears, what the reader is asked to do, what "good" looks like; student uses this to confirm they are building the right thing] -->
 
-These researchers do not always agree. They sometimes argue across disciplines using terms that mean different things to different fields. They cite each other, build on each other, refute each other, and occasionally ignore each other. The literature on food sustainability is *not* a single coherent body of knowledge. It is a multi-decade conversation, with people in it.
+---
 
-To enter that conversation as a student writer, you have to do three things:
+## The scholarly conversation — and why the metaphor matters
 
-**Find the conversation that matters for your specific question.** Not the whole literature on the topic — the specific sub-conversation that addresses what you are arguing. The EAT-Lancet Commission joined the *food-systems sustainability* sub-conversation, not the whole nutrition literature.
+The phrase *scholarly conversation* is one of the more useful metaphors in writing pedagogy because it reframes what research is. Research is not a static body of facts you must accumulate before you can write. It is an ongoing argument among people working on the same questions, and the argument is genuinely open — people in it disagree, cite each other, build on each other, refute each other, and occasionally talk past each other entirely.
 
-**Read enough of it to know what has been said.** You do not have to read everything. You have to read enough that the picture is not distorted. Eight to ten substantial sources, carefully chosen, is usually enough for a student paper if the choice has been good.
+The food-sustainability conversation the EAT-Lancet Commission joined includes agronomists modeling carrying capacity, climate scientists working on the relationship between food systems and greenhouse gas emissions, nutritionists working on diet and health outcomes, economists working on the costs of food-system transitions, ethicists working on the moral standing of animals in food production, anthropologists working on the cultural dimensions of food choice, and public-health researchers working on dietary patterns at population scale. These researchers do not agree. They sometimes argue across disciplines using the same terms to mean different things. The literature is not a single coherent body of knowledge. It is a multi-decade argument with people in it.
 
-**Position yourself in the conversation honestly.** You are joining as a new participant. Your contribution will be modest. The argumentative move is to say *given what others have argued, here is what follows that has not yet been adequately said*, with the *not yet adequately said* part being honest about what is new and what is restatement.
+<!-- → [INFOGRAPHIC: web diagram of the food-sustainability scholarly conversation — nodes labeled by discipline (agronomists, climate scientists, nutritionists, economists, ethicists, anthropologists, public-health researchers), with connecting lines indicating where disciplines cite each other or argue against each other; student should see that "the literature" is a network, not a monolith] -->
 
-The genre rewards the student who treats the existing literature with respect and who is honest about the modesty of their own contribution. It punishes the student who pretends to be saying something new that has actually been argued before, and it punishes the student who summarizes the literature without making their own argument.
+To enter a conversation like that as a student writer, three things are required.
 
-## The debatable thesis — sharper than the position argument
+Find the specific sub-conversation that addresses your question. Not the whole literature on the topic — the specific thread of argument you are joining. The EAT-Lancet Commission joined the food-systems sustainability conversation, not the whole nutrition literature. The specificity matters because you cannot engage with a conversation you have not actually read, and reading the whole literature on most topics is not possible in the time available for a student paper.
 
-The thesis for argumentative research is the position-argument claim from Chapter 12 with one additional requirement: it must be a thesis that the existing literature has *contested ground around*. If everyone in the relevant scholarly conversation already agrees on your thesis, it is not the kind of claim the genre is asking you to defend.
+Read enough of it that the picture is not distorted. You do not have to read everything. Eight to ten substantial sources, carefully chosen, is usually enough for a student paper if the sources represent the major positions in the conversation rather than all agreeing with each other.
 
-Some examples of theses that work in this genre.
+Position yourself in the conversation honestly. You are joining as a new participant. Your contribution will be modest. The argumentative move is to say *given what others have argued, here is what follows that has not yet been adequately said* — and the *not yet adequately said* has to be honest, not a claim to originality that the literature will immediately falsify.
 
-*Plant-based diets, as currently advocated in mainstream sustainability literature, will not achieve the climate goals their advocates project unless they are paired with specific policies to address the rebound effect — the tendency of cost savings from reduced meat consumption to be redirected into other emission-intensive consumption.* This thesis joins the food-sustainability conversation, takes a position that some scholars in the conversation have argued for and others have argued against, and commits the writer to a specific evidence base.
+---
 
-*The AI-detection tools currently deployed in college courses produce more harm than the educational fraud they prevent, and the harm falls disproportionately on non-native English-speaking students.* This thesis joins the academic-integrity conversation, takes a position, and commits the writer to specific evidence (false-positive rates, demographic breakdowns of who is flagged).
+## The thesis — sharper here than in the position argument
 
-*The cultural-artifact frame currently used in K-12 multicultural education flattens the cultural specificity it is meant to honor, by treating "culture" as a set of objects rather than as a set of practices that produce meaning.* This thesis joins the multicultural-education conversation, takes a position, and commits the writer to evidence about specific curricula and their effects.
+The thesis for argumentative research is the Chapter 12 claim with one additional requirement: there must be contested ground around it in the existing literature. If everyone in the relevant scholarly conversation already agrees on your thesis, you are restating a consensus, not advancing an argument.
 
-Each thesis names a specific scholarly conversation, takes a specific position inside it, and commits to specific evidence. Vague theses on settled questions or on questions whose evidence base doesn't exist will not work.
+What that looks like in practice. A thesis that works: *Plant-based diets, as currently advocated in mainstream sustainability literature, will not achieve the climate goals their advocates project unless paired with specific policies to address the rebound effect — the tendency of cost savings from reduced meat consumption to be redirected into other emission-intensive consumption.* This thesis joins the food-sustainability conversation, takes a position that some scholars have argued and others have pushed back against, and commits the writer to a specific evidence base about rebound-effect research.
 
-## Sources — what kind, where to find them, how to evaluate them
+A thesis that does not work: *Climate change and food production are connected in important ways.* That is a settled finding, not a debatable claim. The thesis has to occupy contested ground — it has to be a position that someone in the conversation is wrong about, or has underweighted, or has not yet adequately addressed.
 
-For argumentative research, source quality matters more than for the shorter position argument. The reader is going to check your citations. They are going to evaluate whether your evidence is credible. They are going to notice if your sources are all from one ideological camp or all from one journal.
+The specificity requirement is more demanding here than in the shorter position argument because the reader is going to verify your sources. A vague thesis — one that does not commit to a specific claim that the evidence could falsify — cannot be defended with evidence, because there is nothing specific enough to defend.
 
-A working source hierarchy for student work.
+---
 
-**Strongest:**
-- Peer-reviewed journal articles in established academic journals, especially in the fields directly relevant to your topic.
-- Reports from named research organizations with credentials in the field (the EAT-Lancet Commission, RAND, Pew, the National Academies, established think tanks with named contributors).
-- Government data and reports, when the agency producing them has methodological standards (BLS, CDC, EPA, Census Bureau, equivalent international agencies).
-- Books from academic presses (Oxford UP, Cambridge UP, university presses generally) by authors with credentials in the relevant field.
+## Source quality: a hierarchy that matters
 
-**Strong but with caveats:**
-- Major journalistic publications when reporting on academic findings (the *Times*, *Atlantic*, *Guardian*, *Wall Street Journal*) — but for the underlying claims, trace back to the primary source.
-- Trade publications in a specific field, when used for evidence about that field.
-- White papers from established research and policy organizations, with the organization's political position noted.
-- Substack newsletters by named experts with established credentials, when used for analysis rather than primary evidence.
+For argumentative research, source quality matters more than in shorter writing because the reader is going to evaluate whether your evidence is credible. A few observations about the hierarchy.
 
-**Weak as primary evidence:**
-- Wikipedia — useful for locating primary sources, never as a primary citation.
-- General-interest online media without clear editorial standards.
-- Books published by non-academic presses on academic topics, unless the author has academic credentials.
-- Blog posts by anonymous or pseudonymous writers.
-- Social media posts unless the post itself is the subject of analysis.
+Peer-reviewed journal articles in established academic journals are the strongest evidence for empirical claims — not because academics are always right, but because the peer review process provides some check on fabrication and some requirement to engage with the existing literature. The check is imperfect; the process has well-documented failures. But a peer-reviewed article in a field-appropriate journal is a fundamentally different kind of claim than an unreviewed blog post, and the reader will notice if you treat them the same.
 
-**Not usable as primary evidence:**
-- LLM outputs. Models produce citations that may not exist. Treat them as leads, not sources.
-- Material from organizations with explicit advocacy positions, except as evidence of what the organization argues.
-- Posts in clearly partisan publications, except as evidence of that partisan position.
+Reports from named research organizations with credentials in the field — the EAT-Lancet Commission, the National Academies, the RAND Corporation, the Pew Research Center, with named contributors — are strong secondary evidence, especially when the underlying methodology is described. Government data from agencies with methodological standards (the BLS, CDC, EPA, Census Bureau and international equivalents) is strong primary evidence for quantitative claims.
 
-The mix matters. A paper with eight peer-reviewed journal articles and no journalism reads as overly academic and possibly out of touch with current discourse. A paper with eight magazine articles and no peer-reviewed work reads as unsubstantial. The mix should match the topic — some topics live mostly in the academic literature, some mostly in the journalism, some across both.
+Major journalistic publications (the *Times*, the *Atlantic*, the *Guardian*, the *Wall Street Journal*) are useful for framing and context, and for identifying what primary sources to read — but for the underlying empirical claims, trace back to the primary source. The journalism is not the evidence; it is a pointer to the evidence.
 
-## Synthesis — the move that distinguishes argument from summary
+What will not work as primary evidence: Wikipedia, anonymous online media, LLM outputs. Models produce confident-sounding citations that may not exist. Treat them as leads that require verification, not as sources.
 
-The single most important craft skill in argumentative research is *synthesis*: the move that combines information from multiple sources to produce an interpretation that no single source produced on its own.
+The mix matters. Eight peer-reviewed articles with no journalism reads as disconnected from current discourse. Eight magazine articles with no peer-reviewed work reads as unsubstantial. The right mix depends on the topic — some questions live mostly in academic journals, some mostly in journalism, some across both.
 
-A worked contrast.
+<!-- → [TABLE: source quality hierarchy — columns: source type, strength as evidence, appropriate use, what to watch for — rows: peer-reviewed journal article, named-organization research report, government data, major journalism, trade publications, Wikipedia, LLM outputs; student scans this when evaluating whether a source earns its place in the paper] -->
 
-*Summary:*
+---
+
+## Synthesis: the move that distinguishes argument from summary
+
+The single most important craft skill in argumentative research is synthesis — the move that combines information from multiple sources to produce an interpretation that no single source produced on its own. Synthesis is what transforms a collection of citations into an argument.
+
+A contrast between summary and synthesis, using the food-systems literature.
+
+Summary:
 
 > Berners-Lee et al. (2018) argue that global food production is currently sufficient to meet human nutritional needs. Willett et al. (2019) propose specific dietary shifts to make food production sustainable. Poore and Nemecek (2018) document the environmental footprint of various food production systems.
 
-These sentences summarize. They report what each source said. They do not yet argue anything.
+Each sentence reports what one source said. Nothing is argued. A reader who read all three sources would learn nothing from these three sentences that they did not already know.
 
-*Synthesis:*
+Synthesis:
 
-> The Berners-Lee analysis shows that global food production is currently adequate to meet human nutritional needs (2018). What the food-systems literature has been less willing to confront is the implication: the sustainability problem is not one of production capacity but of distribution and consumption pattern. The Willett et al. EAT-Lancet Commission recommendations address consumption pattern but leave the distribution question largely untouched (2019); Poore and Nemecek's data on the environmental footprint of various food production systems (2018) sharpen the point by showing that the highest-impact systems are those serving the richest consumers in the global North.
+> The Berners-Lee analysis shows that global food production is currently adequate to meet human nutritional needs (2018). The implication — which the food-systems literature has been slower to confront — is that the sustainability problem is not one of production capacity but of distribution and consumption pattern. The Willett et al. EAT-Lancet Commission recommendations address consumption pattern but leave the distribution question largely untouched (2019); Poore and Nemecek's data on the environmental footprint of various food production systems (2018) sharpen the point by showing that the highest-impact systems are those serving the richest consumers in the global North.
 
-This is synthesis. It connects three sources to produce an argument none of them made alone. The argument — that the food-sustainability literature has under-addressed the distribution dimension — is the writer's contribution, made possible by reading the three sources in relation.
+This is synthesis. It connects three sources to produce an argument none of them made alone. The argument — that the food-sustainability literature has under-addressed the distribution dimension — is the writer's contribution, made possible by reading the three sources in relation to each other.
 
-Some practical advice for synthesis.
+Two diagnostic questions for every paragraph in an argumentative research paper. First: if I removed all the citations, would this paragraph still be making an argument? If yes, the citations are evidence. If no, you are describing the sources, not arguing. Second: does this paragraph say something that no single source it cites also says? If yes, that is likely synthesis. If no, you may be paraphrasing.
 
-**Read for connections, not just for content.** When you take notes on a source, note what other sources you have read are doing similar or contradictory work. The notes that say *this contradicts the claim Poore et al. make in their methodology section* are more useful than the notes that say *Poore et al. say X*.
+A practical note on taking notes. When you read a source, note what it does that other sources you have read do — or contradict. The note that says *this challenges the claim Poore et al. make in their methodology section* is more useful for synthesis than the note that says *Poore et al. argue X*. The relationship between sources is where your argument will live.
 
-**Look for patterns in disagreement.** Where do the sources you have read agree? Where do they disagree? Where are they talking past each other? Each of these is potentially the seed of your synthesis.
+<!-- → [INFOGRAPHIC: annotated side-by-side comparison of the summary paragraph and the synthesis paragraph above — arrows and labels showing what the synthesis version does that the summary version does not: writer's interpretive claim, connection between sources, argument that no single source made; student should be able to apply these labels to their own drafts] -->
 
-**Identify what is not yet adequately addressed.** Your contribution is often to name something the existing conversation has not yet named clearly. That naming is itself an argumentative move.
+---
 
-**Use the sources as evidence, not as ornament.** When you cite a source, the citation should be doing argumentative work. If a paragraph would be fine with the citation removed, the citation is decorative.
+## Quotation and paraphrase
 
-## Quotation and paraphrase — when to use each
+A brief technical note, because the mechanics matter.
 
-A small craft note.
+*Direct quotation* is appropriate when the specific wording matters — when the source has formulated something so precisely that paraphrase would lose the precision, or when the wording itself is evidence (a legal document, a historical speech, a specific formulation from a theoretical argument). Quote sparingly. A paper composed mostly of quotations has ceded its argument to the sources.
 
-**Direct quotation** is appropriate when the specific words matter — when the source's wording is itself part of the argument, or when paraphrasing would lose precision, or when the source has formulated something so well that any rewording would be weaker. Quote sparingly. A paper that is mostly quotation reads as cobbled together.
+*Paraphrase* is appropriate when you want the source's claim in the flow of your own argument, in your own voice. Real paraphrase means actually rewriting the claim, not rearranging the source's words with a few swapped. Paraphrase plus citation is the workhorse of argumentative research.
 
-**Paraphrase** is appropriate when you want the source's claim or finding in the flow of your own argument, in your own voice. Paraphrase requires that you actually rewrite the claim in your own words, not just rearrange the source's words. Paraphrase plus citation is the workhorse of argumentative research.
+*Summary* is appropriate for compressing a long source to its key contribution. Use it when you need the source's finding without the source's full apparatus.
 
-**Summary** is appropriate for compressing a long source down to its key contribution. Summary requires that you have understood the source well enough to compress it accurately. Summary plus citation is appropriate when the source's full argument is not what you need — just the key finding.
+Signal phrases deserve attention. *Willett (2019) argues that...* tells the reader who is speaking and cues them to the interpretive frame. *Walter Willett, professor of epidemiology at Harvard and chair of the EAT-Lancet Commission, argues that...* does the same work and additionally tells the reader why this source has standing to make the claim. The fuller version is useful when the source's authority is doing argumentative work, not just evidentiary work.
 
-**Block quotation** is appropriate when the passage is over four lines and the wording matters enough to preserve. Indent. No quotation marks at the start and end. Used sparingly. A paper with many block quotations reads as relying on the sources to do its work.
+---
 
-A signal-phrase note: when you introduce a quotation or paraphrase, your *signal phrase* should tell the reader who is speaking and, where useful, what their position or credentials are. *Walter Willett, professor of epidemiology at Harvard and chair of the EAT-Lancet Commission, argues that...* lands differently from *Willett (2019) argues that...*. Both have their place. The fuller signal phrase is more useful when the source's authority is doing argumentative work.
+## The AI problem in this genre
 
-## A worked spine — Lily Tran's "Food as Change"
+Argumentative research is the genre most vulnerable to subtle LLM misuse, because the model produces prose that looks like research without doing the research work. Three specific failure modes, which are worth naming precisely.
 
-The OpenStax source for this chapter offers a student paper by Lily Tran titled "Food as Change." The paper argues that the human species must shift to sustainable food systems providing healthy diets at minimal environmental cost. Tran's structure works as a model.
+*Fabricated citations.* Models routinely produce plausible-sounding citations to articles that do not exist. Not occasionally — routinely. Every citation must be one you have actually read. The model's confident reference to "Jenkins (2023) in the *Journal of Food Systems*" may be a specific hallucination. Verify every citation before it goes into your paper, without exception.
 
-Her introduction does three things in three paragraphs: it establishes the stakes (food production must increase 119 percent by 2050 to meet projected demand, per Berners-Lee et al.); it names the dual problem (current production produces unsustainable emissions and disproportionately serves wealthy populations); it states a thesis (sustainable food systems are necessary, achievable, and require action starting immediately).
+*Fabricated quotations.* Models will sometimes produce convincing-sounding quotations from real authors that those authors did not write. Use only quotes you have verified against the source you have in hand.
 
-Her body sections use subheadings — *The Coming Food Crisis*, *Areas of Concern* — to organize evidence into a synthesis. Inside each section, she paragraph-by-paragraph integrates sources, using paraphrase for most claims and direct quotation for two or three key passages.
+*Synthesis-shaped summary.* The model will produce prose that is formatted as synthesis — multiple sources mentioned in proximity, with a connecting argument — but is in fact a smoothing-together of summaries with no argumentative work underneath. Read everything the model produces as synthesis with the same skepticism you would bring to your own first draft, asking: is there an argument here that no single source made, or is this just adjacency?
 
-Her objection section — labeled *Dissenting Opinions* — engages three counterarguments, each cited to its strongest proponent (Purdy 2016; Lusk and Norwood 2009; Sparks 2019). For each, she concedes what the argument gets right and then refutes with evidence from her own sources.
+Where the model is genuinely useful in this genre:
 
-Her conclusion restates the thesis with the evidence accumulated behind it: *the necessary changes are also achievable*. The closing sentence is short. It lands.
+*Brainstorming search terms.* Ask it what the useful search terms are for your question. It is reasonably good at suggesting synonyms and related concepts you might not have generated. Use the suggestions as starting points for your actual database search, not as the search itself.
 
-The paper does the genre's work. The structure is teachable. Your paper will look different — different topic, different sources, different argument — but the moves will be the same.
+*Stress-testing the thesis.* Once you have a thesis, ask the model to name the strongest scholarly objections to it. Ask it to cite specific positions in the literature where it can — then verify everything named. The response is a checklist for what your paper has to engage with, not a finished objection section.
 
-## A note about AI
+*Diagnosing your draft.* Paste a draft section and ask where claims are being made without supporting evidence, or where a paragraph is summarizing rather than synthesizing. Models are reasonably accurate at both of these diagnoses.
 
-Argumentative research is the genre most vulnerable to subtle LLM misuse, because the model can produce prose that *looks* like research without doing the research work.
+---
 
-Useful moves:
+## What would change my mind
 
-*Brainstorming keywords for source search.* Ask the model: *I'm researching [topic]. What are the most useful search terms I should be using to find peer-reviewed work on this question?* The model is good at suggesting synonyms and related concepts you might not have generated on your own. Use the suggestions as a starting point for your actual database search; do not trust the model to know the literature.
+If careful study showed that students who treated argumentative research as essentially a long position argument with citations layered on top — skipping the synthesis discipline — produced papers that readers rated as equally strong, I would revise the chapter's central emphasis on synthesis as the distinguishing move. The evidence from teaching practice is that synthesis is what distinguishes strong argumentative research from competent position writing with footnotes — but the claim is not unfalsifiable, and I am describing a teaching observation, not a controlled experiment.
 
-*Stress-testing your thesis.* Once you have a thesis, ask: *Here is my thesis. What are the strongest scholarly objections to it? Cite specific positions in the literature where you can.* The model will sometimes name actual scholars and actual arguments. Verify everything. Use the response as a checklist for what your paper has to engage with.
+---
 
-*Identifying gaps in your evidence.* Paste a draft section and ask: *Where in this passage am I asserting without supporting evidence? Where could a reader plausibly demand a citation?* The model is reasonably good at this.
+## Still puzzling
 
-*Stress-testing your synthesis.* Paste a synthesis paragraph and ask: *Am I genuinely synthesizing these sources, or am I just listing them in proximity? What synthesis claim am I making, if any?* The model often catches the difference.
+The student who has done genuine synthesis sometimes produces prose that reads less smoothly than the student who has summarized the sources clearly. Genuine synthesis is harder to follow because it is doing more work; clean summary is easier to follow because it is doing less. The cleanest synthesis writers I have read — Cathy O'Neil, Atul Gawande, Zadie Smith on criticism — make it look easy in ways I cannot break down into teachable moves. I do not have a good answer for this. What I can say is that smooth synthesis, when it is achieved, is one of the most valuable things a student can learn to do in an academic writing course, and the difficulty is proportional to the value.
 
-Damaging moves:
+---
 
-*Generating sources.* Models routinely invent plausible-sounding citations to articles that do not exist. Every citation must be one you have actually read. No exceptions.
+## Exercises
 
-*Generating quotes from real sources.* The model will sometimes produce convincing-sounding quotations from real authors that those authors did not write. Use only quotes you have verified against the source.
+**Warm-up**
 
-*Drafting the synthesis.* The model will produce synthesis-shaped prose that is in fact a smoothing-together of source summaries with no argumentative work underneath. Read every "synthesis" the model produces with the same skepticism you would read your own first draft.
+1. *Conversation mapping.* Choose the topic you are planning to write on — or any topic you have been reading about recently. Identify the specific sub-conversation that addresses your question. List at least five different kinds of people (by discipline, profession, or stake) who are contributing to that conversation. For each, identify one specific position they tend to hold and one point of genuine disagreement with at least one other group on the list. (Tests: ability to see the literature as a conversation with multiple participants rather than as a unified body of knowledge — the prerequisite for synthesis.)
 
-*"Improving" the prose globally.* The model will tend to flatten the specifics of your sources and the sharpness of your claims in the name of "flow." Read every edited paragraph specifically for what got softened or generalized.
+2. *Citation diagnosis.* Take any three-paragraph passage from a draft you are working on, or from a previous paper. For each citation in the passage, ask: is this citation doing argumentative work — would the paragraph change if the citation were removed? Mark citations as *load-bearing* or *decorative*. For any decorative citations, either integrate the source into the argument or remove the citation. (Tests: the fundamental distinction between evidence and ornament in argumentative research — caught early, before the habit is built into a full draft.)
+
+3. *Summary-to-synthesis conversion.* Take the three-source summary paragraph from the synthesis section of this chapter and convert it to synthesis. Write your own version — using the same three sources — that produces an argument none of the three sources made alone. Then compare your synthesis paragraph to the chapter's example. What argument did you make? What argument did the chapter example make? Are they the same? (Tests: the core skill of synthesis in isolation, before applying it to the student's own sources.)
+
+**Application**
+
+4. *Source audit.* List all the sources you currently have for your argumentative research paper. For each, identify: source type (peer-reviewed article, organization report, journalism, etc.), position in the conversation (aligned with your thesis, opposed, complicating), and what argumentative work you expect it to do in your paper. Identify: do your sources represent the major positions in the conversation, or do they mostly agree with each other? What positions in the conversation are you not yet engaging? (Tests: ability to evaluate a source list as a map of the conversation rather than as a pile of supporting evidence — and to identify gaps before drafting.)
+
+5. *Thesis placement.* Write your thesis, then answer in writing: does it occupy contested ground in the scholarly conversation, or is it restating a consensus? Name the specific scholars or positions that contest it. If you cannot name them, you do not yet know the conversation well enough to argue inside it — identify what you need to read. (Tests: the thesis-quality check applied to the student's actual argument, not a hypothetical.)
+
+6. *Signal phrase practice.* Take three paraphrased claims from your current source notes. Write two signal-phrase introductions for each: one in the short form (*Author (year) argues that...*) and one in the fuller form that names the author's relevant credential or position in the conversation. For each pair, decide which version your paper needs, and explain why in one sentence. (Tests: the signal-phrase distinction applied to real sources — developing the habit of asking whether authority is doing argumentative work before deciding how to introduce a citation.)
+
+**Synthesis**
+
+7. *The two-diagnostic test.* Take a full section of your argumentative research draft — at least four paragraphs. Apply the two diagnostic questions from this chapter to every paragraph: (1) if I removed all the citations, would this paragraph still be making an argument? (2) does this paragraph say something that no single source it cites also says? Mark each paragraph as *argument with evidence*, *summary*, or *synthesis*. For every paragraph marked *summary*, revise it toward synthesis: what argument can you make by reading your sources in relation to each other that none of them makes alone? (Tests: the synthesis discipline applied to a full draft section — the most rigorous self-revision move in argumentative research.)
+
+8. *The conversation position statement.* Write a 200-word paragraph that places your thesis explicitly inside the scholarly conversation: who agrees with you, who disagrees, what the strongest opposing position is, and what your paper contributes that has not yet been adequately said. This paragraph is not the introduction to your paper — it is a positioning statement you write for yourself, to confirm you know where you stand before drafting. (Tests: whether the student has genuinely located their argument in the literature, or is writing a position argument with citations added after the fact.)
+
+**Challenge**
+
+9. *Write the paper.* Ten to twelve pages. Eight to ten sources, representing the major positions in the conversation. A thesis that occupies contested ground. Body sections that synthesize rather than summarize. An objection section that engages the strongest scholarly opposition with concession and evidence-anchored refutation. Use the LLM exercise to map the conversation and audit your source list before drafting. Verify every citation independently. The argument and the synthesis are yours.
+
+---
 
 ## LLM Exercise — Chapter 14
 
@@ -233,41 +240,29 @@ mine.
 - *For Cowork:* useful if your sources are PDFs or long files. Have Cowork read the source files before the conversation.
 - *For Claude Code:* not the right tool.
 
-**The instructive failure to expect:** the model will sometimes name scholars who do not actually exist or attribute positions to scholars who did not actually take them. Every named scholar and every cited argument must be verified before it goes into your paper.
-
-**Preview of next chapter:** the next chapter goes deeper on the research process itself — how to find, evaluate, and record sources methodically — using what you've now committed to in this chapter as the working topic.
-
-## What would change my mind
-
-If careful study showed that students who skipped the synthesis discipline — who treated argumentative research as essentially long position arguments with citations layered on top — produced equally strong papers as students who genuinely engaged with synthesis, I would revise the chapter's central emphasis. The evidence from teaching practice is that synthesis is the move that distinguishes strong argumentative research from competent position writing with footnotes, but the claim is not unfalsifiable.
-
-## Still puzzling
-
-The student who has done genuine synthesis sometimes produces prose that reads less smoothly than the student who has summarized the sources cleanly. The genuine synthesis is harder to follow because it is doing more work; the clean summary is easier to follow because it is doing less. I do not yet have a good way to teach students to write synthesis prose that is also smooth. The cleanest synthesis writers I have read — Cathy O'Neil, Atul Gawande, Zadie Smith when she does criticism — make it look easy in ways I cannot break down into teachable moves.
-
----
-
-*Sources cited above link to primary text where available. The chapter draws on the OpenStax* Writing Guide with Handbook *Chapter 14 modules as the underlying scaffold, with all rendering, examples, voice, and analytical claims reworked for this textbook's pedagogy.*
-
+**The instructive failure to expect:** the model will sometimes name scholars who do not actually exist, or attribute positions to scholars who did not take them. Every named scholar and every cited argument must be verified before it goes into your paper.
 
 ---
 
 ## 🕰️ AI Wayback Machine
 
-The ideas in this chapter didn't appear from nowhere. **Patricia Hill Collins** was working on *Black Feminist Thought* — argumentative research that entered a scholarly conversation, named its omissions, and built evidence-based claims from a standpoint the field had been treating as illegible decades before most people had heard of argumentative research. Here's a prompt to find out more — and then make it better.
+The ideas in this chapter didn't appear from nowhere. **Patricia Hill Collins** was working on *Black Feminist Thought* — argumentative research that entered a scholarly conversation, named its omissions, and built evidence-based claims from a standpoint the field had been treating as illegible — decades before most people had heard of argumentative research as a teachable genre. Here's a prompt to find out more — and then make it better.
 
 **Run this:**
 
 ```
-Who was Patricia Hill Collins, and how does their work on Black feminist thought and standpoint-based scholarly argument connect to argumentative research that joins a scholarly conversation? Keep it to three paragraphs. End with the single most surprising thing about their career or ideas.
+Who was Patricia Hill Collins, and how does their work on Black feminist
+thought and standpoint-based scholarly argument connect to argumentative
+research that joins a scholarly conversation? Keep it to three paragraphs.
+End with the single most surprising thing about their career or ideas.
 ```
 
 → Search **"Patricia Hill Collins"** on Wikipedia after you run this. See what the model got right, got wrong, or left out.
 
 **Now make the prompt better.** Try one of these:
 
-- Ask it to explain Collins's "matrix of domination" and how the framework changes what counts as legitimate evidence in social-science research
-- Ask: "Collins argues that intellectual work from a marginalized standpoint is *more*, not less, rigorous when the standpoint is named. How does that argument hold up against "objectivity" critiques?"
-- Add the framing: "Answer as if you're writing the methodology footnote of a paper that takes Collins's standpoint approach seriously"
+- Ask it to explain Collins's "matrix of domination" and how the framework changes what counts as legitimate evidence in social-science research.
+- Ask: "Collins argues that intellectual work from a marginalized standpoint is *more*, not less, rigorous when the standpoint is named. How does that argument hold up against 'objectivity' critiques?"
+- Add the framing: "Answer as if you're writing the methodology footnote of a paper that takes Collins's standpoint approach seriously."
 
 What changes? What gets better? What gets worse?
