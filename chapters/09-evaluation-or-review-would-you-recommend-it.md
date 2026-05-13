@@ -2,137 +2,191 @@
 
 *Earning the Right to Say "I Liked It" or "I Didn't."*
 
-For thirty-eight years, until she stopped reviewing books in 2017, Michiko Kakutani was the chief book critic of *The New York Times*. She read thousands of books in that time. She gave Norman Mailer some of the worst reviews of his career and Jonathan Franzen some of the best of his. She was so consequential that her negative reviews were credited with sinking sales of major novels, and her positive reviews with launching them. She did not give interviews. She did not appear at literary parties. She did not take phone calls from authors. The Pulitzer Prize for Criticism in 1998 went to her, and she did not show up to accept it in person.[^1]
+---
 
-[^1]: Michiko Kakutani's tenure at *The New York Times* ran from 1979 to 2017. Her [final review for the paper](https://www.nytimes.com/2017/07/27/books/review-democracy-orange-revolution-mariusz-szczygiel.html) ran in July 2017. The biographical detail summarized here draws on profiles by the *Times* and others over the course of her career.
+For thirty-eight years, until she stopped in 2017, Michiko Kakutani was the chief book critic of *The New York Times*. She read thousands of books. She gave Norman Mailer some of the worst reviews of his career. She gave Jonathan Franzen some of the best of his. Her negative reviews were credited with sinking sales of major novels; her positive reviews with launching them. She won the Pulitzer Prize for Criticism in 1998 and did not show up to accept it in person. She did not give interviews. She did not go to literary parties. She did not take calls from authors.[^1]
 
-The Kakutani approach is a particular position on what a review is for. Her position: *a book review is an act of judgment, made by someone whose job it is to read more carefully than the average reader, on behalf of readers who will then decide whether to spend their time*. The reviewer's job is not to be the author's friend. It is not to be the publishing industry's promoter. It is to read the book as a reader would, but more carefully, and to report what they found.
+[^1]: Kakutani's tenure at the *Times* ran from 1979 to 2017. Her [final review](https://www.nytimes.com/2017/07/27/books/review-democracy-orange-revolution-mariusz-szczygiel.html) ran in July 2017.
 
-You do not have Kakutani's career. You do not have thirty-eight years of reading. The assignment at the end of this chapter is not asking you to be her.
+The Kakutani approach is a specific position on what a review is *for*. Her position: a book review is an act of judgment, made by someone whose job it is to read more carefully than the average reader, on behalf of readers who will then decide whether to spend their time. The reviewer's job is not to be the author's friend. It is not to be the publishing industry's promoter. It is to read the book as a reader would, but more carefully, and to report what they found.
 
-But the move she made — *judgment, anchored in evidence, made on behalf of a reader who will use it to decide* — is the move the genre requires of you. The question is not whether you can write a review with Kakutani's authority. The question is whether you can write a review that earns its judgment.
+The question this chapter is asking is not whether you can write with Kakutani's authority — you cannot, yet, and neither could she when she started. The question is whether you can make the same *move* she made: a judgment, anchored in evidence, delivered to a reader who needs it to decide.
 
-## What separates a review from a reaction
+---
 
-You react to every text you encounter. You like it or you don't. You scroll on or you stay. You recommend it to a friend or you don't.
+## What makes a review different from a reaction
 
-A *review*, in the sense this chapter teaches, is what happens when you make those reactions visible, defensible, and useful to someone else.
+You react to everything you encounter. You liked the film or you didn't. You recommend the restaurant or you don't. You scroll on or you stay.
 
-The defensibility is the central move. A reaction does not have to be defensible — you can feel however you feel. A review claims its judgment is *correct*, or at least *better-supported than the opposite judgment*. That claim is what the writer is on the hook for.
+A review is what happens when you take that reaction and make it visible, defensible, and useful to someone else.
 
-Three things separate the review from the reaction:
+The defensibility is the center of it. A reaction does not have to be defensible — you can feel however you feel. A review claims its judgment is *better-supported than the opposite judgment*. That claim is what the writer is on the hook for.
 
-**Criteria.** A reaction says *I liked it*. A review says *here is what I was measuring it against, and here is how it measured*. The criteria are sometimes named, sometimes implied. The strongest reviews make them explicit early.
+Three things do the work.
 
-**Evidence.** A reaction can be vague. A review cites specifics — scenes, sentences, design choices, performances, decisions the work made that the reviewer is in a position to comment on. The evidence is the proof of the criteria's application.
+*Criteria.* A reaction says *I liked it*. A review says *here is what I was measuring it against, and here is how it measured up*. The criteria can be named explicitly or implied through the analysis. The stronger reviews tend to name them.
 
-**Judgment.** A reaction stops at the feeling. A review names the verdict — *this is worth your time*, *this is not*, *this is worth your time if you bring this background*. The verdict is supposed to be useful to a reader who has not yet experienced the work.
+*Evidence.* A reaction can be vague. A review cites specifics — scenes, sentences, design choices, performances, structural decisions the work made and the reviewer is in a position to evaluate. The evidence is what proves the criteria were actually applied to this work, not to some imagined version of it.
 
-A review that has criteria but no evidence is a thesis statement. A review that has evidence but no criteria is a description. A review that has both but no judgment is a literature paper. The genre needs all three.
+*Judgment.* A reaction stops at the feeling. A review names the verdict — *this is worth your time*, *this is not*, *this is worth your time if you are the kind of reader who brings this*. The verdict is supposed to be useful to a reader who has not yet encountered the work.
 
-## The assignment
+A review with criteria but no evidence is a thesis statement. A review with evidence but no criteria is a description. A review with both but no judgment is a literature paper. You need all three, and they have to be doing work together.
 
-You will write a 1,200 to 1,500 word review of a specific film, book, television series, podcast, play, or video game. The work has to be your own choice and recent enough that you can claim genuine engagement with it. The review must:
+<!-- → [INFOGRAPHIC: triangle diagram with "criteria," "evidence," and "judgment" at the three corners — center labeled "review"; outside each corner, label what you get when that element is missing: no evidence = "thesis statement," no criteria = "description," no judgment = "literature paper"; student should use this as a quick self-check before drafting] -->
 
-- Name the criteria you are using to evaluate the work, either directly or through context.
-- Provide specific evidence from the work — quoted passages, described scenes, references to specific moments.
-- Engage with the genre or tradition the work belongs to, demonstrating that your evaluation is anchored in what work of this kind is supposed to do.
-- Deliver a clear judgment that a reader could use to decide whether to engage with the work.
+To make this concrete: compare two short examples of the same review trying to review a restaurant.
 
-Two alternatives to the long-form essay:
+The first: *Service was slow. Food was okay. Three stars.*
 
-- A 3 to 5 minute podcast review, more conversational in register, that still includes the four moves.
-- A comparative review of two works in the same genre, focusing on one specific dimension (cultural context, character development, etc.) rather than trying to compare them whole.
+The second: *We arrived at 7:45 on a Wednesday and three tables ahead of us hadn't been bussed. Our appetizers took thirty-five minutes. The bread was good. The pasta was overcooked in a way that suggested it had been held under a heat lamp. The standard I'm applying here is weeknight service consistency and whether the kitchen can execute its own menu — and on those standards, this was a structural failure, not a single bad night.*
 
-## Where reviews come from — a useful history
+The first is a reaction. The second is a review. The second one a reader can actually use.
 
-The review as a genre is older than its current ubiquity. The Greek dramatic critic existed in the fifth century BCE. Pierre Bayle and the seventeenth-century journals of the Republic of Letters were reviewing books for an emerging European reading public. The newspaper review reached something like its modern shape in the nineteenth century. The film review followed once there were films.
+<!-- → [TABLE: reaction vs. review — columns: element, reaction, review — rows: criteria (absent vs. named), evidence (vague vs. specific), judgment (feeling vs. verdict a reader can use), usefulness to an undecided reader (none vs. high); student should be able to diagnose their own draft against this table] -->
 
-What changed in the last twenty-five years is not the genre. It is the *distribution* of the reviewer. Once, a small number of writers — Kakutani at the *Times*, Pauline Kael at the *New Yorker*, Roger Ebert at the *Chicago Sun-Times*, a handful at the BBC — produced most of the reviews most people read. Now, anyone with an account can post a review of anything to Yelp, Google, Goodreads, Letterboxd, Rotten Tomatoes, Amazon, TripAdvisor.
+---
 
-This is, on balance, good. More voices is better than fewer. The downside is that the average user-generated review is much weaker on the three moves I named — criteria, evidence, judgment — than the professional review tradition. A typical Yelp review is mostly reaction. The assignment is asking you to write something closer to the older tradition. Not because it is fancier. Because the moves are what make the review useful to a reader.
+## The genre is older than the internet but the internet changed it
 
-A specific contrast.
+The review as a form is not new. Greek dramatic criticism existed in the fifth century BCE. Pierre Bayle and the seventeenth-century journals of the Republic of Letters were reviewing books for an emerging European reading public. The newspaper review reached something like its modern shape in the nineteenth century. Film criticism followed once there were films.
 
-A typical user review of a restaurant: *Service was slow. Food was okay. Three stars.*
+What changed in the last twenty-five years is not the genre. It is who gets to practice it. Once, a small number of writers — Kakutani at the *Times*, Pauline Kael at the *New Yorker*, Roger Ebert at the *Chicago Sun-Times* — produced most of the reviews most people read. Now anyone with an account can post a review to Yelp, Google, Goodreads, Letterboxd, Rotten Tomatoes, Amazon. The distribution of the reviewer exploded.
 
-A review doing the work: *We were seated at 7:45 on a Wednesday and the kitchen was clearly understaffed — three tables ahead of us hadn't been bussed when we arrived, and our appetizers took thirty-five minutes. The bread was good. The pasta was overcooked, in a way that suggested it had been held under a heat lamp. The criteria here are weeknight service consistency and the kitchen's basic competence at its own menu, and on those criteria the restaurant fell short in ways that suggest a structural problem, not a single bad night.*
+This is mostly good. More voices is better than fewer. The downside is that most user-generated reviews are weaker on the three moves I named — criteria, evidence, judgment — than the professional tradition was. A typical Yelp review is almost entirely reaction. The assignment this chapter is building toward asks you to write in the older tradition: not because it is more prestigious, but because those moves are what make a review useful.
 
-The second one is doing real work. A reader can use it. The first one is not.
+---
 
-## Choosing the work and the criteria
+## Choosing what to evaluate and why that choice matters
 
-Two decisions before drafting.
+Two decisions before drafting, and both are harder than they look.
 
-**The work.** Pick something you can engage with closely. *Closely* means: you can describe a specific scene from a film, quote a specific sentence from a book, name the specific structural choice in a podcast episode. If you cannot do those things, you have not engaged closely enough. Watch the film again. Reread the chapter. Listen to the episode twice.
+The first is the work itself. Pick something you can engage with *closely*. Closely means: you can describe a specific scene, quote a specific sentence, name the specific structural choice in the third episode. If you cannot do those things, you have not been close enough to the work. Watch the film again. Reread the chapter. Listen to the episode twice.
 
-There is a sub-decision here. Some students reflexively pick a work they loved, intending to write a positive review. Others pick a work they hated, intending to write a takedown. Both are fine. But the most interesting review-writing assignments often come from picking a work that you have *mixed* feelings about — a film that succeeded in some ways and failed in others, a book whose first half worked and second half didn't. The mixed work forces you to make finer distinctions. The all-good or all-bad work tempts you toward generalization.
+There is a sub-decision here that students rarely think about explicitly. Picking something you loved — intending to write a positive review — is fine. Picking something you hated — intending to write a takedown — is also fine. The most interesting reviews, though, tend to come from mixed feelings: a film that succeeded in some ways and failed in others, a book whose first half worked and second half didn't. The mixed work forces you to make finer distinctions. The all-good or all-bad work tempts you toward generalization, and generalization is where reviews go to die.
 
-**The criteria.** Every work belongs to a genre, and every genre has conventions readers expect the work to meet, exceed, or violate deliberately. Your criteria come from the genre. A horror film is evaluated differently from a romantic comedy. A literary novel is evaluated differently from a thriller. A documentary podcast is evaluated differently from a comedy podcast.
+The second decision is the criteria. Every work belongs to a genre, and every genre has conventions readers expect the work to meet, exceed, or violate deliberately. Your criteria come from the genre. A horror film is evaluated differently from a romantic comedy. A documentary podcast is evaluated differently from a comedy podcast. A thriller is evaluated differently from a literary novel.
 
-When you name your criteria, be specific to the genre. *Was it good?* is not a criterion. *Did it execute the slasher subgenre's promised tension between dread and the reveal?* is a criterion. *Did the novel earn the late shift in narrative perspective by establishing the rules for whose interiority we had access to?* is a criterion. *Was the documentary podcast's reliance on a personal narrator a strength or a substitute for archival evidence?* is a criterion.
-
-A useful diagnostic before drafting. Try to finish this sentence:
+There is a useful diagnostic before drafting. Try to complete this sentence:
 
 *The criteria I am using to evaluate this work are [name them], and these criteria apply because the work belongs to [name the genre or tradition].*
 
-If the sentence doesn't finish concretely, you have not yet decided what you are measuring.
+If the sentence doesn't complete concretely, you have not yet decided what you are measuring. Do not draft until it does.
 
-## A worked example — the move Kakutani made
+The weak versions of this sentence sound like: *I am evaluating whether it was good*, or *I am evaluating whether it was interesting*. Those are not criteria. *Did the horror film's pacing execute the genre's promised tension between dread and revelation?* is a criterion. *Did the novel earn its late shift in narrative perspective by establishing, earlier, whose interiority the reader had access to?* is a criterion. *Did the documentary podcast's reliance on a personal narrator work as a structural argument, or was it a substitute for archival evidence the reporter didn't have?* is a criterion.
 
-For the rest of her review writing career, Kakutani approached books with what she called *reading them as a reader would*. She did not adopt a single grand criterion. She tended to ask, of each book, what the book seemed to be *trying to do*, and then whether it had succeeded.
+Specificity is the test. A criterion specific enough to rule something out is a real criterion. A criterion that could apply to every work in a genre is not doing useful work.
 
-That move — *evaluate the work against what it set out to do, not against what you wish it had set out to do* — is the single most useful piece of craft advice for review writing. It rules out a common failure mode: criticizing a romantic comedy for not being a war drama, criticizing a horror novel for not being literary fiction, criticizing a podcast about cooking for not addressing systemic problems in agriculture.
+<!-- → [TABLE: weak vs. strong criteria — two columns, six rows — left column: weak generic criteria ("was it good," "was it interesting," "was it emotional"); right column: rewritten as specific genre-anchored criteria; student should see the pattern of what makes the right column stronger and apply it to their own] -->
 
-The move has a limit. Some works have aims you can legitimately object to. A film that is well-made but trades in racist stereotypes is well-made *and* doing harm. A novel that achieves its propagandistic effect efficiently is achieving propaganda. The Kakutani move — measure against intent — does not absolve you of judging the intent. It just requires that the two judgments be separate.
+---
 
-In practice: in the same review, you can write *the work succeeded at what it set out to do* and *what it set out to do is morally objectionable, and here is why*. Both are legitimate moves. Mixing them up — calling a work bad because you disagree with its politics, when the work itself was made competently — is one of the most common reviewer failures, and the one that erodes the reviewer's credibility fastest.
+## The most useful piece of craft advice for this genre
 
-## Praise, critique, and the trap of tone
+Kakutani tended to ask, of each book, what it seemed to be *trying to do*, and then whether it had succeeded on those terms. Not on her preferred terms. Not on the terms of the genre she wished the book had been working in. On the book's own terms.
 
-Two tonal failures are common in student reviews.
+That move — *evaluate the work against what it set out to do, not against what you wish it had set out to do* — rules out one of the most common review failures: criticizing a romantic comedy for not being a war drama, criticizing a horror novel for not being literary fiction, criticizing a podcast about cooking for not addressing systemic problems in agriculture. All three of those are real failure modes in published criticism, and they all come from the same error: the reviewer's preference substituted for the work's intent.
 
-**The hagiographic positive.** The writer loves the work; the prose tells you so, repeatedly; the review is more enthusiastic than evidentiary. The reader, sensing the writer has not done the analytical work, becomes skeptical even of judgments they would otherwise have shared.
+The discipline required is to first establish, as a factual matter, what the work was going for — from genre conventions, from the work's own internal signals, from authorial statements where they are relevant — and then to measure the execution against that.
 
-**The cheap takedown.** The writer hates the work; the prose is sarcastic; the review is more clever than evidentiary. The reader, even one who disliked the work, withdraws.
+The move has a limit, and the limit is worth naming clearly. Some works have aims you can legitimately object to, independent of whether they achieved them. A film that is competently made but traffics in racist stereotypes is competently made *and* doing harm. A novel that achieves its propagandistic effect efficiently is achieving propaganda, efficiently. The Kakutani move does not require you to find that morally neutral. It just requires that the two judgments — execution and intent — be kept separate, so that you are not calling the work badly made when what you actually mean is that you disagree with its purpose.
 
-Both failures share a common cause: the writer trusted the *feeling* to do the argument's work. The feeling won't. The argument is in the criteria and the evidence. The feeling is the engine, not the rendering.
+In practice, you can hold both in the same review: *the work succeeded at what it set out to do, and what it set out to do is problematic for the following specific reasons.* Both of those are claims you can support with evidence. Conflating them — calling a work badly made because its purpose is objectionable — is one of the fastest ways to erode a reviewer's credibility with a reader who shares the reviewer's values but not the reviewer's conflation.
 
-The fix to both is to *write toward your own skeptical reader*. Not a hostile reader — a reader who is undecided and curious. The undecided reader is not going to be persuaded by enthusiasm or sarcasm. They are going to be persuaded by *specifics that they can verify against their own future experience with the work*. Write for that reader and the tonal failures resolve themselves.
+<!-- → [INFOGRAPHIC: two-layer diagram — top layer: "execution judgment" (did the work succeed at what it was trying to do?); bottom layer: "intent judgment" (is what it was trying to do worth doing?); an arrow between them labeled "keep these separate"; student should see that a review can contain both, but only if each is supported by its own evidence] -->
 
-A small craft note. Negative reviews tend to be easier to write entertainingly than positive reviews. This is because skepticism comes with linguistic resources — the sarcasm, the eyebrow, the apt quotation undermined — that praise does not. The result is that many reviewers default to negative pieces because they are more fun to write. That is fine, occasionally. As a habit, it produces a reviewer who has lost the ability to write praise convincingly. The best critics — Kakutani, Roger Ebert, Pauline Kael, Wesley Morris — can do both. The discipline is to develop both.
+---
 
-## A worked spine — *Black Panther* and what a review can hold
+## The two tonal failures
 
-Consider one student approach to a film review, drawn from the chapter's source. The student chose *Black Panther* (2018). The angle: the film's importance to representation in mainstream cinema. The criteria: authenticity of Black characters, fidelity to a specific cultural vision, and the film's relationship to the broader project of Black filmmakers reclaiming the cinematic frame.
+Most student reviews fall into one of two tonal traps, and both have the same cause.
 
-The structure had room for both praise and reservation. The praise was for the specific choices the film made — costuming, music, dialect work, casting, the visual rendering of Wakanda. The reservation was for the specific places those choices were undercut by the constraints of operating inside the Marvel Cinematic Universe — the requirement that the film resolve through superhero conflict, the franchise's tonal conventions.
+The first is the enthusiastic positive. The writer loves the work; the prose tells you so repeatedly; the review is more effusive than evidentiary. The reader, sensing the writer has not done the analytical work, becomes skeptical even of judgments they might otherwise have shared.
 
-The review treated the film against what it set out to do (a Marvel film with a particular cultural argument) and also against the wider stakes of representation in the industry. Those are two layers, and the review held both. That is the kind of work a strong review can do at the student scale.
+The second is the cheap takedown. The writer hates the work; the prose is sarcastic and clever; the review is more entertaining than evidentiary. The reader, even one who also disliked the work, withdraws.
 
-## A note about AI
+Both failures share a cause: the writer trusted the feeling to do the argument's work. The feeling won't. The argument lives in the criteria and the evidence. The feeling is the engine; it is not the rendering.
 
-The review genre is the genre where the LLM is most likely to produce something that *reads like a review* without doing review work.
+The fix to both is to write toward a *skeptical* reader — not a hostile reader, but an undecided one. A reader who has not seen the film, has not read the book, is genuinely trying to decide whether to spend the time. That reader is not going to be persuaded by enthusiasm or sarcasm. They are going to be persuaded by specifics they can verify against their own future experience of the work. Write for that reader.
 
-The reason is structural. An LLM has been trained on millions of reviews. It has internalized the surface features. Asked to "write a review of X" it will produce prose with all the conventions of the genre — the opening hook, the brief summary, the analysis, the verdict. The prose will look professional. It will, almost always, lack two things: *engagement with the specific work* and *criteria specific to the work's genre*.
+A small observation about negative reviews. They tend to be easier to write entertainingly than positive reviews. Skepticism comes equipped with linguistic resources — the sarcasm, the raised eyebrow, the apt quotation used to deflate — that praise does not. The result is that many writers default to negative pieces because they are more fun to produce. That is fine, occasionally. As a habit, it builds a reviewer who has lost the ability to write praise convincingly, which is half the job. The best critics — Kakutani, Roger Ebert, Pauline Kael, Wesley Morris — can do both. Both require evidence and criteria. Both require the discipline to write toward the undecided reader.
 
-The model has not watched the film. It has not read the book this week. It has read other reviews of the work, and its prose averages those reviews into something coherent. If the consensus of prior reviews was wrong — and consensus often is — the model's review will be wrong in the same direction.
+---
 
-The places the LLM is useful in review writing:
+## The AI problem in review writing specifically
 
-- After you have a draft, ask the model to identify which of your claims are not supported by specific evidence in the draft. Models are good at spotting *I liked* sentences without an accompanying *because*.
-- After you have your criteria, ask the model to argue against your criteria — *here are the standards I am using; what would a reviewer using different standards say*? The pushback often improves your evidence.
-- After your verdict, ask the model to construct the strongest case for the opposite verdict. *Make the strongest case that this film is overrated, even if I disagree.* The exercise sharpens your own argument.
+The review is the genre where an LLM is most likely to produce something that *reads like a review* without doing review work, and the reason is structural.
 
-The places the LLM does damage:
+A model has been trained on millions of reviews. It has internalized their surface features thoroughly. Ask it to write a review of a film and it will produce prose with all the genre conventions: the opening hook, the brief summary, the analysis, the verdict. It will look professional. It will, almost always, lack two things.
 
-- Drafting any part of the review where the evidence is supposed to be your specific encounter with the work.
-- Generating *plausible* quotes from a book you have read. The fabrication risk is high; the verification cost is high.
-- "Improving" the prose in ways that make your criteria less specific. The model tends to generalize criteria toward genre-conventional language. Notice and resist.
+The first is engagement with the specific work. The model has not watched the film this week. It has read other reviews of the film, and its output averages those reviews into something coherent. If the prior consensus was wrong — and consensus often is — the model's review will be wrong in the same direction, confidently.
+
+The second is criteria specific to the genre. The model knows the vocabulary of criticism but tends to reach for generic evaluative language when specific criteria would do more work. The result is prose that sounds like criticism without performing the analytical acts criticism depends on.
+
+Where the model is genuinely useful:
+
+After you have a draft, ask it to identify which of your claims are not supported by specific evidence in the draft. Models are accurate at spotting *I liked* sentences without an accompanying *because*, and they will tell you which arguments are floating without support.
+
+After you have your criteria, ask it to argue *against* them — *here are the standards I am using; what would a reviewer using different standards say?* The pushback often exposes the assumptions underneath your criteria, which makes your evidence more precise.
+
+After your verdict, ask it to construct the strongest case for the opposite verdict. *Make the strongest argument that this film is overrated, even if I disagree.* The exercise sharpens your own argument, especially if you push past the model's tendency to soften the opposition.
+
+Where the model does damage:
+
+Any part of the review where the evidence is supposed to be your own specific encounter with the work. The model has not had that encounter.
+
+Quote generation. The model will sometimes produce plausible-sounding quotations from a book you have discussed. The fabrication risk is high. If you are using quoted material from a work, go back to the work and get the actual quote.
+
+Prose revision that generalizes your criteria. Models tend to smooth specific criteria toward genre-conventional language. *The film's handling of inherited trauma* becomes *the film's emotional depth*. The specific version was doing real analytical work. The general version is not. Notice when this is happening and resist it.
+
+<!-- → [TABLE: LLM use in review writing — columns: task, verdict, reason — rows: identify unsupported claims in your draft, argue against your criteria, construct the strongest opposite verdict, draft any part of the review, generate quotes from a work you've read, revise prose toward more specific criteria; student scans this before opening the model] -->
+
+---
+
+## What would change my mind
+
+If a careful study showed that reviews structured around explicit criteria were rated by readers as less useful than reviews structured around the reviewer's voice and impressions — that naming the criteria killed the prose, distanced the reader, made the verdict feel mechanical rather than earned — I would revise the central craft emphasis of this chapter. The evidence from working criticism points the other way: the critics who lasted, and whose work readers returned to, tended to make their criteria visible, even when they did so with a light hand. But the claim could be wrong, and the chapter could be over-mechanizing what is, at its best, a fluid genre.
+
+---
+
+## Still puzzling
+
+The case where a work succeeds at what it set out to do *and* what it set out to do is morally objectionable is genuinely difficult to teach as craft. The advice in this chapter — *keep the two judgments separate* — is correct but insufficient. Some students manage it immediately; others collapse the two judgments no matter how the instruction is framed. I do not know whether that collapse is a discernment problem — something that develops by reading criticism over time — or a structural problem with the way I am presenting the distinction. The honest answer is that I suspect it is the first, and that some things cannot be taught faster than they can be learned.
+
+---
+
+## Exercises
+
+**Warm-up**
+
+1. *Reaction or review?* Find three short user reviews of the same film, book, or restaurant — from Letterboxd, Goodreads, Yelp, or Google. For each one, identify whether it is doing review work (criteria present, evidence specific, judgment usable by an undecided reader) or reaction work (feeling reported, no criteria named, no evidence cited). For any that are doing review work, name the criteria the writer is using, even if the writer never named them explicitly. (Tests: ability to distinguish the two modes in real examples before applying the distinction to your own writing.)
+
+2. *The diagnostic sentence.* Choose a work you are considering reviewing. Complete this sentence in writing: *The criteria I am using to evaluate this work are [name them], and these criteria apply because the work belongs to [name the genre or tradition].* If the sentence completes in fewer than thirty words, the criteria are probably too generic. Revise until the criteria are specific enough that they would rule something out. (Tests: ability to name real criteria before drafting, and to distinguish specific from generic ones.)
+
+3. *Reaction-to-review translation.* Take your most recent Letterboxd, Goodreads, or similar review — or, if you haven't written one, a reaction you could have written about something you saw or read recently. Rewrite it as a review: add the criteria you were implicitly using, add one piece of specific evidence from the work for each criterion, and sharpen the verdict so a reader who hasn't seen the work could use it to decide. (Tests: the full three-part move applied to material you already have a genuine reaction to.)
+
+**Application**
+
+4. *The Kakutani move.* Choose a work — any work — and write two short paragraphs. The first: what the work was *trying* to do, based on its genre conventions and internal signals. The second: whether it succeeded on those terms. The two paragraphs should be separable — the first is a description of intent, the second is a judgment of execution. If you find them collapsing into each other, the Kakutani move is not yet in your hands. (Tests: ability to hold intent and execution as separate analytical objects before combining them in a full review.)
+
+5. *The undecided reader test.* Take a draft of your review — or the review you wrote in exercise 3 — and read it as if you are an undecided reader who has not yet seen the work. Mark every sentence where you are being asked to take the writer's enthusiasm or sarcasm on faith, without specific evidence to verify it. For each marked sentence: either add the specific evidence that earns the claim, or cut the claim. (Tests: ability to diagnose and repair the tonal failure of trusting feeling to do argument's work.)
+
+6. *The opposite verdict.* Take your current working verdict on the work you are reviewing and write a paragraph making the strongest case for the opposite judgment — using your own evidence, interpreted differently. Then write one sentence identifying what assumption you and the opposite-verdict reviewer do not share. That assumption is probably one of your criteria, unstated. Name it explicitly in your review. (Tests: the counter-review exercise from the LLM exercise applied as a solo analytical move, which sharpens criteria more than any other single practice.)
+
+**Synthesis**
+
+7. *Two-layer judgment.* Choose a work where you have both an execution judgment (did it succeed at what it was trying to do?) and an intent judgment (is what it was trying to do worth doing, morally or artistically?). Write a 300-word draft that holds both judgments, keeps them clearly separated, and supports each with specific evidence. Then identify, in one sentence, where the two judgments could be confused — and how your draft prevents the confusion. (Tests: the hardest move in this chapter — holding the execution/intent distinction under the pressure of actual drafting.)
+
+8. *The criteria audit.* Take your full review draft and underline every evaluative claim. For each underlined claim, write in the margin: (a) which criterion it applies, and (b) what specific evidence from the work supports it. Any claim without both a criterion and evidence is unsupported. Revise until every evaluative claim passes the audit. (Tests: whether the student can apply the criteria/evidence/judgment framework to their own prose in revision, not just in planning.)
+
+**Challenge**
+
+9. *Write the review.* 1,200–1,500 words. One work you have engaged with closely. Criteria named by the second paragraph. Specific evidence from the work throughout. A verdict a genuinely undecided reader could use to decide. Use the LLM exercise to build the analytical scaffold before drafting if you want the criteria inventory and counter-verdict worked out in advance. The review itself is yours.
+
+---
 
 ## LLM Exercise — Chapter 9
 
-**What you're building:** a draft of your review's analytical scaffold — criteria, evidence list, verdict — before you draft the prose.
+**What you're building:** a draft of your review's analytical scaffold — criteria, evidence list, verdict — before you write the prose.
 
 **Tool:** [Claude.ai](https://claude.ai/) chat. A Claude Project recommended if you want to keep your notes on the work in one place across drafting and revision.
 
@@ -158,9 +212,9 @@ response between steps.
 2. For each criterion you just listed, identify the strongest piece
    of evidence in my notes that supports a positive judgment on that
    criterion, and the strongest piece of evidence that supports a
-   negative judgment. If I don't have evidence for one direction or
-   the other, say so — that means I need to engage with the work
-   more closely before drafting.
+   negative judgment. If I don't have evidence for one direction,
+   say so — that means I need to engage with the work more closely
+   before drafting.
 
 3. What is the work trying to do? Describe it in two sentences,
    based on my notes and on the work's apparent genre. (This is the
@@ -182,45 +236,33 @@ Here are my notes:
 
 **How to adapt this prompt:**
 
-- *For ChatGPT or Gemini:* works as written. Both will sometimes try to write the review after step 3. Push back.
-- *For Cowork:* useful if your notes on the work are extensive. Keep them in a file Cowork can read.
+- *For ChatGPT or Gemini:* works as written. Both will sometimes try to draft the review after step 3. Push back.
+- *For Cowork:* useful if your notes on the work are extensive. Keep them in a file Cowork can read alongside the prompt.
 - *For Claude Code:* not the right tool.
 
-**The instructive failure to expect:** when you ask the model to construct the opposite case, it will sometimes water it down to keep the verdict balanced. Push: *"Don't balance. Make the strongest case for the opposite. Pretend you genuinely hold that view."* The strong version is the one worth thinking through.
-
-**Preview of next chapter:** the next chapter pivots from evaluating to reporting from facts. The discipline of *evidence-anchored judgment* carries forward; the genre shifts from your taking a position on a finished work to your assembling an argument from a body of evidence.
-
-## What would change my mind
-
-If a careful study showed that reviews structured around explicit criteria were rated by readers as *less useful* than reviews structured around the reviewer's voice and impression — that explicit criteria killed the prose, distanced the reader, made the verdict feel mechanical — I would revise the central craft emphasis of this chapter. The evidence from working criticism points the other way: the best critics name their criteria, even when they do so subtly. But the claim could be wrong, and the chapter's pedagogy could be over-mechanizing what is, at its best, a fluid genre.
-
-## Still puzzling
-
-The case where a work succeeds at what it set out to do *and* what it set out to do is morally objectionable is genuinely difficult to teach. The Kakutani move — *evaluate against intent* — does most of the work, but it leaves the reviewer with two separate judgments to hold simultaneously, and most student drafts collapse them into one. The advice in the chapter — *keep them separate* — is right but not yet sufficient. Some of this is a discernment that may have to be developed by reading rather than by a textbook section.
-
----
-
-*Sources cited above link to primary text where available. The chapter draws on the OpenStax* Writing Guide with Handbook *Chapter 9 modules as the underlying scaffold, with all rendering, examples, voice, and analytical claims reworked for this textbook's pedagogy.*
-
+**The instructive failure to expect:** when you ask the model to construct the opposite case, it will often soften the opposition to seem balanced. Push: *"Don't balance it. Make the strongest case for the opposite verdict. Pretend you genuinely hold that view."* The strong version is the one worth thinking through.
 
 ---
 
 ## 🕰️ AI Wayback Machine
 
-The ideas in this chapter didn't appear from nowhere. **Wesley Morris** was working on criticism that argues for itself — Pulitzer-winning reviews of film, music, and culture that make the criteria visible on the page rather than hidden behind taste decades before most people had heard of the evaluation or review genre. Here's a prompt to find out more — and then make it better.
+The ideas in this chapter didn't appear from nowhere. **Wesley Morris** was working on criticism that argues for itself — Pulitzer-winning reviews of film, music, and culture that make the criteria visible on the page rather than hidden behind taste — decades before most people had heard of evaluation or review as a teachable genre. Here's a prompt to find out more, and then make it better.
 
 **Run this:**
 
 ```
-Who was Wesley Morris, and how does their work on evidence-based criticism in film and culture writing connect to writing a review that grounds judgment in evidence? Keep it to three paragraphs. End with the single most surprising thing about their career or ideas.
+Who was Wesley Morris, and how does their work on evidence-based criticism
+in film and culture writing connect to writing a review that grounds
+judgment in evidence? Keep it to three paragraphs. End with the single
+most surprising thing about their career or ideas.
 ```
 
 → Search **"Wesley Morris"** on Wikipedia after you run this. See what the model got right, got wrong, or left out.
 
 **Now make the prompt better.** Try one of these:
 
-- Ask it to break down the structure of a specific Wesley Morris review — pick one from his *Still Processing* podcast era or his recent NYT magazine essays — paragraph by paragraph
+- Ask it to break down the structure of a specific Wesley Morris review — pick one from his *Still Processing* podcast era or his recent *NYT Magazine* essays — paragraph by paragraph.
 - Ask: "What does Morris do when he wants to argue that a popular work is bad — and what does he refuse to do?"
-- Add the constraint: "Answer using one Morris-style sentence — long, accumulating, syntactically alive — that would actually appear in a Morris review"
+- Add the constraint: "Answer using one Morris-style sentence — long, accumulating, syntactically alive — that would actually appear in a Morris review."
 
 What changes? What gets better? What gets worse?
