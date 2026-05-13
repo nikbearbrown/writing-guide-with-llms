@@ -2,147 +2,171 @@
 
 *Composing for a Reader Who Will Not Wait.*
 
-A scene from a few years ago that is now ordinary.
+---
 
-You open your phone. You scroll. In the first thirty seconds you encounter: a photograph with a caption; an autoplay video with hard-burned subtitles; an animated infographic; a podcast clip cued to its most provocative thirty seconds; a meme that consists of an image, a top-text line, and a bottom-text line; a TikTok with music, text overlays, and the creator speaking; a tweet thread with embedded screenshots; a Substack newsletter with a hero image; a sponsored post built as a sequence of swipeable cards.
+Open your phone. Scroll for thirty seconds. In that time you will probably encounter: a photograph with a caption; an autoplay video with burned-in subtitles; an animated infographic; a podcast clip cued to its most provocative moment; a meme that is an image with two lines of text; a TikTok with music, text overlays, and the creator speaking; a tweet thread with embedded screenshots; a newsletter with a hero image; a sponsored post built as swipeable cards.
 
-Each of these is a piece of writing. Each of them is doing rhetorical work. None of them is text alone.
+Every one of those is a piece of writing. Every one is doing rhetorical work. Not one of them is text alone.
 
-The communication environment most of your readers are in for most of the day is *multimodal* — combining text with image, video, audio, layout, motion, sound. The writing chapter you finished a few weeks ago — the textual analysis, the position argument, the report — was about a single mode. This chapter is about combining modes deliberately. Not because you are required to. Because the work you produce, if it leaves the classroom, will almost certainly live in a multimodal environment.
+This is the communication environment your readers are in for most of their waking hours. Writing instruction has spent decades on a single mode — prose — because prose is the mode of formal education, of the essay, of most professional writing. But the pieces you produce after this course, if they leave the classroom, will almost certainly live in a multimodal environment. Understanding how to compose deliberately in that environment is not an optional add-on. It is increasingly the core skill.
 
-The assignment at the end of this chapter is a multimodal advocacy project. You will choose a cause or issue you care about and produce a piece — a photo essay, a short video, an infographic, a podcast, a blog post with embedded images, a poster, a sequence of social media posts — that argues for action. The genre is your choice. The discipline of combining modes intentionally is the assignment.
+---
 
-## What multimodal composition actually is
+## What modes are, and what combining them does
 
-The five *modes* of communication, in the formulation that has become standard:
+Five modes of communication are recognized in the framework that has become standard.
 
-**Linguistic.** Written or spoken language. Words on a page, words in a speech, words in a caption.
+*Linguistic* — written or spoken language. Words on a page, words in a caption, words in a speech.
 
-**Visual.** Still images, video, design, layout. The arrangement of elements in space.
+*Visual* — still images, video, design, layout. The arrangement of elements in space.
 
-**Audio.** Speech, music, sound effects, silence. The arrangement of elements in time and sound.
+*Audio* — speech, music, sound effects, silence. The arrangement of elements in time and sound.
 
-**Spatial.** Where things are placed. Margin. Whitespace. Proximity. The layout of a page or screen as a meaning-bearing element.
+*Spatial* — where things are placed. Margin, whitespace, proximity. The layout of a page or screen as a meaning-bearing element in itself.
 
-**Gestural.** Body language, facial expression, movement. In video, the creator's gestures. In a photograph, the captured gesture of the subject.
+*Gestural* — body language, facial expression, movement. In video, the creator's gestures. In a photograph, the captured gesture of the subject.
 
-Almost every text you encounter outside an old-school essay uses at least two of these modes. Most use three or more. A TikTok uses all five.
+Almost every text you encounter outside a traditional essay uses at least two of these. Most use three or more. A TikTok uses all five.
 
-*Multimodal composition* is the practice of combining modes deliberately to produce meaning none of them could produce alone. The crucial word is *deliberately*. Multimodal composition is not the same as throwing images into a document. The modes have to be cooperating.
+<!-- → [INFOGRAPHIC: a single TikTok frame with each of the five modes labeled and pointed at the specific element that carries it — creator's voice for audio, text overlay for linguistic, creator's gesture for gestural, screen layout for spatial, thumbnail/visual content for visual; student should be able to identify all five modes operating simultaneously before being asked to compose with them] -->
 
-## The rhetorical situation, in a multimodal frame
+Multimodal composition is the practice of combining modes deliberately to produce meaning none of them could produce alone. The word *deliberately* is the whole point. Throwing an image into a document is not multimodal composition. The modes have to be cooperating — each doing work the others cannot do as well, the whole being more than the parts.
 
-The seven elements of the rhetorical situation from Chapter 2 — author, audience, purpose, stance, context, culture, genre — apply to multimodal work, with extensions.
+Here is what cooperation looks like. Suppose you are making an advocacy piece about lead poisoning in older urban housing. The *linguistic mode* lays out the argument: here are the facts, here is the claim, here is what you should do. The *visual mode* — a photograph of a specific home in a specific neighborhood, paint peeling — makes the abstract specific. A data visualization shows lead levels in specific urban water systems against the EPA threshold. The *audio mode* — a sixty-second clip of a parent whose child was lead-poisoned, their actual voice — gives the lived experience that numbers cannot give. The *spatial mode* — layout that places the interview audio beside the parent's photograph, the data beside the text it supports — signals what is evidence for what. The *gestural mode* — the way the parent speaks, the pauses, the way they hold the child in the photograph — carries meaning that no caption could carry.
 
-For the author, *what kinds of multimodal work can you actually produce*? You can write a blog post. Can you record a podcast? Edit a video? Design an infographic? Build a website? The medium constraint is real. A strong piece in a medium you can actually execute is better than a weak attempt in a medium that is beyond your current skill.
+Each element is doing what no other does as well. The piece, taken together, is doing what no single mode could do alone.
 
-For the audience, *what platform are they reading on*? A piece read on a phone differs from a piece read on a laptop differs from a piece consumed in a podcast app while jogging. The platform affects what kind of multimodal work lands.
+The term for this is *layering* — combining modes so they reinforce, extend, or contextualize each other. The composer's job is to choose which modes to deploy, what each is doing, and how they assemble into a coherent whole rather than a collection of independent elements.
 
-For the purpose, *what does each mode add*? An advocacy piece for environmental policy might use photographs (visual evidence of harm), data visualization (logos), short text (the argument), audio interviews (pathos and ethos). Each mode does what no other does as well.
+---
 
-For the genre, *what are the conventions of the platform*? A medium has conventions readers expect. A LinkedIn post that reads as a Twitter thread will fail. A TikTok that reads as a slide deck will fail. The conventions are not optional; they are part of the rhetorical situation.
+## The rhetorical situation does not change; the questions do
 
-For the context and culture, *what is the audience's likely cultural reference, attention pattern, and trust posture*? A piece that lands well in 2026 may have read differently in 2018. The temporal situation matters.
+The seven elements of the rhetorical situation from Chapter 2 — author, audience, purpose, stance, context, culture, genre — apply fully to multimodal work. What changes is which questions matter most.
 
-## The five-mode breakdown, in practice
+For the author: what kinds of multimodal work can you actually produce? You can write a blog post. Can you record a podcast? Edit a video? Design an infographic with a data visualization? Build a website? The medium constraint is real, and it matters at the planning stage. A strong piece in a medium you can execute is always better than a weak attempt in a medium that exceeds your current capacity.
 
-A worked example. A student is creating a multimodal advocacy piece on lead poisoning in older urban housing — an issue with documented public-health consequences and continued underaddress in U.S. cities.
+For the audience: what platform are they reading on? A piece read on a phone differs from a piece read on a laptop differs from a piece consumed in a podcast app while commuting. The platform affects what kind of work lands. Paragraph length, image size, load time, the ratio of text to image — all of these are platform-specific decisions.
 
-**Linguistic mode.** A short piece of text — 400 to 800 words — laying out the argument. Specific facts. A specific claim. A specific call to action.
+For the purpose: what does each mode *add*? The discipline is to ask, for every element, what it is doing that no other element does. If the answer is *nothing*, the element is decorative and should be cut. Every mode should earn its place the way every sentence earns its place in prose.
 
-**Visual mode.** A photograph of one specific home in one specific neighborhood, with peeling paint visible. A photograph of one child being tested (with permission). A data visualization showing lead levels in specific urban water systems against the EPA action level.
+For the genre: what are the conventions of the platform? A LinkedIn post that reads as a tweet thread will fail. A TikTok that reads as a slide deck will fail. Platforms have conventions readers have internalized, and violating them without purpose looks like incompetence rather than originality.
 
-**Audio mode.** A 60-second clip from an interview with a parent whose child was lead-poisoned. The parent's actual voice. Specific. Anchored in lived experience.
+---
 
-**Spatial mode.** The layout of the piece. The argument's text reads down the page. The interview audio plays beside the parent's photograph. The data visualization sits beside the relevant claim. The layout signals what supports what.
+## Three principles
 
-**Gestural mode.** In the parent's interview, the way they speak — pauses, breath, emotional register — is part of the meaning. In their photograph, the way they are holding the child or sitting in their kitchen is part of the meaning.
+Before the genre tour, three principles that apply across all multimodal work.
 
-Each mode is doing what no other could do as well. The text states the claim. The photograph makes the abstract specific. The audio gives the lived voice. The data anchors the scale. The layout signals the relationships among them. The piece, taken together, is doing what no single mode could do alone.
+*Each mode should be earning its place.* This is the fundamental discipline. If the image is decorative — if the piece would be the same without it — cut it. If the audio adds nothing the text does not already provide — cut it. The rhetorical question is always: what is this element doing that nothing else can do?
 
-This is *layering* — the act of combining modes so that they reinforce, extend, or contextualize each other. The student composer's job is to choose which modes to use, what each is doing, and how they assemble into a coherent whole.
+*Modes should cooperate, not compete.* When two modes are saying the same thing, one is redundant. When they are saying contradictory things, the reader is confused. The ideal is that each mode is doing a specific job the others could not do, and together they produce an effect none could produce alone.
 
-## Three principles of multimodal composition
+*Accessibility is structural, not cosmetic.* A piece that uses video without captions excludes deaf readers. A piece that uses images without alt text excludes blind readers. A piece that uses audio without transcripts excludes both groups. A piece that loads slowly or requires high bandwidth excludes readers in areas without high-speed internet access — which, as of the mid-2020s, is approximately 7 percent of Americans, concentrated in rural areas, tribal lands, and certain urban neighborhoods.[^1] These are not features to add after composition. They are decisions made at the planning stage, before a single element is produced.
 
-**Each mode should be earning its place.** If the photograph is decorative, cut it. If the audio is filler, cut it. The discipline of multimodal composition is the same as the discipline of textual composition: every element should be doing work.
+[^1]: For current data on broadband access, see the [FCC Broadband Data Collection reports](https://broadbandmap.fcc.gov/). The approximately 7% figure is mid-decade and subject to ongoing revision.
 
-**Modes should cooperate, not compete.** When two modes are saying the same thing, one is redundant. When two modes are saying contradictory things, the reader is confused. The strongest multimodal work has each mode doing a specific job the others could not do.
+<!-- → [TABLE: accessibility checklist by genre — columns: genre, required accessibility features, what each feature enables — rows: blog/Substack (alt text on images), video essay (captions, transcript), podcast (transcript), infographic (alt text, high-contrast color), social media sequence (alt text per image, captions on video cards); student treats this as a pre-publish checklist, not a post-publish add-on] -->
 
-**Accessibility is not optional.** A piece that uses video without captions excludes deaf readers. A piece that uses images without alt text excludes blind readers. A piece that uses audio without transcripts excludes both groups. Accessibility is a structural decision, made at the time of composition, not a feature added on. The strongest multimodal work is accessible by design.
+---
 
-## Specific genres and their conventions
+## The genres — what each rewards
 
-A short tour of common multimodal genres and what they reward.
+A tour of the most common multimodal genres, with what each requires.
 
-**The blog post or Substack essay.** Linguistic mode dominant, with one or two embedded images. Length: 800 to 2,500 words. The image at the top is usually the *hero image* — the first visual the reader sees, doing significant work in establishing what the piece is about. Internal images break up text and anchor specific claims. The platform reads on phones, so paragraph length matters.
+*The blog post or Substack essay.* Linguistic mode dominant, with one or two embedded images. Length: 800 to 2,500 words. The hero image at the top establishes what the piece is about before the reader reads a word. Internal images anchor specific claims or break up long sections of text. The platform reads on phones, so paragraph length matters: three to five sentences per paragraph is a reasonable default. Long academic paragraphs hit differently in a phone reader than on a printed page.
 
-**The photo essay.** Visual mode dominant, with text as captions or short interstitial passages. Length: 8 to 20 images, with 50 to 200 words of accompanying text. The sequence is the meaning. The order of images is doing argumentative work. The first image and the last image are most carefully chosen.
+*The photo essay.* Visual mode dominant, with text as captions or short interstitial passages. Length: 8 to 20 images, 50 to 200 words of accompanying text per image. The *sequence* is the argument — the order of images is doing the argumentative work that a thesis does in prose. The first image establishes the world; the last image should carry the conclusion. What the reader sees first and last are the most carefully chosen elements.
 
-**The video essay.** Audiovisual mode dominant. Length: 3 to 12 minutes for student-scale work. The voice-over carries the argument. The visuals show the evidence. The pacing matters more than for text. The first thirty seconds determines whether the viewer continues.
+*The video essay.* Audiovisual mode dominant. Length: 3 to 12 minutes for student-scale work. The voice-over carries the argument; the visuals show the evidence. Pacing matters more than for text — a video that would be a strong written essay will often fail as video if the pacing is wrong. The first thirty seconds determine whether the viewer continues.
 
-**The infographic.** Spatial-visual mode dominant. A single page or scroll. The layout is the argument. Data visualization, short text labels, sometimes a strong color palette. The reader's eye should be guided through the piece in a deliberate sequence.
+*The infographic.* Spatial-visual mode dominant. A single page or scroll. The layout is the argument: the reader's eye is guided through the piece in a deliberate sequence determined by the spatial design. Data visualization, short text labels, a strong color palette — these are the mode's tools. The discipline is to guide attention, not to fill space.
 
-**The podcast.** Audio mode dominant. Length: 10 to 30 minutes for student work. The voice is the rhetoric. The cuts between segments matter. Music or sound is sometimes used to mark transitions; silence is sometimes the most powerful element.
+*The podcast.* Audio mode dominant. Length: 10 to 30 minutes for student work. The voice is the rhetoric — not just what is said but how it is said, the pauses, the breath, the emotional register. Music or ambient sound marks transitions and sets tone. Silence is sometimes the most powerful element; the podcast composer has to learn to use it.
 
-**The social media sequence.** A coordinated set of posts (a Twitter thread, an Instagram carousel, a TikTok series). Length: 5 to 20 posts. Each post stands alone *and* contributes to the larger arc. The first post must do the work of capturing attention; subsequent posts develop the argument.
+*The social media sequence.* A coordinated set of posts — a thread, a carousel, a series. Length: 5 to 20 posts. Each post stands alone and contributes to the larger arc. The first post must do the work of capturing attention; the subsequent posts develop the argument; the last should carry the call to action. The reader who exits early should still have gotten something useful. The reader who stays should get more.
 
-**The website or microsite.** Spatial mode at the level of multiple linked pages. The structure of navigation is part of the argument. Where the reader can go next is something you have designed.
+<!-- → [TABLE: genre comparison — columns: genre, dominant mode(s), appropriate length, what the first element must do, what the last element must do, primary accessibility requirement; student uses this to match genre to argument and audience before planning] -->
 
-The choice among these genres is partly about what you can execute and partly about what the audience uses. A piece for fellow college students might work as a TikTok or an Instagram carousel; a piece for policy advocates might work as a blog post on a public-facing site; a piece for an activist community might work as a podcast or a video essay.
+The choice among these is partly about what you can execute and partly about where your audience actually is. A piece for fellow students might work as a TikTok or an Instagram carousel. A piece for policy advocates might work as a blog post on a public-facing site. A piece for an activist community might work as a podcast or a video essay. The audience's platform habits are as important a consideration as your production capacity.
 
-## The advocacy assignment, specifically
+---
 
-For this chapter's assignment, you are producing a piece on a cause or issue you care about. Some specific guidance.
+## Synthetic media: what is now possible and what it means
 
-**Choose an issue you actually know something about.** Not the most newsworthy or the most worthy. The one you have the most specific knowledge of. The piece will be better if the specifics come from your actual engagement with the topic.
+The chapter has to address something not present in older treatments of multimodal composition.
 
-**Define the audience specifically.** Not *the public*. A specific group — students at your university, residents of your neighborhood, members of a particular professional community, your own peer group. The piece is for them. The conventions match their platform habits.
+In 2026, the composition environment includes tools that can generate photograph-like images of anything, including people who do not exist and situations that did not occur; voice that is indistinguishable from a specific real person; and video that is increasingly difficult to identify as generated. These tools are accessible, inexpensive, and improving rapidly.
 
-**Choose the genre based on what the audience will engage with.** If your audience reads long-form, write a blog post. If they watch short video, make a video. If they listen to podcasts, make one. The medium that fits the audience is the right medium.
+The advocacy implications are significant because the genre's foundation is *credibility*. The reader has to trust that what they are seeing represents what is. A photograph in an advocacy piece is evidence. A generated image that looks like a photograph is not evidence; it is an illustration. Using it as if it were evidence — without disclosure — is doing rhetorical work the reader has not consented to.
 
-**Make the argument specific and actionable.** Advocacy work that asks for *general awareness* is weaker than advocacy work that asks for a specific action — vote on a specific bill, support a specific campaign, change one specific behavior, contact one specific decision-maker. The specificity of the ask is part of the rhetoric.
+The discipline the current moment requires: use real material wherever possible. Real photographs. Real audio. Real interviews. Real footage. If you use synthetic material, disclose it. A photo essay that uses AI-generated images and does not say so is a form of deception, regardless of whether the underlying argument is true. The disclosure is the price of using the tools in good faith.
 
-**Plan before you compose.** A mockup for static work, a storyboard for video, a script outline for audio. Trying to compose multimodal work without planning produces incoherent results. The plan is part of the work.
+This norm will likely evolve. The appropriate use of clearly-labeled synthetic illustration is less contested than the use of synthetic photography presented as documentary evidence. The line between the two is currently being drawn, imperfectly, across platforms and legal jurisdictions. The discipline of knowing which side of the line your piece is on is yours to maintain, because no platform enforces it reliably.
 
-**Accessibility from the start.** Captions on video. Alt text on images. Transcripts for audio. Color contrast that doesn't exclude color-blind viewers. Font sizes that don't exclude older readers. The accessibility decisions are made before you publish, not after.
+---
 
-## A note about digital deserts
+## What AI tools can actually do in multimodal composition
 
-A specific reality the chapter has to name.
+The territory is different here from the AI notes in earlier chapters, because the modes the tools help with are different.
 
-In 2024, the FCC estimated that approximately 7 percent of Americans lived in *digital deserts* — areas without access to high-speed broadband. The percentage was higher in rural areas, on tribal lands, and in some inner-city neighborhoods.[^2] The piece of multimodal advocacy you publish to a website assuming high-speed video streaming will not reach those 24 million people. The piece that works on a 3G connection, that loads on a low-end phone, that consumes minimal data, will reach more people than the high-production piece will.
+For the linguistic mode: everything from previous chapters applies. The model can help plan, stress-test arguments, identify gaps in evidence, suggest revisions. It should not draft the argument for the same reasons as before.
 
-[^2]: For current data on broadband access, see the [FCC Broadband Data Collection reports](https://broadbandmap.fcc.gov/) and contemporaneous coverage from outlets including the *Wall Street Journal* and *Wired*. The 7% figure is approximate as of mid-decade and is being revised regularly.
+For the visual mode: image generation tools can produce illustrations quickly. The discipline is to disclose them and to be clear in your own mind about whether you are producing illustration or evidence. For documentary advocacy work, generated images are the wrong tool. For stylized work where the image's constructedness is visible and appropriate, they may fit.
 
-This is not a footnote. It is a structural part of multimodal work. The discipline of *accessibility* includes access to the technology your piece requires. If your audience is universal, your piece has to work at the lowest end of available technology, not the highest.
+For the audio mode: voice synthesis tools exist. The same disclosure principle applies. If a voice is synthesized, the audience should know. If it is real — an interview, your own voice — that reality is itself rhetorically significant.
 
-## A note about AI and synthetic media
+For planning: the model is genuinely useful before composition. Helping identify what genre fits what audience. Breaking down what each mode will do in a chosen genre. Flagging accessibility decisions. Identifying what source material needs to be collected. The planning stage is where the model helps most in multimodal work, because the decisions made at planning are the hardest to reverse once composition has begun.
 
-The chapter has to address something the OpenStax source did not anticipate.
+---
 
-In 2026, the multimodal composition environment includes tools that can generate images (DALL-E, Midjourney, Stable Diffusion), generate voice (ElevenLabs, others), generate video (Runway, Pika, Sora, others), and generate text in any voice you can describe. The implications for advocacy are not yet stable.
+## What would change my mind
 
-Some specific things that are now possible:
+If careful audience research showed that multimodal advocacy pieces produced no better outcomes — in terms of actual audience action — than single-mode pieces on the same issue, I would revise the chapter's central claim that multimodal composition does distinctive work no single mode can do. The evidence from working communicators points the other way: multimodal pieces reach wider audiences and move them more effectively in most tested contexts. But the claim is empirical and the conditions are changing.
 
-**LLM-generated images.** You can produce a photograph-like image of anything. Including people who do not exist. Including situations that did not happen. Including evidence for claims that are false.
+---
 
-**Voice cloning.** With seconds of audio, you can produce convincing speech in someone else's voice saying things they did not say.
+## Still puzzling
 
-**Generative video.** As of this writing, generated video is still detectably synthetic; this is changing.
+The relationship between production quality and audience action is more complicated than the chapter implies. Some of the most effective advocacy pieces I have seen were technically rough — a poorly-edited phone video, a one-take audio recording. The roughness sometimes signals authenticity in ways high production does not; it marks the piece as coming from a real person rather than an institution. I do not have a clean way to teach when the rough piece is the right choice and when it is not. The advice *match production to audience* is true but underspecified. Some audiences trust roughness; others are repelled by it. Reading which response your audience will have is a judgment call the chapter cannot make for you.
 
-**Personalized content.** The same advocacy piece can be tailored to different audiences in different ways, automatically.
+---
 
-The advocacy implications are significant. The genre's foundation is *credibility*. The reader has to trust that what they are seeing represents what is. Synthetic media threatens that trust at the foundation.
+## Exercises
 
-The chapter's guidance is direct: *use real material*. Real photographs. Real audio. Real interviews. Real footage. If you use synthetic material, *disclose it*. A photo essay that uses LLM-generated images and does not disclose this is doing rhetorical work the reader is not consenting to. The disclosure is the price of admission for synthetic media use.
+**Warm-up**
 
-This is not a permanent rule. The norms around synthetic media in advocacy will evolve. The current standard is *transparency about what is real and what is generated*. That standard may relax for stylistic synthetic work (clearly labeled illustration, for example) and tighten for synthetic claims about real situations. The discipline is to know which kind of work you are producing.
+1. *Mode identification.* Find three pieces of multimodal writing you encountered in the last 48 hours — a social media post, an article with embedded media, a video, anything. For each, identify which of the five modes are present, what each mode is doing, and whether the modes are cooperating or competing. Specifically: is anything redundant? Is anything contradictory? (Tests: ability to see the five modes operating in real examples before being asked to compose with them — the prerequisite for deliberate composition.)
+
+2. *Earning its place.* Take any image currently used in a piece of writing you have produced for this course (or any image from a multimodal piece you have seen recently). Write one sentence explaining what argumentative work the image is doing that the text cannot do. If you cannot write that sentence, the image is decorative. Replace it with an image that does have a specific job, or remove it. (Tests: the fundamental multimodal discipline applied to a real example — modes must earn their place.)
+
+3. *Genre matching.* You want to argue that your college should extend library hours during finals week. Name three different audiences you could address — a fellow student, the dean of students, a local newspaper reader. For each audience, identify the genre that best fits their platform habits and attention patterns, and explain in two sentences why that genre fits better than the alternatives. (Tests: the audience-to-genre matching logic before the student has to apply it to a longer project.)
+
+**Application**
+
+4. *Mode breakdown.* Choose the genre you are planning to use for your multimodal advocacy piece. Write a one-paragraph plan specifying what each mode present in that genre will be doing. Every mode you include should have a specific job: not "images will make it visual" but "the photograph of the specific person affected will give the abstract claim a face the viewer will remember." For any mode you are not using, write one sentence explaining why it would be redundant or inappropriate for this piece. (Tests: deliberate mode planning before composition — the decision the chapter identifies as the hardest to reverse after composition begins.)
+
+5. *Accessibility audit.* List every accessibility feature your planned piece requires — captions, alt text, transcripts, color contrast check, font size, bandwidth considerations. For each feature, write one sentence explaining which readers it enables. Then identify which feature you are most likely to skip under time pressure and write one sentence about why that is the one you cannot afford to skip. (Tests: accessibility as a structural decision made upfront, not a feature retrofitted at publication.)
+
+6. *Synthetic media line.* Identify one element you are considering for your multimodal advocacy piece that could be produced synthetically rather than gathered from reality — an image, an audio clip, a voice. Write two sentences: one making the case for using synthetic material (efficiency, control, lack of available real material), one making the case against (credibility risk, disclosure burden, audience trust). Then decide which side you are on and write the disclosure language you would use if you chose synthetic. (Tests: the disclosure discipline applied to a real composition decision — the norm the chapter identifies as the current standard.)
+
+**Synthesis**
+
+7. *The full mode-cooperation test.* Draft or mock up the opening of your multimodal advocacy piece — enough to show all the modes you intend to use, each doing its specific job. Then apply the three principles as a checklist: Is each mode earning its place? Are the modes cooperating or competing? Is accessibility built in? For any principle the draft fails, revise before moving forward. Write a 150-word note explaining one revision you made and why. (Tests: all three principles applied simultaneously to actual draft material — the synthesis move that turns planning into composition.)
+
+8. *The rough vs. polished judgment.* Find one high-production and one low-production piece of advocacy on the same issue or in the same genre. Compare them: does the higher-production piece produce more trust, or does the roughness of the lower-production piece signal something the polished version cannot? Write 200 words explaining which piece you trust more and why — in terms of the specific signals each piece is sending about its source and its intent. (Tests: the "Still puzzling" observation applied to real examples — developing the judgment about when roughness is a feature rather than a flaw.)
+
+**Challenge**
+
+9. *Compose the piece.* A multimodal advocacy piece on an issue you care about. Audience defined specifically. Genre chosen to match the audience's platform habits and your production capacity. Each mode doing a specific job. Accessibility features built in from the start. Synthetic material, if any, disclosed. Use the LLM exercise to plan the mode breakdown and source-material inventory before composing. The composition is yours.
+
+---
 
 ## LLM Exercise — Chapter 21
 
-**What you're building:** the plan for your multimodal advocacy piece — audience, genre, mode breakdown, accessibility decisions, draft mockup — before composition.
+**What you're building:** the plan for your multimodal advocacy piece — audience, genre, mode breakdown, accessibility decisions, source-material inventory — before composition begins.
 
-**Tool:** [Claude.ai](https://claude.ai/) chat. Useful with a Claude Project. [Cowork](https://claude.ai/) is useful here if you have multiple media files in development.
+**Tool:** [Claude.ai](https://claude.ai/) chat. Useful with a Claude Project. Cowork is useful here if you have multiple media files in development.
 
 **The prompt:**
 
@@ -152,8 +176,7 @@ The piece will combine some mix of text, image, audio, video, and
 spatial design to argue for action on an issue I care about.
 
 The issue I'm focused on: [name it in one sentence]
-Why this issue matters to me specifically: [brief — your own
-connection]
+Why this issue matters to me specifically: [brief — your own connection]
 The specific action I want my audience to take: [name it]
 
 Do the following in order, one step at a time, waiting for my response
@@ -189,7 +212,7 @@ Do not draft the piece. Do not produce sample text, images, audio,
 or video. The composition is mine to do.
 ```
 
-**What this produces:** a specific audience definition, a chosen genre, a mode-by-mode breakdown of what each element will do, accessibility decisions made upfront, and a source-material plan. After this, you compose the piece yourself.
+**What this produces:** a specific audience definition, a chosen genre, a mode-by-mode breakdown of what each element will do, accessibility decisions made upfront, and a source-material inventory. After this, you compose the piece yourself.
 
 **How to adapt this prompt:**
 
@@ -197,41 +220,29 @@ or video. The composition is mine to do.
 - *For Cowork:* useful for managing multiple media files across composition.
 - *For Claude Code:* useful if part of your piece involves building a website or a data visualization.
 
-**The instructive failure to expect:** the model will sometimes suggest production-heavy approaches that are beyond what you can actually execute. *I cannot record professional video. What genre works with my actual production capacity?* The honest answer about your skills produces better choices than the aspirational answer.
-
-**Preview of next chapter:** the next chapter takes the multimodal discipline and applies it specifically to writing for spoken delivery — speeches, podcasts, scripted public talks. The same five modes apply, with specific weight on the spoken word and the live or mediated audience.
-
-## What would change my mind
-
-If careful audience research showed that multimodal advocacy pieces performed no better — in terms of actual audience action — than single-mode pieces on the same issue, I would revise the chapter's central claim that multimodal composition is doing distinctive work the single mode cannot. The evidence from working communicators is the other way; multimodal pieces consistently reach wider and act more effectively. But the claim is empirical and the conditions are changing.
-
-## Still puzzling
-
-The relationship between the production values your piece can achieve and the audience action your piece actually produces is more complicated than the chapter suggests. Some of the most effective advocacy pieces I have seen have been technically rough — a poorly-edited phone video, a one-take audio recording. The roughness sometimes signals authenticity in ways high production does not. I do not have a clean way to teach students when the rough piece is the right piece and when it isn't. The advice in the chapter — *match production to audience* — is true but not specific enough.
-
----
-
-*Sources cited above link to primary text where available. The chapter draws on the OpenStax* Writing Guide with Handbook *Chapter 21 modules as the underlying scaffold, with all rendering, examples, voice, and analytical claims reworked for this textbook's pedagogy.*
-
+**The instructive failure to expect:** the model will sometimes propose production-heavy genres that are beyond your actual capacity. Be honest about what you can execute: *I cannot record professional video. What genre works with my actual production constraints?* The honest answer produces better choices than the aspirational one.
 
 ---
 
 ## 🕰️ AI Wayback Machine
 
-The ideas in this chapter didn't appear from nowhere. **Vilém Flusser** was working on *Towards a Philosophy of Photography* and *Does Writing Have a Future?* — a media philosophy that argued the photograph, the program, and the platform each have a grammar a writer must read before composing in them decades before most people had heard of multimodal and online writing. Here's a prompt to find out more — and then make it better.
+The ideas in this chapter didn't appear from nowhere. **Vilém Flusser** was working on *Towards a Philosophy of Photography* and *Does Writing Have a Future?* — a media philosophy arguing that the photograph, the program, and the platform each have a grammar a writer must read before composing in them — decades before most people had heard of multimodal and online writing. Here's a prompt to find out more — and then make it better.
 
 **Run this:**
 
 ```
-Who was Vilém Flusser, and how does their work on the technical image and the grammar of programs connect to multimodal writing — text and image and platform together? Keep it to three paragraphs. End with the single most surprising thing about their career or ideas.
+Who was Vilém Flusser, and how does their work on the technical image
+and the grammar of programs connect to multimodal writing — text and
+image and platform together? Keep it to three paragraphs. End with the
+single most surprising thing about their career or ideas.
 ```
 
 → Search **"Vilém Flusser"** on Wikipedia after you run this. See what the model got right, got wrong, or left out.
 
 **Now make the prompt better.** Try one of these:
 
-- Ask it to explain Flusser's distinction between *traditional images* (paintings, drawings) and *technical images* (photographs, screenshots, AI-generated images), and what's at stake in the difference
-- Ask: "Flusser asked, "Does writing have a future?" He didn't mean it rhetorically. What was his actual answer — and what's the cost if he was right?"
-- Add the constraint: "Answer in the structural shape of one of Flusser's short essays — single dense paragraph, no decorative transitions, the argument compressed"
+- Ask it to explain Flusser's distinction between *traditional images* (paintings, drawings) and *technical images* (photographs, screenshots, AI-generated images), and what's at stake in the difference.
+- Ask: "Flusser asked, 'Does writing have a future?' He didn't mean it rhetorically. What was his actual answer — and what's the cost if he was right?"
+- Add the constraint: "Answer in the structural shape of one of Flusser's short essays — single dense paragraph, no decorative transitions, the argument compressed."
 
 What changes? What gets better? What gets worse?
