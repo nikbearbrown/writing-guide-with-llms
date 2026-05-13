@@ -2,128 +2,201 @@
 
 *Proving You Read What You're Citing.*
 
-A clarifying scene to begin.
+---
 
-Imagine you have done six weeks of research for a paper. You have read fifteen articles, four book chapters, one government report, and two long-form magazine pieces. You have notes. You have a developing argument. You have a stack of PDFs on your desktop with hopeful filenames you can no longer fully decode.
+Here is a thing that happens all the time in research papers, at every level of education, and that almost nobody talks about directly.
 
-Now your instructor asks you for an *annotated bibliography*: a formal document that lists each of your sources in the citation style you are using, followed by a one-paragraph annotation that summarizes the source, evaluates its credibility, and explains how it fits into the argument you are developing.
+A student has done six weeks of research. Fifteen articles, four book chapters, one government report, two long-form magazine pieces. Notes in a sprawling document. A developing argument. A stack of PDFs with filenames that made sense in week two and are now largely mysterious.
 
-The first reaction many students have is mild irritation. *I read the source. I have notes. Why do I have to write paragraphs about each one?*
+The paper gets written. Citations accumulate. Somewhere around citation nine, the student is no longer quite sure what source nine actually said. It seems to support the point being made. The title sounds right. There is a PDF on the desktop. The citation goes in.
 
-The answer is that the annotated bibliography is doing two specific things the notes are not. It is *forcing you to demonstrate that you actually read the source* — the annotation is a kind of public proof. And it is *forcing you to articulate, in writing, how the source fits into your developing argument* — the kind of synthesis work that does not yet exist in your notes.
+This is not fraud. It is the ordinary outcome of a specific kind of information overload, combined with a workflow that never forced the student to prove — to themselves or anyone else — that they actually read what they cited. The citation format does not require this. The notes do not require it. The first draft does not require it.
 
-Both are useful. The first because it disciplines against the temptation to cite sources you have only skimmed. The second because the act of writing the annotations often clarifies the argument in ways your notes do not. The annotated bibliography is not just a documentation tool. It is a thinking tool.
+The annotated bibliography requires it.
 
-The assignment at the end of this chapter is to build an annotated bibliography of five to seven sources for the argumentative research paper you are developing. The format will be standardized — citation in MLA or APA, followed by an annotation of 100 to 200 words.
+That is the first thing the genre is doing: creating a document where you have to demonstrate, annotation by annotation, that you read what you are citing. Not that you scanned it. Not that you read the abstract and the conclusion and trusted the middle. That you read it well enough to summarize its argument specifically, to evaluate its credibility honestly, and to explain — in writing, to a reader — where it fits in the argument you are building.
 
-## What an annotated bibliography is
+The second thing the genre is doing is less obvious but more important. The act of writing the annotations often changes the argument.
 
-An *annotated bibliography* is a list of sources, presented in a formal citation style, with each entry followed by a paragraph that does specific work: summarizing the source, evaluating its credibility, and reflecting on its relevance to your project.
+When you read a source, you have a developing thesis, and you are looking for what the source can do for the thesis. When you annotate the source, you have to explain not just what the source says in your favor but what it actually says — including what it says that complicates your position, what its limits are, and how it sits in relation to the other sources. That requirement produces a different kind of reading than you were doing before. And that different kind of reading sometimes shows you that your argument needs to move.
 
-What an annotated bibliography is not:
+The student who builds a serious annotated bibliography often ends up with a better thesis than the one they started with. This is not an accident of the assignment. It is the assignment working exactly as intended.
 
-- *A works-cited list.* The works-cited list is the bare citations only, used at the end of a finished paper to credit your sources. The annotated bibliography is the citations *with annotations*, used during research as a working document and sometimes as a standalone assignment.
-- *A literature review.* A literature review synthesizes the sources together into a continuous prose argument about the state of the field. The annotated bibliography keeps each source separate, with its own paragraph.
-- *Summaries.* A summary would only do the first task — describing what the source says. The annotation does more: it evaluates, contextualizes, and connects to your project.
-- *Notes.* Your notes are for you. The annotated bibliography is for an outside reader — your instructor, a collaborator, a future version of yourself who needs to remember what you did.
+---
 
-## What each annotation contains
+## What the annotation actually contains
 
-Three components. The proportions vary; all three are present.
+An annotated bibliography entry has two parts: the citation and the annotation. The citation is the formal element — author, title, publication, date, in whatever style is required. The annotation is the paragraph that follows it.
 
-**Summary.** One or two sentences that capture what the source actually says. Not what the source's title suggests. Not what you wish the source said. What it actually argues, with the key evidence or method named. The summary should be specific enough that a reader who has not read the source can understand its main contribution.
+The annotation does three things. Not one. Not two. Three, and all three need to be present even when they are not labeled.
 
-**Evaluation.** Two or three sentences that assess the source's credibility and quality. Who wrote it? What are their credentials? Where was it published? Is it peer-reviewed, journalistic, advocacy, governmental? What is its date, and how does that affect its relevance? Is it methodologically defensible? Where might it be biased? The evaluation has to engage with the source seriously, not just list metadata.
+The first is *summary*. One or two sentences that capture what the source actually argues. Not what the title suggests. Not what you wish the source said. What it argues — with the key finding or method named. The summary should be specific enough that a reader who has not seen the source can understand its main contribution.
 
-**Reflection.** Two or three sentences explaining how this source fits into your developing argument. What does it support? What does it complicate? Which other sources does it speak with or against? Where in your paper will it likely appear?
+The failure mode here is the summary that describes a topic rather than an argument. *This article discusses the relationship between social media and mental health* is a topic description, not a summary. *This article reports a longitudinal survey of 5,000 American teenagers showing that passive social media consumption — scrolling without posting — is more strongly correlated with depression scores than active posting* is a summary. The difference is specificity. The summary names what the source found or argued, not what it was about.
 
-The result is a paragraph of 100 to 200 words per source. Each annotation does three jobs at once, and the three jobs need to be present even when they are not labeled.
+The second is *evaluation*. Two or three sentences assessing the source's credibility and quality. Who wrote it? What are their credentials? Where was it published, and what does that publication venue imply about editorial standards? Is it peer-reviewed, journalistic, governmental, advocacy? What is its date, and does that matter for the claim it is making? Where might the source be biased, and does the bias affect the specific finding you are drawing on?
+
+The failure mode here is metadata without judgment. *This article was published in 2021 in a peer-reviewed journal* is metadata. *This article was published in 2021 in the Journal of Health Economics, a peer-reviewed venue whose editorial standards require statistical transparency; the primary limitation is that the study sample is drawn entirely from one metropolitan area, which may reduce generalizability to rural populations that are central to my argument* is an evaluation. The evaluation makes a judgment about whether and how the source should be trusted for the particular use you are making of it.
+
+The third is *reflection*. Two or three sentences explaining how the source fits into your developing argument. What does it support? What does it complicate? Which other sources does it speak with or against? Where in the paper will it likely appear?
+
+The failure mode here is vague relevance. *This source is relevant to my topic* says nothing. *This source is the empirical centerpiece of my case against AI-detection software — it provides the specific misclassification rates I will use in my third section, and it pairs with Sadasivan et al. on technical failure modes; together they show that detectors fail in two different ways for two different reasons, compounding each other* is a reflection. The reflection places the source in a specific location in a specific argument.
+
+Put all three together and the annotation tells a reader three things at once: what the source says, whether to trust it, and what it is doing in your paper. That is the complete picture.
+
+<!-- → [TABLE: Three-column reference table — rows: Summary, Evaluation, Reflection. Columns: What it does, Failure mode (with a brief example), What a strong version looks like (with a brief example). Purpose: give the student a quick-reference card for all three components and their failure modes before each is explored in depth; directly keyed to warm-up Exercises 1 and 2.] -->
+
+---
 
 ## A worked example
 
-Consider one well-built annotation, condensed, for a paper on AI-detection software in college courses.
+The best way to see what the genre wants is to look at one annotation that does the job.
+
+For a paper arguing that AI-detection software in college courses fails in ways that disproportionately harm marginalized students:
 
 > Liang, Wenxin, et al. "GPT detectors are biased against non-native English writers." *arXiv preprint*, 2023. https://arxiv.org/abs/2304.02819.
 >
-> Liang and colleagues at Stanford evaluate seven commercial GPT-detection tools by testing them against essays written by native English-speaking eighth graders and TOEFL essays written by non-native English speakers. They find systematic bias: the detectors misclassify non-native essays as AI-generated at rates substantially higher than for native-English essays (61% vs. 5% for one widely-deployed detector). The paper is an arXiv preprint and not peer-reviewed, but the methodology is transparent, the authors are at Stanford's NLP group with established credentials, and the findings have been cited and discussed widely in the field's subsequent work. The paper is the empirical centerpiece of the case I'm making — that AI detectors fail in ways that fall disproportionately on already-marginalized students. It pairs with Sadasivan et al. (2023) on technical detector failure under paraphrasing attacks; together they argue that detectors fail in two different ways for two different reasons, and the policy of using them produces compound harms.
+> Liang and colleagues at Stanford evaluate seven commercial GPT-detection tools by testing them against essays written by native English-speaking eighth graders and TOEFL essays written by non-native English speakers. They find systematic bias: the detectors misclassify non-native essays as AI-generated at rates substantially higher than for native-English essays — 61% vs. 5% for one widely-deployed tool. The paper is an arXiv preprint and not peer-reviewed, but the methodology is transparent, the authors are at Stanford's NLP group with established credentials, and the findings have been widely cited in the field's subsequent work. This is the empirical centerpiece of the case I am making: detectors fail in ways that fall disproportionately on already-marginalized students. It pairs with Sadasivan et al. on technical failure under paraphrasing attacks; together they argue that detectors fail in two different ways for two different reasons, and relying on them produces compound harms.
 
-The annotation is 188 words. The summary names the specific finding (61% vs 5%, the precise demographic). The evaluation acknowledges the preprint status while documenting the methodological strength and citation impact. The reflection places the source in the argument and names a specific other source it pairs with.
+That is 188 words. The summary names a specific finding — 61% vs. 5%, a specific demographic, a specific kind of tool. The evaluation acknowledges the preprint status while documenting the methodological strength and explaining why the preprint status does not disqualify the source for this use. The reflection places the source in the argument at a specific location — the empirical centerpiece of a specific case — and names a specific pairing with another source, explaining what the pairing accomplishes.
 
-That is what the genre wants. The student who can produce this kind of annotation for each of their five to seven sources has done substantial intellectual work in the process — they have *read* each source closely, *thought* about its credibility, and *located* it in their developing argument.
+The annotation required the student to have read the paper closely enough to know the 61% vs. 5% number, to understand why the preprint status is relevant, and to have already thought enough about the full bibliography to know how this source and Sadasivan et al. work together. That is the work the annotation is forcing.
 
-## Source evaluation, in the bibliography frame
+<!-- → [IMAGE: The full worked annotation above shown as an annotated diagram — the text reproduced with color-coded brackets or marginal labels indicating where the Summary component ends, where Evaluation begins, and where Reflection begins. Callout notes indicate specific features: "Specific finding named (61% vs. 5%)" for the summary; "Preprint limitation acknowledged + methodological strength documented" for the evaluation; "Named pairing with another source + what the pairing accomplishes" for the reflection. Purpose: make the three components visible as structural parts of a real, full-length annotation before Exercise 3 asks students to produce one.] -->
 
-The middle component — the evaluation — is the part most student annotations short-change. A few specific moves.
+---
 
-**Name the publication venue and what it implies.** *The Journal of Health Economics* is peer-reviewed by economists; *Health Affairs* is peer-reviewed and policy-oriented; *The Atlantic* is journalistic with editorial standards; an arXiv preprint is uncreviewed but signals an active research program. Each implies a different set of editorial controls. The annotation should name this when relevant.
+## Why the evaluation component is always the weakest
 
-**Name the author's credentials and stake.** A scholar working on climate change at a research university has different standing on the topic than a journalist covering it, who has different standing than an advocacy-organization staff member writing on it. None is automatically more or less credible — each carries different kinds of authority and different kinds of bias. The annotation should reflect what kind of voice this is.
+Of the three components — summary, evaluation, reflection — the evaluation is the one most student annotations short-change. And the short-changing follows a consistent pattern.
 
-**Date the source.** Some sources go stale fast (anything on AI capabilities; some areas of medicine; current events). Some don't (Shakespeare scholarship; ancient history; well-established physics). The annotation should engage with the date when it matters.
+The student names the publication venue without explaining what it implies. *Published in Nature* is metadata. *Published in Nature, a generalist science journal with exceptionally high submission-to-publication rejection rates, which implies the finding passed unusually rigorous peer review but also that the journal prioritizes novelty over incremental work — which may mean this finding is more striking than robust* is an evaluation.
 
-**Acknowledge what the source doesn't do well.** A strong annotation occasionally names a limitation in a source you are still going to use. The acknowledgment strengthens your credibility as a reader; the source is more useful with its limits visible.
+The student notes that the author is credentialed without engaging with the credential's relevance. *The author is a professor at Johns Hopkins* is metadata. *The author is a professor of epidemiology at Johns Hopkins who has published primarily on infectious disease transmission; her expertise is directly relevant to the mechanistic claims in Section 2 but not to the policy recommendations in Section 4, which I should treat with more caution* is an evaluation.
 
-The CRAAP test from the previous chapter — Currency, Relevance, Authority, Accuracy, Purpose — is one framework for source evaluation. Its strength is mnemonic; its weakness is that it tends toward checkbox compliance rather than genuine engagement. A good annotation does the work CRAAP gestures at without using the framework as a recipe.
+The student records the date without asking whether it matters. *Published in 2019* is metadata. *Published in 2019, before the emergence of large language models at scale; the author's claims about AI-assisted writing may therefore not apply to the current environment I am analyzing* is an evaluation.
 
-## Citation styles — a brief operational note
+What the evaluation component is asking is: *what kind of object is this source, and how should it be weighted for the specific use I am making of it?* The answer is never the same for every source. A paper from a pharmaceutical company's internal research team is a different object than a paper from an independent academic research group on the same drug, even if they both have credentials and publication venues. The evaluation should name the difference.
 
-You will be working in MLA, APA, or Chicago — depending on the discipline. The differences matter for formatting; they matter less for the substance of the annotation. A quick orientation.
+<!-- → [TABLE: Three-row reference table showing metadata-to-evaluation upgrades. Rows: Publication venue, Author credentials, Date. Each row shows the metadata version (left column) and the evaluation version (right column), using the chapter's own examples. Caption: "The evaluation asks: what kind of object is this source, and how should it be weighted for the specific use I am making of it?" Purpose: consolidate the three evaluation examples as a scannable reference before warm-up Exercise 2.] -->
 
-**MLA (Modern Language Association)** is standard in literature, languages, and some humanities. Citations have *author-page* in-text references (Smith 42) and a Works Cited list at the end. Used in this chapter's worked example above (rendered approximately).
+---
 
-**APA (American Psychological Association)** is standard in psychology, education, social sciences, and many sciences. Citations have *author-date* in-text references (Smith, 2023) and a References list at the end.
+## The bibliography that never changes its mind
 
-**Chicago** is standard in history and some humanities. Citations come in two flavors: *author-date* (similar to APA) and *notes-and-bibliography* (footnotes plus bibliography). Used widely in book publishing.
+There is a failure mode I want to name directly, because it is the most common and the most invisible to the student producing it.
 
-For the annotated bibliography, the citation portion of each entry follows the style; the annotation prose is just clear paragraphs. You do not need to remember every formatting detail — that is what the style manual is for, and what reference managers like Zotero handle automatically. You do need to know which style your assignment requires and to apply it consistently.
+The student develops a tentative thesis in week two. The student then searches for sources that support the thesis. The student finds them. The bibliography ends up with six sources that all support the position the student held on day fourteen of the project. Every annotation ends with some version of *this source supports my argument*. The paper gets written. The argument is exactly the argument the student had before they started reading.
 
-A practical note: use a reference manager. Zotero (free, open-source) or whatever your institution provides. The fifteen minutes you spend setting up the tool will save you many hours later, and it will produce correctly-formatted citations automatically. Hand-formatting citations is a tax you do not need to pay.
+This bibliography has not failed in any technical sense. The citations are formatted. The annotations contain summaries, evaluations, and reflections. The sources are real and credible. But the student has not been *changed by reading*. The reading was confirmatory from the start. The annotation work reinforced the thesis instead of testing it.
 
-## How many sources, of what kind
+The test for whether this has happened to your bibliography is simple: find the source that complicates your argument most seriously. If you cannot find it in your bibliography, it is not because such a source does not exist. It is because you did not look for it, or found it and left it out.
 
-For an annotated bibliography assignment, the typical ask is five to seven sources. For a 10-12 page research paper, the source pool is usually eight to ten total — meaning your annotated bibliography may include a subset of your eventual citations.
+The counterargument source — the one that argues most directly against your tentative position — is the source students most often skip. The skip is visible. An instructor reading a bibliography of six uniformly supportive sources can tell immediately that the student has not yet engaged with the opposition. Include the strongest opposing voice you can find. Annotate it honestly. Explain what it argues, why it is credible, and where you will engage with it in the paper.
 
-A practical distribution for the five-to-seven version of the assignment:
+This does two things. It strengthens your eventual argument, because you have engaged with the best case against your position rather than ignoring it. And it changes the character of your reading — once you are genuinely looking for what the other side would say, you read everything differently, including your supporting sources, because you are now attending to what each source claims precisely enough to understand what it would take to refute it.
 
-- One or two peer-reviewed journal articles in the most relevant subfield.
-- One or two longer works (book chapters or substantial reports from credentialed organizations).
-- One or two journalism or magazine pieces from major venues.
-- One source that argues against your tentative position — the counterargument source.
-- Optionally, one primary source: a dataset, a government document, a piece of legislation, a published interview transcript.
+---
 
-The distribution matters because a bibliography that is all from one source type signals limited engagement with the topic's range. A bibliography that is balanced — peer-reviewed work, journalism, opposing voice, primary data — signals serious research.
+## What the bibliography looks like as a whole
 
-The counterargument source is the one students most often skip. The skip is a tell. It signals to your reader that you have not yet engaged seriously with what people on the other side of your claim would say. Include the strongest opposing voice you can find. Treat the source fairly in the annotation, even though you will be arguing against it in the paper. The respect for the opposition strengthens your eventual argument.
+Five to seven sources for a research paper of ten to twelve pages is the standard ask. A useful distribution:
 
-## A common failure: the all-supporting bibliography
+One or two peer-reviewed journal articles in the most directly relevant subfield — the empirical anchor of your argument, where the specific data or findings you will rely on most heavily are established.
 
-A specific failure mode I want to name clearly.
+One or two longer works — book chapters or substantial reports from credentialed organizations — that provide the theoretical or historical context your argument needs.
 
-The student who has been working on a topic for a few weeks develops a tentative thesis. The student then goes looking for sources that support the thesis. The student finds them. The bibliography ends up with five or six sources that all argue for the position the student arrived at on day one.
+One or two journalism or magazine pieces from major venues with editorial standards — useful for framing the public significance of your question, for recent developments that academic publication has not yet caught up to, and for making your argument legible to a reader who is not inside the academic subfield.
 
-The paper that results is weak — not because the sources are bad, but because the writer has not yet been *changed by their reading*. The annotated bibliography is sometimes the place this becomes visible. If every annotation in your bibliography ends with *this source supports my argument*, you are reading too narrowly.
+One counterargument source — the strongest opposing voice you can find, from a credible venue. This is not optional.
 
-The fix is to deliberately seek sources that complicate or contradict your position. Read them carefully. Annotate them honestly. If their evidence is strong, your argument may need to shift. If their evidence is weak, your argument is now stronger because you have engaged with the strongest opposition.
+Optionally, one primary source: a dataset, a government document, a piece of legislation, a published interview transcript. Primary sources provide the closest possible proximity to the events or phenomena your argument is about.
 
-The annotated bibliography is one of the places where intellectual honesty is most visible. Use it that way.
+A bibliography drawn entirely from one source type — all peer-reviewed articles, or all journalism — signals limited engagement with the full range of evidence available. A bibliography that distributes across source types signals that you have done the harder work of assessing what kind of evidence your argument requires and where that evidence lives.
+
+<!-- → [TABLE: Source-distribution reference table — rows: each of the five source categories (peer-reviewed articles, longer works/reports, journalism/magazine, counterargument source, primary source). Columns: Category, What it provides that other types cannot, When it is essential vs. optional, Warning sign if absent. Caption: "A bibliography's source distribution is an argument about what kind of evidence the claim requires." Purpose: make the distribution framework concrete before Exercise 6's audit task.] -->
+
+---
+
+## Citation styles — the minimum you need to know
+
+For the annotation, you need to know which citation style your assignment requires and to apply it consistently. The major choices:
+
+**MLA** is standard in literature, languages, and some humanities. In-text citations use author and page number: (Smith 42). The bibliography is called Works Cited.
+
+**APA** is standard in psychology, education, social sciences, and many sciences. In-text citations use author and year: (Smith, 2023). The bibliography is called References.
+
+**Chicago** is standard in history and some humanities, and widely used in book publishing. It comes in two flavors: author-date (similar to APA) and notes-and-bibliography (footnotes plus a bibliography at the end).
+
+For the mechanics of formatting — where the period goes, whether the journal title is italicized, how to handle a source with five authors — use the style manual, use Zotero, or use a reliable generator. Do not memorize the minutiae. What you need to internalize is which style is required and how to read a citation in that style when you encounter one, so you can verify that your citations are correctly formatted.
+
+Zotero is free, open-source, and handles citation formatting automatically once you have it set up. The fifteen minutes of setup repay themselves very quickly on a project of this length. Hand-formatting citations is a cost you do not need to pay.
+
+---
 
 ## A note about AI
 
-Two specific moves where the language model is useful in annotated bibliography work, and three where it does damage.
+Two places where the model is genuinely useful in annotated bibliography work, and three where it does damage.
 
-Useful:
+Useful: after you have read a source and taken your own notes, you can paste the notes and ask the model to help compress them into a 100-150 word summary that captures the main contribution and method. The model is good at compression; you revise for your own voice and judgment. Separately, you can paste your current source list and ask what positions or source types are underrepresented; the model is often good at flagging obvious gaps.
 
-*Summarizing your own notes.* After you have read a source and taken notes, paste the notes and ask the model to help you compress them into a 100-150 word summary that captures the main contribution and method. The model is good at compression. You then revise the summary to add your own voice and judgment.
+Damaging: asking the model to generate an annotation of a source you have not read — the model will produce a plausible-sounding annotation based on the title and citation that may bear little resemblance to what the source actually says; asking the model to generate citations — it invents plausible-sounding references that may not exist, and every citation must point to a source you have located and read; and asking the model to "improve" your annotations to sound more academic — this reliably converts your specific observations into vaguer prose that sounds more conventional and is less useful. The specific observation in your voice is the annotation. The generalized version in academic prose is not.
 
-*Identifying gaps in your bibliography.* Paste your current list of sources and ask: *Based on this bibliography, what positions in the conversation am I underrepresenting? What kinds of sources am I missing?* The model is often good at flagging the obvious gaps.
+---
 
-Damaging:
+## Exercises
 
-*Generating annotations of sources you haven't read.* The model will produce plausible-sounding annotations based only on a title and a citation. The annotations may bear little resemblance to what the source actually says. Every annotation must be based on your having read the source.
+The chapter's inferred learning objectives: (1) explain what an annotated bibliography does that a works-cited list, a literature review, and personal notes do not — distinguishing the genre from adjacent documentation forms; (2) produce each of the three annotation components — summary, evaluation, reflection — at a level of specificity that distinguishes them from their failure modes (topic description, metadata, vague relevance); (3) evaluate a source's credibility specifically, naming venue type, author credential relevance, date considerations, and potential bias, as a judgment about that source's weight for a specific use; (4) diagnose a bibliography that has not been changed by the reading that built it, and apply the fix; (5) construct a bibliography with appropriate source-type distribution, including a counterargument source.
 
-*Generating citations.* The model invents plausible-sounding citations that may not be real. Every citation in your bibliography must point to a source you have located and read.
+---
 
-*"Improving" your annotations to sound more academic.* The model will sometimes generalize your specific observations into vaguer prose that sounds more conventional. Resist. The specific observation, in your voice, is more useful than the generalized one in academic prose.
+**Warm-up**
+
+*1. Summary vs. topic description.* The chapter identifies a failure mode for the summary component: describing a topic instead of capturing an argument. Each of the following is a topic description. Rewrite each as a genuine summary by adding a specific finding, method, or claim — you may invent plausible specifics for the exercise. (a) *This article discusses remote work and its effects on productivity.* (b) *The report examines food insecurity in American college students.* (c) *This book chapter covers the history of standardized testing in the United States.*
+*(Tests objective 2 — distinguishing summary from topic description.)*
+*Difficulty: Low.*
+
+*2. Metadata vs. evaluation.* The chapter gives three parallel examples of metadata converted to evaluation (venue, author credential, date). For each of the following metadata statements, write an evaluation: a sentence or two that makes a judgment about how the source should be weighted for a specific use. Invent plausible specifics for the source context. (a) *This article was published in 2016 in a peer-reviewed economics journal.* (b) *The author is a professor of computer science at MIT.* (c) *This report was published by a major pharmaceutical company's internal research division.*
+*(Tests objective 3 — producing evaluation rather than metadata.)*
+*Difficulty: Low.*
+
+---
+
+**Application**
+
+*3. Three-component annotation.* Find any peer-reviewed article, long-form journalism piece, or government report on a topic you are currently researching or interested in. Read it carefully. Write a complete annotation of 100–200 words that includes all three components — summary, evaluation, and reflection — without labeling them. After the annotation, write three sentences identifying where the summary ends, where the evaluation ends, and where the reflection begins, and evaluating whether each component does what the chapter says it should.
+*(Tests objectives 2 and 3 — producing all three components and reflecting on whether they meet the standard.)*
+*Difficulty: Medium.*
+
+*4. The changed annotation.* The chapter claims that writing the annotation often changes the argument — because you have to engage with what the source actually says, including what complicates your position. Find a source you have already cited or planned to cite in a current project. Write the annotation. Then write 150 words answering: did writing the annotation change anything about how you understand the source's role in your argument? If yes, what changed and why? If no, why do you think it didn't?
+*(Tests objectives 1 and 4 — the mechanism by which annotation forces genuine reading and may revise the argument.)*
+*Difficulty: Medium.*
+
+*5. Counterargument annotation.* Identify the strongest source you can find that argues against the tentative position you are developing in your current research paper — or, if you do not have a current paper, pick any contested claim and find the strongest opposing source. Write a full annotation of 100–200 words. The evaluation must engage seriously with why the source is credible. The reflection must name, specifically, where in your argument you will engage with it and what you will have to do to address its challenge.
+*(Tests objectives 4 and 5 — the counterargument source and the diagnosis of the all-supporting bibliography.)*
+*Difficulty: Medium.*
+
+---
+
+**Synthesis**
+
+*6. Bibliography distribution audit.* The chapter gives a recommended source-type distribution for a five-to-seven source bibliography. Take any research paper you have written or are developing — or find any published research paper that includes a bibliography — and audit the distribution. Map each source to one of the chapter's categories (peer-reviewed article, longer work, journalism/magazine, counterargument, primary source). Identify which categories are missing or underrepresented. Then write 150 words arguing whether the distribution is appropriate for the argument the paper is making — or what a better distribution would look like and why.
+*(Tests objectives 4 and 5 — source distribution and the diagnosis of confirmatory reading.)*
+*Difficulty: Medium-high.*
+
+*7. Comparative annotation quality.* Find two published annotated bibliographies — they appear in academic syllabi, library research guides, and many writing textbooks. Select one annotation from each that covers the same source type (peer-reviewed article, or journalism piece, etc.). Compare them using the chapter's three-component standard. Which annotation is stronger? Where does each fail? Write 300–400 words.
+*(Tests all five objectives — applying the full framework to real examples and making a comparative judgment.)*
+*Difficulty: High.*
+
+---
+
+**Challenge**
+
+*8. The genre distinction argument.* The chapter opens by distinguishing the annotated bibliography from three adjacent forms: the works-cited list, the literature review, and personal notes. The chapter claims the annotated bibliography does things the others do not. Write a 400–600 word argument that either defends or challenges that claim. Your argument must be specific: name what the annotated bibliography does, identify the closest competing form, and show — using evidence from the chapter or from your own research experience — whether the difference the chapter describes is real and whether it matters. You may disagree with the chapter's claim if you can make the case.
+*(Open-ended. Tests all five objectives and requires the student to argue about the genre itself.)*
+*Difficulty: High.*
+
+---
 
 ## LLM Exercise — Chapter 16
 
@@ -169,45 +242,32 @@ Here are my draft annotations:
 
 **How to adapt this prompt:**
 
-- *For Cowork:* useful if your annotations are spread across multiple files. Have Cowork read them before the conversation.
-- *For ChatGPT or Gemini:* works as written.
-- *For Claude Code:* not the right tool.
+For Cowork: useful if your annotations are spread across multiple files — have Cowork read them before the conversation. For ChatGPT or Gemini: works as written. For Claude Code: not the right tool.
 
 **The instructive failure to expect:** when the model evaluates your reflections, it sometimes produces vague suggestions like *make the connection more specific*. Push back: *Where specifically should I make the connection more specific? Quote the sentence you mean.* The specificity is the part of the feedback that helps.
 
-**Preview of next chapter:** the next chapter turns from the research apparatus to a specific research genre — the case study — where the writer's own observation becomes the primary evidence and the relationship between individual case and general claim becomes the central craft question.
-
-## What would change my mind
-
-If careful study of student research papers showed that those who had built thorough annotated bibliographies produced no better papers than those who had skipped the assignment, I would revise the chapter's central claim that the bibliography is doing useful work beyond the documentation function. The evidence from teaching practice is the other way — students with strong bibliographies write stronger papers — but the claim is empirical.
-
-## Still puzzling
-
-The student who has been changed by their reading produces a different bibliography than the student who has not. The annotations from the changed student carry the residue of having reconsidered; the unchanged student's annotations have a flat consistency that is sometimes visible only when you compare across the bibliography. I can name this pattern but I do not yet have a good way to teach students to *expect* to be changed by their reading. The reading they do is, for many students, mostly confirmatory by the time they sit down to write. The remedy may not be teachable in a textbook section.
-
 ---
 
-*Sources cited above link to primary text where available. The chapter draws on the OpenStax* Writing Guide with Handbook *Chapter 16 modules as the underlying scaffold, with all rendering, examples, voice, and analytical claims reworked for this textbook's pedagogy.*
+## AI Wayback Machine
 
-
----
-
-## 🕰️ AI Wayback Machine
-
-The ideas in this chapter didn't appear from nowhere. **Suzanne Briet** was working on *Qu'est-ce que la documentation?* (1951) — the foundational French text on what a document *is*, what a citation does, and what's lost when we treat them as clerical decades before most people had heard of the annotated bibliography. Here's a prompt to find out more — and then make it better.
+The ideas in this chapter didn't appear from nowhere. **Suzanne Briet** was working on *Qu'est-ce que la documentation?* (1951) — the foundational text on what a document *is*, what a citation does, and what is lost when we treat documentation as clerical work — decades before most people had heard of the annotated bibliography as a critical practice.
 
 **Run this:**
 
 ```
-Who was Suzanne Briet, and how does their work on documentation theory and the logic behind citation systems connect to the annotated bibliography as a critical, not clerical, act? Keep it to three paragraphs. End with the single most surprising thing about their career or ideas.
+Who was Suzanne Briet, and how does their work on documentation theory
+and the logic behind citation systems connect to the annotated
+bibliography as a critical, not clerical, act? Keep it to three
+paragraphs. End with the single most surprising thing about their
+career or ideas.
 ```
 
-→ Search **"Suzanne Briet"** on Wikipedia after you run this. See what the model got right, got wrong, or left out.
+Then search **"Suzanne Briet"** on Wikipedia. See what the model got right, got wrong, or left out.
 
 **Now make the prompt better.** Try one of these:
 
-- Ask it to explain Briet's famous example: an antelope in a zoo *is* a document, but an antelope in the wild *is not*. What's the principle behind the distinction?
+- Ask it to explain Briet's famous example: an antelope in a zoo *is* a document, but an antelope in the wild *is not*. What is the principle behind the distinction?
 - Ask: "Briet argued that documentation is fundamentally an *organizing* practice. What does that imply about how an annotated bibliography should be ordered — chronologically, by argument, by something else?"
-- Add the framing: "Answer as a 1951 librarian giving a talk on what citation could become in the next century — but written in 2026"
+- Add the framing: "Answer as a 1951 librarian giving a talk on what citation could become in the next century — but written in 2026."
 
 What changes? What gets better? What gets worse?
