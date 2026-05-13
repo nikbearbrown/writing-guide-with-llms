@@ -2,146 +2,191 @@
 
 *Writing That Has to Be Spoken to Work.*
 
-A specific moment, August 28, 1963.
+---
 
-A thirty-four-year-old Baptist minister stands at a podium in front of the Lincoln Memorial in Washington, D.C. The crowd in front of him stretches back along the reflecting pool — about 250,000 people, in what is now called the March on Washington for Jobs and Freedom. He has prepared a speech. He has been working on the text for weeks. He starts to read it.
+August 28, 1963. A thirty-four-year-old Baptist minister stands at a podium in front of the Lincoln Memorial. The crowd stretches back along the reflecting pool — about 250,000 people. He has prepared a speech. He has been working on the text for weeks. He starts to read it.
 
-About eleven minutes in, a singer named Mahalia Jackson, standing on the platform behind him, calls out: *Tell them about the dream, Martin.* Martin Luther King Jr. has been using *I have a dream* in earlier speeches; he has not yet used it in this one. He pauses. He pushes the prepared text aside. He begins to extemporize the section that is now the most quoted six minutes of twentieth-century American oratory.[^1]
+About eleven minutes in, the singer Mahalia Jackson, standing on the platform behind him, calls out: *Tell them about the dream, Martin.* King has been using the *I have a dream* passage in earlier speeches. He has not yet used it in this one. He pauses. He pushes the prepared text aside. He extemporizes the section that is now the most quoted six minutes of twentieth-century American oratory.[^1]
 
-[^1]: The historical detail of Mahalia Jackson's call and King's pivot is documented in multiple accounts, including Drew Hansen, *The Dream: Martin Luther King, Jr. and the Speech That Inspired a Nation* (HarperCollins, 2003). The full speech is available with transcript and audio at the [King Center](https://thekingcenter.org/) and [American Rhetoric](https://www.americanrhetoric.com/speeches/mlkihaveadream.htm).
+[^1]: Drew Hansen, *The Dream: Martin Luther King, Jr. and the Speech That Inspired a Nation* (HarperCollins, 2003). Full speech at [American Rhetoric](https://www.americanrhetoric.com/speeches/mlkihaveadream.htm).
 
-The "I Have a Dream" speech is taught for its repetitions, its parallelisms, its rhetorical structure, the way each beat builds on the last. The thing rarely taught is the *production conditions* — a written speech, an inspired extemporization, a public moment that made the extemporized section the historical one. The speech is what it is because King could write *and* could speak from the writing *and* could break from the writing when the moment required.
+This story is almost always told as a story about inspiration — the moment the spirit moved and the great speech happened. I want to tell it differently, because I think the usual telling misses what is actually interesting.
 
-That triple capacity — *writing for speech, delivering with timing, departing from the script when the moment opens* — is the craft this chapter is teaching.
+King was able to leave the script because he had a script. He had spent weeks building an argument, finding language, ordering evidence, rehearsing phrases. The extemporized section was not produced from nothing. It was produced from a speaker who had done so much preparation that he could depart from it when the moment required. The preparation is what made the departure possible.
 
-The assignment at the end of this chapter is to write a script of your own, intended for delivery to a public audience. Approximately five to ten minutes of speaking time, which is roughly 700 to 1,500 words on the page. A topic you can argue for or against. A specific audience the speech is shaped to reach.
+And here is the puzzle worth sitting with: the section he departed from the script to deliver is the section that survived. The prepared text, which he was reading from notes, is not what anyone remembers. The prepared text was good. The extemporization, made possible by everything the prepared text had built, was inescapable.
 
-## What scripting for the public forum is, and what it isn't
+What that means is that the thing we call inspiration — the unscripted, urgent, specific voice that breaks through in the second half of the speech — was not opposed to the craft of writing. It was its product. The craft created the conditions in which something beyond the craft could happen.
 
-*Scripted public speaking* is a hybrid genre — writing that exists to be performed aloud rather than read silently. It includes formal speeches, podcasts, scripted YouTube videos, sermons, TED-style talks, political addresses, conference presentations. The mode is fundamentally different from writing meant to be read.
+That is the subject of this chapter.
 
-What it is not:
+---
 
-- *Academic prose read aloud*. Academic prose, when read aloud, sounds wooden. The sentence structures are too long, the dependent clauses pile up, the vocabulary skews abstract. A script intended for speech has to be calibrated to the mouth.
-- *Improvised speaking*. Real extemporaneous speaking has its own discipline; that is a different chapter. The script is prepared. The performance may include moments of departure from the script, but the foundation is prepared text.
-- *A debate transcript*. Debate is dialogic; scripted speech is monologic. The audience is implied but not present in the script's voice.
-- *Stage drama*. Theater scripts are dialogic, structured around characters in scenes. A public-forum script is one voice — yours, or the voice of whoever will deliver it.
+## The thing that makes a script different
 
-The genre lives in the gap between writing and performance. The writer has to think about how the words will land when spoken, how the pace will work, where the audience's attention will flag, where the emotional weight should fall.
+Writing for the page and writing for the ear are not two registers of one skill. They are different problems.
 
-## How writing for speech differs from writing for reading
+A reader can re-read. They can slow down, go back, parse a long sentence, look up a word. A listener cannot do any of those things. The words arrive in real time and are processed in real time, and then they are gone. The listener's working memory is holding the current sentence while the next sentence is already arriving. What does not survive working memory is lost.
 
-Several specific differences.
+This changes everything about what the writing has to do.
 
-**Sentence length.** Reading allows for long sentences with multiple clauses; the reader can re-read, slow down, parse. Speech does not. A spoken sentence has to complete in the listener's working memory while the next sentence is starting. Shorter sentences are generally better. The strongest spoken prose alternates short and longer sentences for rhythm, but the short sentences carry more weight than they would in writing.
+Sentence length is the first casualty. A sentence with three dependent clauses can be parsed by a reader who has the page in front of them. The same sentence, spoken, arrives at the ear in pieces that have to be reassembled on the fly. The reassembly often fails. The listener hears words. They do not follow the argument. The sentence has to be shorter. Not all sentences — you want variation for rhythm — but the sentences that carry the most argumentative weight should be short enough to survive working memory intact.
 
-**Repetition.** Repetition feels redundant in writing. Repetition is necessary in speech, because the listener cannot re-read. The signposting, the recurring phrase, the parallel structure — these are not stylistic flourishes but structural tools that help the listener track the argument.
+Repetition is the second change. Repetition in writing feels like padding or carelessness. Repetition in speech is *structural*. The listener cannot re-read the signpost you established twelve sentences ago. You have to re-establish it. The recurring phrase, the parallel construction, the rhetorical device that keeps returning — these are not flourishes. They are the mechanism that lets a listener track an argument across ten minutes of speech when they have no page to look back at.
 
-**Concrete language.** Spoken language tolerates abstraction less well than written language. A phrase like *the structural conditions that produce socioeconomic inequality* reads fine but speaks badly. The same idea in concrete language — *the rules that mean some kids never have a chance, no matter how hard they work* — speaks better.
+Concrete language is the third. A phrase like *the structural conditions that produce socioeconomic inequality* reads fine in a policy paper. Spoken aloud, it arrives as a blur. The same idea in concrete language — *the rules that mean some kids never have a chance, no matter how hard they work* — enters through the ear and lands. The difference is not about dumbing down. It is about the physics of how spoken language is processed. Abstract language requires more working memory to unpack. Concrete language requires less. When you are competing with the listener's full attention for ten minutes, every word that requires more work is a tax.
 
-**Direct address.** A script can speak directly to *you* — the listener — in a way an essay cannot. The second-person address is one of the genre's strongest tools.
+Direct address — *you*, the listener, right now in this room — is a tool writing cannot use as effectively as speech can. The script can speak directly to the person hearing it in a way an essay cannot, and the moment of direct address is a moment of renewed attention.
 
-**Pacing markers.** Strong scripts include explicit cues to the speaker about pace and emphasis. *Pause.* *Slow down here.* *Faster.* These are stage directions to the deliverer. They do not appear in the audience's reception of the speech; they shape it.
+<!-- → [TABLE: Four-row comparison table — rows: Sentence length, Repetition, Concrete language, Direct address. Columns: Writing for the page (what it allows and why), Writing for the ear (what it requires and why), Root cause (the single constraint that makes each difference necessary). Caption: "All four differences follow from one fact: listeners cannot re-read." Purpose: make the derivation from constraint to technique visible as a system before Exercise 1 asks students to convert a passage.] -->
 
-**Question-and-answer structure.** Rhetorical questions in writing can feel pedantic. In speech, they are an attention-keeping device. *What did the report actually find? Three things, in order.* The question and the listed answer create a forward momentum that holds attention.
+---
 
-## The structure of a public-forum script
+## The machinery of repetition
 
-A working shape, calibrated to a 5-10 minute talk.
+The strongest public speeches are built on three techniques that are distinct but closely related: repetition, parallelism, and cadence.
 
-**Opening.** The first 30 seconds. You have to do three things very fast: capture attention, establish credibility, signal what the talk is about. A specific image, a specific number, a specific question, a specific story — anything concrete enough to lodge in the listener before they've decided whether to keep listening.
+*Repetition* is the return of the same phrase across multiple sentences. *Parallelism* is the use of similar grammatical structures in adjacent sentences. *Cadence* is the rhythmic pattern of stressed and unstressed syllables — the music of the sentence.
 
-**Body.** Two to four main points, each developed with evidence and rendered specifically. The points are the bones; the supporting material is the muscle.
+A few examples that show how these work at different scales.
 
-**Transitions.** Between sections, explicit transitional language. *That brings me to the second thing I want to argue.* *Here is where it gets harder.* *Now consider what happens if we...* The listener cannot see the white space between paragraphs. The transitions have to be audible.
+Lincoln, Gettysburg Address, 1863: *we cannot dedicate — we cannot consecrate — we cannot hallow — this ground.* Three parallel verbs. Three negations. Each verb is more solemn than the previous one. The cadence rises through the three and lands hard on *ground*. Remove the repetition and you have *we cannot dedicate, consecrate, or hallow this ground* — grammatically correct, rhetorically flat.
 
-**Climactic moment.** Somewhere in the second half, the talk should have a peak — the moment where the stakes get highest, the language gets sharpest, the argument crystallizes. Speakers refer to this as the *landing point* or *the close before the close*.
+Kennedy, Inaugural Address, 1961: *Let every nation know, whether it wishes us well or ill, that we shall pay any price, bear any burden, meet any hardship, support any friend, oppose any foe, in order to assure the survival and the success of liberty.* Five parallel verb phrases, each beginning with a strong verb. The cadence creates momentum. By the time you reach the fifth phrase, the sentence has built such speed that it cannot be interrupted. The list argues by accumulation.
 
-**Conclusion.** Restates the central claim. Names the specific action or shift you are asking of the audience. Ends with a sentence that lands.
+King, "I Have a Dream," 1963: *I have a dream that one day on the red hills of Georgia, the sons of former slaves and the sons of former slave owners will be able to sit down together at the table of brotherhood. I have a dream that one day even the state of Mississippi, a state sweltering with the heat of injustice, sweltering with the heat of oppression, will be transformed into an oasis of freedom and justice.* The repeated *I have a dream* anchors each new vision. The internal parallelism — *the sons of former slaves and the sons of former slave owners*; *sweltering with the heat of injustice, sweltering with the heat of oppression* — produces the rhythmic accumulation that makes the passage inescapable.
 
-The shape applies across speech genres — a TED talk, a podcast monologue, a scripted YouTube essay, a campus speech. The proportions vary. The bones are the same.
+Chief Joseph, Nez Percé surrender speech, 1877: *I am tired of fighting. Our chiefs are killed... The old men are all dead... The little children are freezing to death... I am tired. My heart is sick and sad. From where the sun now stands, I will fight no more forever.* The repetition here is structural — *tired*, *killed*, *dead*, *freezing*, *sad* — a descending sequence. The final line is built to survive in the listener's memory indefinitely. Six short words, then four — *I will fight no more forever* — ten words total, and they land like something that will not move.
 
-## Repetition, parallelism, and the music of speech
+Three different scales, three different purposes, three different relationships to emotion and argument. What they share: the techniques were applied deliberately. The choices were made. The cadence was built.
 
-A specific craft note.
+The practical point for the student scale: you do not need to be writing on the scale of King or Lincoln. The cadence of three is reliable at any scale. One strategically repeated phrase across a five-minute talk is enough. One parallel structure in the closing gives the ending somewhere to land. These are learnable tools, not innate talents, and they work at the student level precisely because most student speeches do not use them and the contrast is audible.
 
-The strongest public speeches make use of three closely related techniques: *repetition* (repeating the same phrase across multiple sentences), *parallelism* (using similar grammatical structures in adjacent sentences), and *cadence* (the rhythmic pattern of stressed and unstressed syllables). Each is doing structural work.
+<!-- → [TABLE: Four-row annotated reference table — rows: Lincoln (Gettysburg), Kennedy (Inaugural), King ("I Have a Dream"), Chief Joseph (surrender speech). Columns: Technique used, Structural work it does, The move in one phrase. Each passage key phrase quoted in the table. Caption: "Three different scales, three different purposes — the techniques were applied deliberately in each." Purpose: give the student a side-by-side reference for Exercise 2's identification task before asking them to apply the techniques themselves in Exercise 4.] -->
 
-A few examples, condensed.
+---
 
-Lincoln, Gettysburg Address (1863): *we cannot dedicate — we cannot consecrate — we cannot hallow — this ground.* Three parallel verbs. Three negations. Each verb is more solemn than the last. The cadence rises through the three, lands hard on *ground*. The line is built for the mouth.
+## Structure at the scale of a five-to-ten minute talk
 
-Kennedy, Inaugural Address (1961): *Let every nation know, whether it wishes us well or ill, that we shall pay any price, bear any burden, meet any hardship, support any friend, oppose any foe...* Five parallel verb phrases, each beginning with a strong verb and an indefinite article. The cadence creates momentum. The list builds; no one is going to interrupt it.
+A public forum talk of five to ten minutes has a predictable architecture, and knowing the architecture in advance frees you from having to discover it while drafting.
 
-King, "I Have a Dream" (1963): *I have a dream that one day on the red hills of Georgia, the sons of former slaves and the sons of former slave owners will be able to sit down together at the table of brotherhood. I have a dream that one day even the state of Mississippi, a state sweltering with the heat of injustice, sweltering with the heat of oppression, will be transformed...* The repeated *I have a dream* anchors each new vision. The internal parallelism within each vision — *the sons of former slaves and the sons of former slave owners*; *sweltering with the heat of injustice, sweltering with the heat of oppression* — produces the rhythmic accumulation that makes the speech inescapable.
+The opening — the first thirty seconds, now probably the first ten seconds in a world with TikTok attention norms — has to do three things nearly simultaneously: capture attention, establish credibility, signal what the talk is about. The trap is the generic opening: *Today I want to talk to you about...*; *Imagine for a moment that...*; *I'd like to start with a question.* These openings work as signals. They do not capture attention because they sound like the opening of every other talk the audience has heard.
 
-Chief Joseph, Nez Percé surrender speech (1877): *I am tired of fighting. Our chiefs are killed... The old men are all dead... The little children are freezing to death... I am tired. My heart is sick and sad. From where the sun now stands, I will fight no more forever.* The repetition is structural — *tired*, *killed*, *dead*, *freezing*, *sad*. The cadence is contained, almost terse. The final line — *From where the sun now stands, I will fight no more forever* — is a sentence built to land in the listener's memory for the rest of their life.
+The opening that works is specific. A specific moment. A specific number. A specific question the audience has not been asked before. A specific image that contains the whole argument in compressed form. The first sentence of the talk is the one that decides whether the audience is listening or waiting.
 
-Each of these is using techniques you can apply at the student scale. The cadence of three is reliable. The strategic repetition of a key phrase is reliable. The parallel construction across multiple sentences is reliable.
+The body organizes two to four main points, each developed with evidence and rendered specifically. The points are the skeleton. The supporting material — the story, the statistic, the example, the quotation — is what makes the skeleton visible.
 
-You do not need to be writing on the scale of King or Lincoln. You do need to know that these are tools — that a student speech that uses one repeated phrase, one parallel structure, one carefully cadenced ending, lands harder than one that doesn't.
+Between sections, the transitions have to be audible. The listener cannot see the white space between paragraphs. *That brings me to the second thing.* *Here is where it gets harder.* *Now consider what happens when.* These are not elegant. They are necessary. Without them, the audience hears the words but does not know where they are in the argument.
 
-## Delivery — the part the script doesn't fully control
+Somewhere in the second half, the talk should have a peak — the moment where the stakes are highest, the language is sharpest, the argument crystallizes. Speakers call this the landing point or the close before the close. Everything before it builds toward it. Everything after it is resolution.
 
-A script is one half of a public talk. Delivery is the other half. The same script, delivered by two different speakers, produces two different experiences. The script can be optimized for delivery; the speaker still has to deliver.
+The conclusion restates the central claim, names what specific action or shift the talk is asking of the audience, and ends with a sentence that lands. The last sentence is the one the audience will remember. Write it first. Then build everything toward it.
 
-Some specific delivery skills.
+<!-- → [DIAGRAM: Linear flow diagram of a 5–10 minute talk — Opening (first 10–30 seconds) → Body point 1 + evidence → Audible transition → Body point 2 + evidence → Audible transition → Body point 3 (optional) + evidence → Climactic moment (second half) → Conclusion. Annotations: Opening labeled "3 jobs simultaneously: attention, credibility, topic"; Climactic moment labeled "everything before builds toward here"; Conclusion labeled "write this first." Purpose: make the architecture scannable before Exercise 5 asks students to map a talk's structure.] -->
 
-**Pace.** The script tells the speaker how fast to go. Most beginning speakers go too fast. The average reading rate for prose is about 200 words per minute; the strongest public speakers slow to 130-150 words per minute. The slower pace gives the listener time to receive each sentence. The script can build in slowness through punctuation, line breaks, or explicit stage directions.
+---
 
-**Volume.** Loud enough to be heard at the back. Quieter at moments of intimacy or weight. The variation matters; uniform volume reads as monotone.
+## Delivery — the part the script does not fully control
 
-**Pitch.** The speaker's voice goes up at the end of questions and down at the end of statements. Beginning speakers sometimes habitually raise pitch at the end of every sentence — *uptalk* — which signals uncertainty. The discipline is to land the end of statements down.
+A script is one half of a public talk. Delivery is the other half.
 
-**Articulation.** Each consonant should be heard. *Hard* not *har*. *Government* not *guvmint*. The clarity is not formality; it is audibility.
+The most important delivery skill for beginning speakers is pace. Most beginning speakers go too fast. The natural reading pace for prose is around 200 words per minute. The strongest public speakers slow to 130–150 words per minute. The slower pace gives the listener time to receive each sentence before the next arrives. The script can build in slowness through punctuation, through line breaks in the script itself, through explicit stage directions: *(pause)*. *(slower here)*. *(quiet)*.
 
-**Eye contact.** With a live audience: the speaker looks at specific faces in the room, not at the back wall. With recorded delivery: the speaker looks at the camera lens.
+The pause is the most underused tool in public speaking. A two-second pause before a critical sentence gives the audience time to settle and attend. A one-second pause after a critical sentence lets the sentence land before being covered by the next one. Beginning speakers fill every silence; experienced speakers use silence as a tool. The script can mark the pauses explicitly.
 
-**Pause.** The most underused tool. A two-second pause before a critical sentence makes the sentence land. A one-second pause after a critical sentence lets the sentence land. Beginning speakers fill every silence; advanced speakers use silence as a tool.
+Pitch deserves one specific note. English speakers signal question with rising pitch at the end and statement with falling pitch. The habit many beginning speakers have — raising pitch at the end of every sentence regardless of type, called uptalk — signals uncertainty about the sentence that just ended. Statements should land down. The script can remind you of this by how it is punctuated.
 
-**Body.** Hands at your sides, then deliberately to gesture, then back. Avoid pacing. Avoid playing with a pen or a slide remote. The body is part of the message.
+The body is part of the message whether you intend it to be or not. Hands at your sides, then deliberately moved to gesture, then back to neutral. The gesture that is always happening does not mean anything; the gesture used deliberately for one moment means something. For recorded delivery, the camera is your audience: you look at the lens, not at the screen.
 
-These cannot be fully scripted. They can be planned. The strongest scripts include parenthetical notes — *(pause)*, *(slower)*, *(quiet)* — to remind the speaker of choices during composition.
+These cannot be scripted in advance. They can be planned. The strongest scripts include explicit delivery notes throughout — not instructions for every sentence, but markers at the high-stakes moments where the delivery choice will make or break the landing.
 
-## The 2026 script — speaking into an attention-fragmented world
+<!-- → [TABLE: Delivery reference table — rows: Pace, Pause, Pitch, Volume, Body/gesture. Columns: What it does, Common error for beginning speakers, How to mark it in the script (stage direction notation). Caption: "Delivery cannot be fully scripted. It can be planned." Purpose: give the student a reference for the stage-direction choices before Exercise 4 asks them to add delivery notes to a one-minute passage.] -->
 
-A specific contemporary problem.
+---
 
-Public speakers in 2026 are competing for attention against a media environment that has trained audiences to expect rapid pacing, constant visual stimulation, and short content blocks. The TikTok format has shifted the baseline; a viewer's willingness to listen to a single voice for ten uninterrupted minutes is lower than it was a decade ago.
+## The contemporary problem
 
-This is not a counsel of despair. Long-form audio is thriving (podcasts, audiobooks, scripted YouTube essays). Long-form video is thriving. The audience for sustained spoken argument exists. But the writer of a script in 2026 has to know they are competing for the audience's attention against the rest of the audience's media diet.
+A specific difficulty that did not exist twenty years ago.
 
-Some specific implications.
+Public speakers in 2026 are competing for attention against a media environment that has trained audiences to expect rapid pacing, frequent cuts, constant novelty. The TikTok format has shifted the baseline of what audiences are conditioned to receive. A single voice, speaking for ten uninterrupted minutes, is asking something of an audience that the rest of their media diet has been actively eroding.
 
-**The first 30 seconds are now the first 10.** You have less time to capture attention than you did in 1990. The opening has to be sharper.
+This is not a counsel of defeat. Long-form audio is thriving — podcasts, audiobooks, scripted essay series. The audience for sustained spoken argument exists. But the writer of a script in 2026 has to know what they are competing with.
 
-**Internal rhythm matters more.** The speaker's script should have an arc of attention — moments of compression, moments of release, moments of high stakes, moments of lower-stakes scene-setting — so that the listener's attention is renewed at intervals.
+Three specific implications.
 
-**The strongest spoken content is more, not less, idiosyncratic.** The TikTok format rewards specific personality; podcasts reward specific voice. Generic spoken content blends into background noise. The voice that survives the attention crisis is the voice that is specifically itself.
+The first thirty seconds are now more expensive than they have ever been. The opening has to do more work faster. The tolerance for a slow build to the main point has decreased. You have to be inside the argument before the audience decides to go elsewhere.
+
+The internal rhythm of the script matters more. A ten-minute talk that has one register throughout — one pace, one emotional temperature, one level of abstraction — will lose the audience somewhere in the middle. The talk needs an arc of attention: moments of high compression alternating with moments of more expansive scene-setting, moments of high stakes alternating with moments of lower-stakes specificity, so the audience's attention is renewed at intervals rather than sustained uniformly for ten uninterrupted minutes.
+
+The voice that survives the attention crisis is specific. Generic public-speaking registers — the motivational talk, the policy pitch, the TED-style confident delivery — blend into each other. The voice that is specifically itself, idiosyncratic in some way, is the one that the audience can attend to for ten minutes without losing track of who is talking and why it matters to listen to this particular person rather than any other.
+
+---
 
 ## A note about AI
 
-The script genre is one where the LLM is genuinely useful, with specific cautions.
+The script genre is one where the model is useful for specific things and actively harmful for others.
 
-Useful:
+Three useful applications. Brainstorming structural alternatives: paste your topic and audience and ask the model for three or four different structural arcs the talk could follow. The model is good at generating alternatives; you pick the one that fits. Identifying speakability problems: paste a draft passage and ask which sentences would be difficult to deliver aloud, where the speaker might stumble. The model can catch prose-shaped sentences that don't speak well. Audience analysis: ask the model to describe the assumptions, prior knowledge, and likely objections of a specific audience type. The output is a starting point for tuning the script.
 
-*Outline brainstorming.* Ask the model for multiple structural options for a script on your topic. The model is good at generating alternatives. You pick the one that fits.
+Three damaging applications. Drafting the speech: the model will produce a generic-sounding speech, and generic is the thing this genre cannot afford. Specific voice is the genre's primary currency, and the model's drafts are averaged across many speeches rather than emerging from the one voice that will deliver this one talk. Generating historical quotations: the model invents plausible-sounding quotations from historical figures. Only use quotations you have verified against primary sources. Polishing toward professional tone: the model will flatten your specific voice toward a generic public-speaking register. Every revision suggestion should be read against your own voice before accepting it.
 
-*Phrase-level revision for speakability.* Paste a draft and ask: *Which of these sentences would be difficult to deliver aloud? Where would the speaker stumble?* The model is reasonably good at identifying the prose-shaped sentences that don't speak well.
+One specific 2026 note: voice synthesis is now available at low cost. You can produce audio of yourself, or of someone else with their explicit permission, saying things you wrote. This has legitimate uses — you can hear your script read in your own voice before delivery — and obvious abuses. The ethical position is that synthetic voice, when used, is owed disclosure to the audience. The script is yours; the production decisions are yours; the integrity of what is presented as your voice is yours to protect.
 
-*Cadence checking.* Paste a passage and ask the model to read it aloud (with TTS) or to describe the cadence. The model will sometimes catch rhythm problems you missed in silent reading.
+---
 
-*Audience analysis.* Ask the model to describe the assumptions, attention patterns, and likely objections of a specific audience. Useful for tuning the script.
+## Exercises
 
-Damaging:
+The chapter's inferred learning objectives: (1) explain why writing for speech and writing for the page are different problems — deriving the specific differences (sentence length, repetition, concrete language, direct address) from the constraint that listeners cannot re-read; (2) identify and apply the three techniques of repetition, parallelism, and cadence in a piece of public speech, naming what structural work each is doing; (3) construct an opening for a public talk that does the three required things — capture attention, establish credibility, signal topic — without falling into generic openers; (4) plan the structure of a five-to-ten minute talk using the architecture the chapter describes; (5) identify and plan delivery choices — pace, pause, pitch, volume — and incorporate them as stage directions in a script.
 
-*Drafting the speech.* The model will produce a generic-sounding speech. Generic does not work in this genre. Specific voice is the genre's currency.
+---
 
-*Generating quotes from historical figures.* Models will produce plausible-sounding quotations that those figures did not say. Only use quotes you have verified.
+**Warm-up**
 
-*Polishing toward "professional" tone.* The model will tend to flatten your specific voice toward a generic public-speaking register. Read every revision against your own voice.
+*1. Page prose vs. spoken prose.* Take any paragraph from an essay you have written this semester. Read it aloud. Then rewrite it for delivery: shorten the sentences, add one direct address to the listener, replace any abstract phrase with a concrete one, and add one explicit transition between ideas. Write the two versions side by side. Then write two sentences explaining what the spoken version sacrifices and what it gains.
+*(Tests objective 1 — applying the page-to-ear conversion.)*
+*Difficulty: Low.*
 
-A specific 2026 caution: voice cloning is now available. You can produce audio of yourself, or of someone else with their permission, saying things you wrote. This has obvious uses (you can record your script in your own voice with relatively little setup) and obvious abuses (you can produce audio of yourself or others saying things that were never said). The honest position is that voice technology is a tool; the script you write is yours; the production decisions you make are yours; the disclosure of synthetic voice work, when used, is owed to your audience.
+*2. Identify the techniques.* The chapter analyzes four historical passages for repetition, parallelism, and cadence. Choose any two of the four (Lincoln, Kennedy, King, Chief Joseph). For each, identify: (a) one instance of repetition and the structural work it does; (b) one instance of parallelism and the grammatical structure it uses; (c) the specific words where the cadence lands hardest. Write three sentences per passage.
+*(Tests objective 2 — identifying the three techniques and naming what each does.)*
+*Difficulty: Low.*
+
+---
+
+**Application**
+
+*3. The opening diagnostic.* Write three versions of an opening for a short talk on any topic you choose. Each should be under 75 words. Version 1: a generic opener (use one of the traps the chapter names — *Today I want to talk to you about...*, *Imagine for a moment...*, or similar). Version 2: a specific opener that captures attention but fails to signal the topic. Version 3: an opener that does all three things. For each, write one sentence naming what it achieves and what it doesn't. The exercise is to feel the difference, not to produce three excellent versions.
+*(Tests objective 3 — constructing and evaluating openings against the three-requirement standard.)*
+*Difficulty: Medium.*
+
+*4. Script a one-minute passage.* Write a one-minute passage (approximately 150 words) of scripted speech on a topic you know well enough to argue. The passage must include: one instance of deliberate repetition (the same phrase twice), one instance of parallelism (two or more parallel grammatical structures), one direct address to the listener, and one explicit stage direction (a delivery note in parentheses). After the passage, write three sentences identifying each technique and explaining what work you intended it to do.
+*(Tests objectives 2 and 5 — applying the techniques and planning delivery choices.)*
+*Difficulty: Medium.*
+
+*5. Structure map.* Plan the structure of a five-to-seven minute talk using the architecture the chapter describes. You do not need to write the talk — just the map. For each structural moment (opening, body points, transitions, climactic moment, conclusion), write two to three sentences naming what it will contain and what work it will do. Include one sentence identifying where in the second half the climactic moment will fall and why you placed it there.
+*(Tests objective 4 — planning a talk's architecture before drafting.)*
+*Difficulty: Medium.*
+
+---
+
+**Synthesis**
+
+*6. Speakability audit.* Take a 300-word passage from any written source — an academic paper, a news article, a textbook chapter. Read it aloud. Mark every sentence where you stumble, slow down involuntarily, or lose the thread of the argument. Rewrite the passage for delivery: shorten the stumble sentences, replace the abstract phrases with concrete ones, add one repetition device. Then record yourself reading both versions aloud (a phone memo is fine). Write 150 words describing what changed between the two readings and what the recording revealed that silent reading did not.
+*(Tests objectives 1 and 2 — the page-to-ear conversion and the effect of deliberate technique.)*
+*Difficulty: Medium-high.*
+
+*7. Full script draft with delivery notes.* Write the complete script for a three-to-five minute talk (approximately 450–750 words) on a topic of your choice. The script must include: a non-generic opening that does all three required things; at least one instance each of repetition, parallelism, and a concrete-language substitution for an abstraction; at least three explicit delivery stage directions; and a closing sentence you wrote last and built everything toward. After the script, write 200 words identifying the specific choices you made and evaluating whether each one does what you intended.
+*(Tests all five objectives together — the full script from architecture through technique through delivery.)*
+*Difficulty: High.*
+
+---
+
+**Challenge**
+
+*8. The preparation paradox.* The chapter opens with a claim about the King speech: the extemporized section was possible because the prepared section had been built. King could depart from the script because he had one. The chapter then acknowledges (in the framing) that it does not teach students when or how to leave the script — only how to build one. Write a 400–600 word argument addressing this gap. Is the ability to depart from a prepared script teachable? If yes, what would that pedagogy look like and what would it require of the student? If no, what is the implication for what scripting instruction can and cannot accomplish? Use at least one specific example — from the chapter's historical cases or from your own experience — to anchor the argument.
+*(Open-ended. Tests all five objectives and asks the student to argue about the limits of the chapter's own framework.)*
+*Difficulty: High.*
+
+---
 
 ## LLM Exercise — Chapter 22
 
@@ -196,45 +241,32 @@ writing is mine.
 
 **How to adapt this prompt:**
 
-- *For ChatGPT or Gemini:* works as written.
-- *For Cowork:* useful for keeping the script in a versioned file as you draft and revise.
-- *For Claude Code:* not the right tool.
+For ChatGPT or Gemini, the prompt works as written. For Cowork, useful for keeping the script in a versioned file as you draft and revise. For Claude Code, not the right tool.
 
-**The instructive failure to expect:** the model will sometimes propose openings that are clichés of public speaking — *I'd like to start with a story* or *imagine for a moment*. Reject the cliché openings. Push: *Give me an opening that doesn't sound like a thousand other public speeches.* The specificity is the goal.
-
-**Preview of next chapter:** the final chapter of this book turns from producing new work to reflecting on the work you have already produced. The portfolio reflection asks you to look back across the whole semester and articulate what you have learned about yourself as a writer.
-
-## What would change my mind
-
-If careful study showed that the cadence-and-repetition discipline this chapter emphasizes produced student speeches that read as *imitative* rather than authoritative — that the techniques worked when MLK or Lincoln used them and worked against students trying to use the same techniques at a smaller scale — I would revise the chapter's central focus on these specific tools. The evidence from teaching is the opposite; students who use the tools deliberately, even at student scale, produce speeches that land. But the worry is real.
-
-## Still puzzling
-
-The relationship between *scripted* and *extemporaneous* speech is one this chapter does not fully resolve. The strongest public speakers can move between the two. The chapter teaches the scripted version. The extemporaneous version requires a different set of skills — improvisational, responsive, courageous — that I do not yet have a teaching pedagogy for. The King example with which the chapter opens is precisely the case where the speaker had to leave the script to do the work. Whether to teach students to be willing to leave the script, and how, is something the chapter does not address.
+**The instructive failure to expect:** the model will sometimes propose openings that are clichés of public speaking — *I'd like to start with a story* or *imagine for a moment*. Reject them. Push: *Give me an opening that doesn't sound like a thousand other public speeches.* The specificity is the goal.
 
 ---
 
-*Sources cited above link to primary text where available. The chapter draws on the OpenStax* Writing Guide with Handbook *Chapter 22 modules as the underlying scaffold, with all rendering, examples, voice, and analytical claims reworked for this textbook's pedagogy.*
+## AI Wayback Machine
 
-
----
-
-## 🕰️ AI Wayback Machine
-
-The ideas in this chapter didn't appear from nowhere. **Walter Ong** was working on *Orality and Literacy* — the argument that writing for the page and writing for the ear are not two registers of one craft but two different cognitive worlds decades before most people had heard of scripting for the public forum. Here's a prompt to find out more — and then make it better.
+The ideas in this chapter didn't appear from nowhere. **Walter Ong** was working on *Orality and Literacy* — the argument that writing for the page and writing for the ear are not two registers of one craft but two different cognitive worlds — decades before most people had heard of scripting for the public forum.
 
 **Run this:**
 
 ```
-Who was Walter Ong, and how does their work on orality, literacy, and the difference between writing for readers and writing for listeners connect to scripting for the public forum — writing meant to be spoken aloud? Keep it to three paragraphs. End with the single most surprising thing about their career or ideas.
+Who was Walter Ong, and how does their work on orality, literacy, and
+the difference between writing for readers and writing for listeners
+connect to scripting for the public forum — writing meant to be spoken
+aloud? Keep it to three paragraphs. End with the single most surprising
+thing about their career or ideas.
 ```
 
-→ Search **"Walter Ong"** on Wikipedia after you run this. See what the model got right, got wrong, or left out.
+Then search **"Walter Ong"** on Wikipedia. See what the model got right, got wrong, or left out.
 
 **Now make the prompt better.** Try one of these:
 
-- Ask it to list the features Ong identified as distinguishing oral cultures from literate ones — and identify which features have returned in podcasts, voice memos, and TikTok
+- Ask it to list the features Ong identified as distinguishing oral cultures from literate ones — and identify which features have returned in podcasts, voice memos, and TikTok.
 - Ask: "Ong was a Jesuit priest who worked on both Renaissance rhetoric and modern media. What did each of those archives contribute to *Orality and Literacy*?"
-- Add the framing: "Answer as if you're writing the script for a five-minute talk *about* Ong — designed to land in the ear, not on the page"
+- Add the framing: "Answer as if you're writing the script for a five-minute talk *about* Ong — designed to land in the ear, not on the page."
 
 What changes? What gets better? What gets worse?
