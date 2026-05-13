@@ -2,79 +2,163 @@
 
 *What You Already Have Before You Write a Word.*
 
-Here is a thing that happens in almost every writing class on the first day, and that almost nobody mentions out loud.
+---
 
-The instructor stands at the front of the room. The instructor knows none of you. You know none of each other. The instructor says some version of: *welcome, this is a writing class, you will be writing*. And every person in the room reaches, silently, for the question they brought in with them — *am I going to be good at this?*
+Here is something that puzzles me about writing instruction, and I want to start with the puzzle rather than the answer, because I think the answer only makes sense once you feel the puzzle.
 
-The question is interesting because everyone in the room has already been writing for years. You write text messages. You write captions. You write notes to yourself. You write to your grandmother on a birthday card. You wrote, this morning or last week, something you re-read before sending because you wanted to get it right. The question is not whether you can write. You can. The question is whether what you carry into this room counts.
+Every student who walks into a writing class has already been writing for years. Not a little — a lot. Messages, captions, long texts to one specific person at 2 a.m. that you rewrote three times before sending. Captions for photos where the joke needed to land exactly right. Notes to yourself that you knew only you would read, so you wrote them in shorthand that nobody else has. Birthday cards where you had six square inches and wanted to say something that actually meant something. You have been doing this work for years, in dozens of registers, for dozens of audiences, with dozens of different goals.
 
-It counts. That is the whole argument of this short opening chapter. The rest of the chapter is just about specifying what that means.
+So here is the puzzle. Why do so many students walk into a writing class convinced they cannot write?
 
-## The pack
+I have been thinking about that question for a long time, and I think the answer is this: they have been taught, by experience if not by instruction, that the kind of writing they do every day does not count. That "real writing" is something else — something they do not yet have access to, something that needs to be given to them by a class or a teacher or a credential. The writing in their pocket, the writing they do without thinking about it, the writing that actually works on the people it needs to work on — that is invisible. It does not appear in the ledger.
 
-In 1990 the writer Tim O'Brien — a Vietnam veteran whose unit was in Quảng Ngãi province in 1969 and 1970 — published a story called "The Things They Carried."[^1] The story does something unusual. It tells you who the soldiers are by listing what is in their packs.
+This chapter is about putting it in the ledger.
+
+---
+
+## What I mean by "carry"
+
+In 1990, Tim O'Brien — a Vietnam veteran who served in Quảng Ngãi province with the 23rd Infantry Division in 1969 and 1970 — published a story called "The Things They Carried."[^1] The story is built on a list. What did the soldiers carry in their packs?
 
 [^1]: Tim O'Brien, *The Things They Carried* (Houghton Mifflin, 1990).
 
-The required items are uniform. M-16 rifle, ammunition, helmet, rations, canteens, two or three pairs of socks, a poncho. Those tell you nothing about the men — every soldier carries them. The differentiating items are what the story is about. One soldier carries letters from a woman named Martha. Another carries a Bible. Another carries comic books. One carries a thumb taken from the body of a fifteen-year-old. Another carries marijuana. Another carries his grandmother's distrust of the white man, which O'Brien names in the same sentence as the canteens.
+Some of it is standard issue. M-16, ammunition, helmet, rations, two or three pairs of socks, a poncho. Every soldier has those. They do not tell you anything about who the soldier is. Then O'Brien starts listing the individual items. One soldier carries letters from a woman named Martha, which he has folded so many times the paper has gone soft. Another carries a Bible. Another carries comic books. One carries a thumb taken from the body of a fifteen-year-old enemy soldier. One carries marijuana. And one — O'Brien names this in exactly the same grammatical structure as the canteens and the ammunition — carries his grandmother's distrust of the white man.
 
-That last category is the one to notice. O'Brien lists physical objects and psychological objects in the same list, in the same sentences, with the same grammar. *Carrying* is not just what your hands are doing. It is what you brought into the room. The distinction between an object you can drop and a habit of mind you cannot — O'Brien refuses to honor it. They go in the same pack.
+That last item is the one I want you to sit with. O'Brien puts a psychological object — a specific inherited suspicion, shaped by a specific history — in the same list as physical objects. He uses the same verb. *Carrying* is not just what your hands do. It is what you brought into the room. The distinction between something you can drop on the floor and something you cannot put down even when you want to — O'Brien refuses to honor that distinction. They all go in the same pack.
 
-You are walking into a writing classroom carrying things in O'Brien's wider sense. Some are objects in the literal sense — a notebook, a laptop, a coffee, a phone in your pocket. The interesting items are not those. The interesting items are the ones that affect what you will and will not write.
+<!-- → [INFOGRAPHIC: Two-column visual contrasting "standard-issue" items (identical across every soldier/student — left column) vs. "differentiating" items (specific to one person — right column), using the O'Brien soldier list on the left and a parallel student literacy list on the right. Purpose: make the standard-issue/differentiating distinction visceral before the student encounters it in Exercise 1.] -->
 
-A specific list. The language your family speaks at the dinner table. The first book you remember being read to you, and whether anyone read to you at all. The grandfather who told stories in a way nobody else in your family could imitate. The teacher in third grade who marked up a poem of yours in red pen, and the teacher in seventh grade who didn't. The Discord server where you developed a voice that has nothing to do with the voice you use with your parents. The accent you have, or do not have, or have been told to lose. The texts you have written that nobody graded — the long messages to one friend at 2 a.m. that did real work because you needed them to.
+You are walking into a writing class carrying things in O'Brien's wider sense. A specific list, though not the same for any two people. The language your family speaks at the dinner table, and whether that language changes when relatives come over. The first book you remember being read to you — or the fact that no one read to you, which is equally formative. The teacher in third grade who put a red X through your poem. The teacher in seventh grade who wrote "this is good" in the margin in pencil and meant it. The Discord server where you developed a voice that has nothing to do with the voice you use with your parents. The texts you sent someone you were falling in love with, where every word mattered and you knew it. The accent you have, or have been told to lose. The stories that circulated in your family and the ones that didn't, and the understanding you absorbed about which kind of story was worth telling.
 
-Every one of those items is in your pack on the first day. None of them appear on a syllabus. All of them are part of what you write with.
+All of that is in the pack. None of it is on a syllabus. All of it will affect what you write this semester, whether or not you name it.
 
-## The instructor's pack matters too, and it's different from yours
+---
 
-I will name something the writing-class literature does not name often enough. The instructor walks in with their own pack. So do your classmates. The room is not neutral. It is a room of stacked packs, each contributing to what the room can hear.
+## The room is not neutral
 
-A classroom where the instructor carries a particular kind of academic training will be a room where certain sentences sound right and certain sentences sound wrong, by reflex, before the instructor has even decided whether they are right or wrong. A classroom where most of the students come from one regional or class background will hear certain registers as default and certain registers as marked. None of this is anyone's fault. It is simply true that the act of writing for a college class involves writing into a room with its own acoustic.
+Now I need to say something the writing-class literature tends not to say directly.
 
-The skill the class is going to teach you — over twenty-some chapters — is not just *how to write*. It is *how to write knowing what your reader is carrying*, and *how to write knowing what you are carrying*. The first is rhetorical situation. The second is voice. Both have to be on the table from day one.
+The instructor has a pack too. So does every student in the room. The room is not a neutral chamber where writing gets evaluated by some universal standard. It is a room full of stacked packs, and the acoustic of that room — what sounds right, what sounds marked, what gets heard as sophisticated and what gets heard as casual — is shaped by all of them together, and not equally.
 
-## "Discourse community" without the jargon
+A classroom where the instructor comes from a particular kind of academic training will be a room where certain sentences sound correct before anyone has decided whether they are. A classroom where most students share a regional or class background will hear certain registers as default and certain registers as foreign. This is not an accusation. It is a description of how language communities actually work, and pretending the classroom is exempt from it would be dishonest.
 
-Composition scholars have a phrase for the kind of room you are walking into. They call it an *academic discourse community*. The phrase is useful, but jargon-shaped, so let me unpack it.
+Here is what I think follows from that. The task of the class is not just to teach you a new register — what scholars call the academic discourse community, the way of writing that sends a signal of membership to other academic writers. The task is to teach you that register without convincing you that learning it means abandoning everything else you carry. Those are two different things, and a lot of writing instruction conflates them.
 
-A *community*, in this sense, is a group of people who recognize each other by how they talk. Not what they look like. How they talk. Doctors in a hospital cafeteria recognize each other by shorthand: *the workup, the pre-op, the bounce-back*. Skateboarders at a park recognize each other by physical vocabulary: *kickflip, manual, tail slide*. Mechanics, lawyers, ravers, knitters, gamers, parents of toddlers — every community has a register the inside hears as natural and the outside hears as a code.
+Let me be specific about what I mean by "academic discourse community," because the phrase is worth unpacking rather than just labeling.
 
-A *discourse community* is the part of that community defined specifically by *written* communication. Doctors share charts; lawyers share briefs; academics share papers. The conventions of how those texts are written are the entry test for membership. You can pretend your way past a conversation. You cannot pretend your way through a chart, a brief, or a paper.
+<!-- → [TABLE: Three-column table illustrating discourse communities — columns: Community, Written form, Key conventions (2–3). Rows: hospital medicine (charts), law (briefs), skateboarding (forum posts/zines), academic writing (papers). Purpose: show the student that academic writing is one instance of a pattern they already understand, not a uniquely alien form.] -->
 
-The *academic* discourse community is the one this textbook is preparing you to enter. Sentences need to do specific things. Evidence needs to be cited in specific ways. The voice has its own constraints — and, importantly, the voice has more variance than students are usually told. There is no single "academic voice." There are dozens, each calibrated to a subfield, a journal, a moment.
+A community, in this sense, is a group of people who recognize each other by how they communicate. Doctors in a hospital cafeteria use shorthand — *the workup, the pre-op, the bounce-back* — that marks them to each other. Skateboarders use physical and verbal vocabulary — *kickflip, manual, tail slide* — that does the same work. Every community has a register the inside hears as natural and the outside hears as a code.
 
-But here is the move I want to make. *Entering* the academic discourse community is not the same as *replacing* your other communities. Many writing classes, by accident or by design, give students the impression that learning to write academically means abandoning the way they used to write. That is wrong. You do not surrender the pack. You add to it.
+A *discourse* community is defined by written communication specifically. Doctors share charts. Lawyers share briefs. Scientists share papers. The conventions of those texts — how evidence is cited, how claims are hedged, how paragraphs are structured, how authority is established — are the entry test for membership. You can fake your way through a conversation with some fluency. You cannot fake your way through a brief.
 
-By the end of this book, you will be able to write a position argument that survives a hostile reader. You will also still be able to write the 2 a.m. message to your friend. The new literacy joins the old ones. That is the whole architecture of the book.
+The academic discourse community is the one this course is preparing you to enter. That means learning conventions: how to make a claim, how to support it with evidence, how to anticipate counterarguments, how to cite sources in a way that lets a reader check your work. These are real skills, and they are worth learning. But here is the part I want to insist on: *entering* a new discourse community is not the same as *replacing* your old ones. You do not surrender the pack. You add to it.
 
-## The 2026 pack
+By the end of this book, you will be able to write a position argument that survives a hostile reader who is actively looking for weaknesses. You will also still be able to write the 2 a.m. message. The new literacy joins the old ones — it does not overwrite them. That is the whole architecture of what we are doing.
 
-A specific item is now in almost every student's pack that wasn't there a few years ago. You have written prompts to a large language model. You have read its responses. You have decided, at least sometimes, what to do with them.
+<!-- → [DIAGRAM: Simple layered stack diagram showing literacy communities accumulating rather than replacing — bottom layer labeled with a home/family language context, middle layers adding school and online contexts, top layer adding academic writing. Arrows show each layer resting on the ones below, not erasing them. Caption: "Adding to the pack, not emptying it." Purpose: make the book's central architecture visible at the moment it is introduced.] -->
 
-That is a literacy. A novel one. One the textbook itself is still figuring out how to teach.
+---
 
-I am not going to be coy about this. The book ahead of you treats LLM use as integrated rather than bolted on. Every chapter ends with an exercise that uses Claude (or another model — they all work). The exercises are designed to use the model the way a working writer uses an editor, an interlocutor, a sparring partner. They are not designed to use the model the way a desperate student uses a ghostwriter. The difference is large, and the chapters will be specific about it as they come.
+## The thing that wasn't in anyone's pack five years ago
 
-For this opening chapter, the only thing you need to do is *notice* that the item is in the pack. Notice when you reach for an LLM and why. Notice what you ask it for. Notice what you accept from it without checking, and what you push back on. Notice when it makes you a better writer and when it makes you a more confident producer of mediocre prose. The noticing is the first skill. Everything else follows.
+There is one item that is now in almost every student's pack that was not there when I started thinking about how to write this chapter.
 
-## What this opening chapter is asking of you
+You have used a large language model to write something. Maybe once, maybe hundreds of times. You have seen its output. You have had some experience of deciding what to do with it — whether to use it, change it, discard it, argue with it, or copy it without thinking. That experience is in your pack now. It is part of your literacy history whether you name it or not.
 
-Three things, none of them prose. Carry them into the next chapter.
+I am not going to be coy about this, because being coy about it would be a form of bad faith. The chapters ahead treat LLM use as integrated rather than forbidden or ignored. Every chapter ends with an exercise that uses Claude or another model. Those exercises are designed to use the model the way a working writer uses an interlocutor — something to think against, something that can generate a draft you then have to argue with, something that can ask you questions about your own argument that reveal what you haven't figured out yet. They are not designed to use the model as a ghostwriter whose output you submit as your own.
 
-The first is a list. Sit somewhere quiet for ten minutes and write down five items in your pack that affect how you will write in this class. Not the objects. The things in O'Brien's wider sense. The phrase your family says when somebody is being dramatic. The book you re-read every year. The class in high school where you started thinking you were not good at writing. The screen name you used in middle school. Whatever is in there.
+The difference between those two things is large. It will become clearer as the chapters progress. For now, the only thing I am asking is this: notice. Notice when you reach for a model and why. Notice what you ask it for. Notice what you accept without reading carefully, and what you push back on. Notice when it makes you a better writer — when it gives you a first draft that shows you what you were trying to say — and when it makes you a more confident producer of prose that doesn't actually work. The noticing is the first skill. Everything else is downstream of it.
 
-The second is a question. Which item in your pack do you think will be the most useful in college writing, and why? Which item do you think will be the most in the way? You may be wrong about both — that is fine — but starting the semester with a guess will let you measure how the guess holds up.
+<!-- → [TABLE: Two-column table — "Using the model as an interlocutor" vs. "Using the model as a ghostwriter" — with 4–5 rows giving concrete examples of each behavior (e.g., "Ask it to push back on your argument" vs. "Ask it to write the argument"). Purpose: make the distinction the chapter is drawing concrete before the student encounters the LLM exercise.] -->
 
-The third is honesty about the LLM in your pocket. When did you first use one to write something? What was the thing? How did you feel about it afterward? You do not need to share the answer with anyone, but you should know it.
+---
 
-You are about to spend a semester learning to write in registers some of which are not yet yours. The premise of this book is that you do that more easily when you know what you are carrying in, not less. Pack honestly. The rest is craft.
+## What the pack is not
+
+I want to prevent a misreading, because it is a tempting one.
+
+This chapter is not arguing that everything you carry is equally useful in every context. The accent you grew up with is real and valuable and is part of who you are — and it may also produce sentences that do not land the way you intended them to in a formal essay, because the audience has different expectations than the audiences you have been writing for. Both things are true at once.
+
+What I am arguing against is the implication — sometimes taught explicitly, more often absorbed from the atmosphere of a class — that the solution is to discard the old thing and replace it with the new one. That model produces writers who are technically proficient in academic prose and have lost the voice that made them interesting. The better model is: know what you are carrying, understand the new conventions you are learning, and develop the judgment to know which tools to use when.
+
+That judgment is what we are actually trying to teach. It takes a semester. It takes, honestly, longer than a semester. But it starts with knowing what is in the pack.
+
+---
+
+## Three things to carry into the next chapter
+
+I am going to ask for three things here. None of them is a traditional assignment. They are acts of noticing that will make the rest of the course more useful.
+
+The first is a list. Sit somewhere quiet — or not quiet, if quiet is not how you think — and spend ten minutes writing down five items in your pack that will affect how you write this semester. Not objects. Items in O'Brien's wider sense. The phrase your family uses when someone is being dramatic. The first piece of writing you remember being proud of. The moment you decided you were not a writer, if that moment happened. The voice you found in some online space that is not the voice you use with authority figures. Whatever is in there.
+
+The second is a question. Which item in your pack do you think will be the most useful in college-level writing, and why? Which one will be most in the way? You may be wrong about both answers — I expect you will be, a little. But having a guess at the start lets you measure it against what you actually learn.
+
+The third is honesty about the model in your pocket. When did you first use one to write something? What was that thing? What did you do with what it produced? You do not have to share this with anyone. But you should know the answer, because your relationship to that tool is going to be part of what this class is for.
+
+You are about to spend a semester learning to write in registers that are not yet fully yours. The claim this chapter is making is that you do that more effectively when you know what you already have — not less. Pack honestly. The rest is craft.
+
+---
+
+## Exercises
+
+The chapter's inferred learning objectives: (1) articulate the concept of a "literacy pack" — the non-object things carried into a writing context; (2) identify the conventions and entry conditions of academic discourse communities without conflating membership with replacement of prior literacies; (3) describe the costs and trade-offs involved when a writer is asked to abandon one register for another; (4) position LLM use as a new literacy requiring the same reflective awareness as any other carried tool.
+
+---
+
+**Warm-up**
+
+*1. The standard-issue list.* O'Brien's story distinguishes between items every soldier carries (standard issue) and items only that soldier carries (differentiating). Apply the same distinction to a writing class. What would go on every student's standard-issue list — the writing experiences virtually every student shares? What category of items would be differentiating? Write two lists, ten items each. The goal is to feel the distinction between the generic and the specific, not to produce the definitive lists.
+*(Tests objective 1 — identifying what "carrying" means and what makes an item differentiating rather than universal.)*
+*Difficulty: Low.*
+
+*2. Register inventory.* Name three different writing contexts in your life — not school assignments, but any context in which you write for a purpose. For each one, identify: who the audience is, what tone you use, and one convention of that context that an outsider would not automatically know. (Example: a group chat might have a convention about how long replies are expected to be, or whether voice notes count as writing.) The goal is to see that you already operate across multiple discourse communities.
+*(Tests objective 2 — recognizing discourse community conventions as real and learnable.)*
+*Difficulty: Low.*
+
+---
+
+**Application**
+
+*3. The costs of leaving it at the door.* The chapter describes writers who become "technically proficient in academic prose and have lost the voice that made them interesting." Find a piece of writing — published, student-produced, or your own — where this trade-off is visible. What was given up? What was gained? Is the trade-off worth it for the context the piece was written for? Write 200–300 words.
+*(Tests objective 3 — evaluating the costs and benefits of register-switching rather than just describing it.)*
+*Difficulty: Medium.*
+
+*4. Discourse community entry conditions.* Choose a discourse community you are not a member of — a field of academic study, a professional community, a specialized hobby with its own written culture. Find one example of a text that community produces (a journal abstract, a legal filing, a technical forum post, a game design document). Identify three conventions that mark the text as belonging to that community. Then identify what prior knowledge a reader would need to decode it. Write 200–300 words.
+*(Tests objective 2 — understanding entry conditions for a discourse community the student does not yet belong to.)*
+*Difficulty: Medium.*
+
+*5. The LLM in the pack.* Describe your current relationship to LLMs as a writing tool in the same terms O'Brien uses for the pack: what have you been carrying, how long, and what has it done to how you write? Be honest about both the useful and the problematic. Do not argue for or against the technology. Describe your actual experience. Write 200–300 words.
+*(Tests objective 4 — applying the "literacy pack" framework to a new and contested tool.)*
+*Difficulty: Medium.*
+
+---
+
+**Synthesis**
+
+*6. The room is not neutral.* The chapter argues that classrooms have their own "acoustic" — shaped by the packs everyone in the room is carrying, including the instructor's. Take a writing class, a workplace, or any other writing context you have been in, and describe its acoustic: what kinds of writing sounded natural in that space, what kinds sounded marked or wrong, and whose packs were most responsible for that acoustic. Then ask: who benefited from that acoustic, and who paid a cost? Write 400–500 words.
+*(Tests objectives 1, 2, and 3 together — applying the pack concept, the discourse community concept, and the cost/trade-off concept to a real situation.)*
+*Difficulty: Medium-high.*
+
+*7. Adding versus replacing.* The chapter's central distinction is between *adding* a new discourse community to your existing ones and *replacing* your existing ones with a new one. Find a piece of writing where an author is visibly operating in more than one register at once — academic and vernacular, formal and personal, technical and accessible. (Possible sources: code-meshing scholarship, hybrid essays, personal essays by academics writing about their own fields.) Describe how the author is managing the multiple registers. What signals the presence of more than one community? What is the effect on the reader? Write 400–500 words.
+*(Tests all four objectives — the pack, discourse community conventions, the replacement/addition distinction, and reflective awareness of literacy tools.)*
+*Difficulty: High.*
+
+---
+
+**Challenge**
+
+*8. Revise the chapter's central claim.* The chapter ends with: "The claim this chapter is making is that you do that more effectively when you know what you already have — not less." This is a strong empirical claim. What would have to be true for it to be false? Design — do not conduct — a study that could test it. What would you measure? What would you compare? What outcome would lead you to revise the claim? Write 400–600 words.
+*(Open-ended. Points toward empirical thinking about writing pedagogy, and toward the disposition the whole book is trying to develop: knowing what would change your mind.)*
+*Difficulty: High.*
+
+---
 
 ## LLM Exercise — Chapter 1
 
-**What you're building:** a written inventory of your writing pack, produced by an interrogation rather than by free-writing — the first piece of self-knowledge the book's longer assignments will draw on.
+**What you are building:** a written inventory of your writing pack, produced through an interrogation rather than free-writing. The first piece of self-knowledge that the longer assignments ahead will draw on.
 
-**Tool:** [Claude.ai](https://claude.ai/) chat. A Claude Project works if you intend to come back to this material across the semester (recommended — you will).
+**Tool:** [Claude.ai](https://claude.ai) chat. A Claude Project works well if you plan to return to this material across the semester — the model will have access to your earlier answers when later exercises reference them.
 
 **The prompt:**
 
@@ -101,54 +185,41 @@ up on anything I say that seems to have more underneath it:
   that felt like
 
 After we've gone through these, summarize what you've learned about my
-"pack" in 200-300 words. Do not write any prose for me. Do not tell
+"pack" in 200–300 words. Do not write any prose for me. Do not tell
 me what to do with this information. Just give it back to me as a
 clean inventory I can carry into the rest of the course.
 ```
 
-**What this produces:** a 200–300 word inventory of your specific literacy history, generated through your own answers, written in Claude's voice but built from your specifics. Save the file. The longer chapters will ask you to draw on it.
+**What this produces:** a 200–300 word inventory of your specific literacy history, generated through your own answers, written in the model's voice but built entirely from your specifics. Save it. Later chapters will ask you to draw on it.
 
-**How to adapt this prompt:**
+**Adapting the prompt:**
 
-- *For ChatGPT or Gemini:* works as written.
-- *For Cowork:* tell Cowork to save each of your answers to a file called `my-pack.md` as you go, so you can revise the inventory at the end of the course.
-- *For Claude Code:* not the right tool — this is a conversation, not a code task.
+For ChatGPT or Gemini, the prompt works as written. For Cowork, tell it to save each of your answers to a file called `my-pack.md` as the conversation progresses, so you can revise the inventory at the end of the course. For Claude Code: wrong tool — this is a conversation, not a code task.
 
-**The instructive failure to expect:** Claude will sometimes ask all the questions at once instead of one at a time. When that happens: *"Stop. One question at a time. Ask me only the first one and wait for my answer."* The discipline of refusing premature output is part of the literacy you are about to develop.
-
-**Preview of next chapter:** the next chapter starts the first real assignment — a critical response to a piece of digital media. The pack you just inventoried will be the lens you use.
-
-## What would change my mind
-
-If a careful longitudinal study showed that students who explicitly inventoried their literacy backgrounds at the start of a composition course wrote *worse* by the end of it — overconfident, performatively idiosyncratic, less able to translate into new registers — I would revise the central claim of this chapter that explicit pack-naming improves later writing. I have not seen that study. I suspect it would not find that result. But I want to name what would change my view.
-
-## Still puzzling
-
-I am not sure how to handle the case of a student whose pack includes mostly painful or punitive writing experiences. The chapter's framing — *all of this is an asset* — can feel hollow to a student whose dominant literacy memory is a third-grade teacher who told them they couldn't write. The honest answer is that those memories are also assets, in a different and harder way. I do not have the chapter language yet that says that without sounding glib.
+**The instructive failure to expect:** the model will sometimes ask all the questions at once instead of one at a time. When that happens, say: *"Stop. One question at a time. Ask me only the first one and wait for my answer."* The discipline of refusing premature output is part of the literacy you are about to develop. Notice that you had to enforce it.
 
 ---
 
-*Sources cited above link to primary text where available. The chapter draws on the OpenStax* Writing Guide with Handbook *Chapter 1 introductory module as the underlying scaffold, with all rendering, examples, voice, and analytical claims reworked for this textbook's pedagogy.*
+## AI Wayback Machine
 
-
----
-
-## 🕰️ AI Wayback Machine
-
-The ideas in this chapter didn't appear from nowhere. **Geneva Smitherman** was working on African American English as a complete and durable carried language tradition — *Talkin and Testifyin* — in defiance of "standard" English's claim to be the only legitimate vehicle for thought decades before most people had heard of writing as carried experience. Here's a prompt to find out more — and then make it better.
+The ideas in this chapter did not appear from nowhere. **Geneva Smitherman** was doing the work of naming African American English as a complete and durable carried language tradition — *Talkin and Testifyin*, 1977 — in explicit defiance of the claim that Standard American English was the only legitimate vehicle for thought. Decades before the discourse about "code-switching" entered mainstream conversation, Smitherman was documenting what students actually carry into classrooms, and what it costs them when they are told to leave it at the door.
 
 **Run this:**
 
 ```
-Who was Geneva Smitherman, and how does their work on Black English and the language varieties we carry into the classroom connect to the things we carry as writers into a writing course? Keep it to three paragraphs. End with the single most surprising thing about their career or ideas.
+Who was Geneva Smitherman, and how does their work on Black English and
+the language varieties we carry into the classroom connect to the idea
+that what students bring with them into a writing course is an asset
+rather than a problem to be corrected? Keep it to three paragraphs.
+End with the single most surprising thing about their career or ideas.
 ```
 
-→ Search **"Geneva Smitherman"** on Wikipedia after you run this. See what the model got right, got wrong, or left out.
+Then search **"Geneva Smitherman"** on Wikipedia. See what the model got right, got wrong, or omitted.
 
 **Now make the prompt better.** Try one of these:
 
-- Ask it to explain what "signifying" means in Smitherman's framework, with a concrete example from speech or text
-- Ask: "What is the cost — political, cognitive, rhetorical — of being asked to leave Smitherman's home variety at the classroom door?"
-- Add a constraint: "Answer in a register that respects the variety you're describing"
+- Ask the model to explain what "signifying" means in Smitherman's framework, with a concrete example from speech or written text.
+- Ask: "What is the cost — political, cognitive, rhetorical — of being asked to leave your home variety at the classroom door?"
+- Add a constraint: "Answer in a register that respects the language variety you're describing."
 
-What changes? What gets better? What gets worse?
+What changes when you add the constraint? What gets better? What gets worse? Why might that matter for the claim this chapter is making?
