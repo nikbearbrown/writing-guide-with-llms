@@ -2,101 +2,155 @@
 
 *What Changes When the Classroom Stops Being the Audience.*
 
-A specific moment you may already have lived.
+---
 
-You finish a piece of writing for a class. You turn it in. You get a grade and some comments back. You revise or you don't. The piece exists, somewhere, in a learning management system. A few weeks later it is functionally invisible.
+Here is a specific moment you may already have lived.
 
-Now imagine writing the same kind of piece — a critical analysis, a position argument, a profile — and posting it online under your real name. A piece a future employer can find. A piece your family can read. A piece that gets ten thousand views, or eleven views, or no views, and that stays findable on the open internet indefinitely.
+You finish a piece of writing for a class. You turn it in. You get a grade and some comments. You revise or you don't. A few weeks later the piece is functionally invisible, sitting somewhere in a learning management system nobody looks at again.
 
-The rhetorical machinery you have spent seventeen chapters learning has not changed. What has changed is *the audience, the stakes, the permanence, and the consequences*. The classroom was a controlled environment. The world is not.
+Now imagine writing the same kind of piece — a critical analysis, a position argument, a profile — and posting it under your real name. A future employer can find it. Your family can read it. It gets ten thousand views, or eleven, or none, and it stays findable on the open internet indefinitely.
 
-This short bridge chapter is about what changes in the move out. There is no assignment at the end of this chapter; the assignments come back with Chapter 19. The chapter is preparing you for the genres ahead: textual analysis, image analysis, multimodal writing, scripted public speech, portfolio reflection — all of which are *real-world* genres in a way the chapters before this one were not.
+The rhetorical machinery is the same. What has changed is the audience, the stakes, the permanence, and the consequences. The classroom was a controlled environment. It had rules. It had a reader who was paid to read your work carefully. The world outside it has none of those things, and the writing that worked inside does not automatically work outside.
 
-## The classroom is a specific rhetorical situation
+This chapter is a bridge between the two. There is no assignment here; the assignments resume with Chapter 19. The chapter is preparation for the genres ahead — textual analysis, image analysis, multimodal writing, scripted public speech, portfolio reflection — all of which are real-world genres in a way most of what came before was not.
 
-The writing you have been doing for this course has had one defining feature: the audience is your instructor (and possibly your classmates). The instructor reads with specific expectations — they know the assignment, they know the genre, they know the conventions, they know what a good response looks like. They are reading to evaluate, not (primarily) to be persuaded.
+---
 
-This is a real rhetorical situation. It is also unusual. Almost no writing you will do for the rest of your life will have a single reader who is paid to read it carefully against a specific rubric.
+## The classroom audience was unusual
 
-The shift to *real-world* writing involves several specific changes.
+Every piece of writing you have done for this course had one defining feature: the audience was your instructor, possibly your classmates. The instructor read with specific expectations — they knew the assignment, they knew the genre, they knew the conventions, they knew what a strong response looked like. They were reading to evaluate, not primarily to be persuaded or entertained or informed.
 
-**The audience is wider, less predictable, and less attentive.** Your real-world readers may know nothing about your topic. They will not be reading carefully. They will not give you the benefit of the doubt. They have the option to stop reading at any sentence and they will exercise that option freely.
+This is a real rhetorical situation. It is also genuinely unusual. Almost no writing you will do for the rest of your life will have a single reader who is paid to read it carefully against a specific rubric.
 
-**The stakes are different.** A classroom essay produces a grade. A real-world piece produces consequences — sometimes large ones. A piece you publish can affect your reputation, your professional standing, the way your family thinks about you, the way strangers think about you. The stakes are not always higher than the grade. They are usually different in kind.
+The move to real-world writing involves specific changes, and it is worth naming each of them precisely rather than gesturing at *it's different out there*.
 
-**The permanence is real.** A classroom piece functionally disappears after the course ends. A real-world piece — published online — remains findable indefinitely. A piece you wrote at twenty-two can be read by an employer when you are thirty-five.
+The audience is wider, less predictable, and less attentive. Real-world readers may know nothing about your topic. They will not read carefully by default. They will not give you the benefit of the doubt. They have the option to stop reading at any sentence and they will exercise it freely. Your classroom reader finished every paragraph because finishing was the job. Your real-world reader stops the moment you give them a reason to.
 
-**The conventions are softer.** Real-world writing genres have conventions, but they are less codified than academic ones. A LinkedIn post is not graded against a rubric. A Substack essay does not have an explicit word count or citation requirement. The freedom to choose your form is also the burden of having to decide what form to use.
+The stakes are different in kind. A classroom essay produces a grade. A real-world piece produces consequences that are not isomorphic with grades. A piece you publish can affect your professional standing, your reputation, your relationships, the way strangers think about you years later. The stakes are not always higher — a grade matters to certain things a published piece does not — but they are different enough that you cannot assume what served you well in one environment will serve you in the other.
 
-**The competition for attention is real.** Your classroom reader is required to read your piece. Your real-world reader chose to. If you do not earn their attention paragraph by paragraph, they leave.
+The permanence is real and asymmetric. A classroom piece functionally disappears after the course ends. A piece published online stays findable. Something you wrote at twenty-two can be read by an employer at thirty-five, or quoted in a context you did not anticipate, or surfaced in a search by someone who was never part of your intended audience. Impermanence was a feature of academic writing that real-world publishing removes.
 
-Each of these shifts requires craft adjustments. The chapters ahead will work through them genre by genre.
+The conventions are softer and you have to make them yourself. Real-world writing genres have conventions, but they are less codified than academic ones. Nobody grades a LinkedIn post against a rubric. A Substack essay does not have an explicit word count requirement or a mandatory citation format. The freedom to choose your own form is also the burden of having to decide what form serves the argument — a burden the assignment specification was carrying for you.
 
-## What carries over
+The competition for attention is real. Your classroom reader was required to finish your piece. Your real-world reader chose to start it. Earning their attention paragraph by paragraph is the work. The instructor gave you their attention as a professional obligation. The public does not owe you theirs.
 
-Most of what you have learned in this textbook applies to real-world writing without modification.
+<!-- → [TABLE: classroom writing vs. real-world writing — columns: dimension, classroom, real world — rows: audience, how attentive they are by default, stakes, permanence of the piece, convention source, competition for attention; student uses this to see the shift systematically rather than just feeling it] -->
 
-The seven elements of the rhetorical situation (Chapter 2) apply, with a twist: in the real world, you have to identify the rhetorical situation more carefully because nobody is going to tell you what it is. The author is you. The audience is harder to identify — your readers are diverse, anonymous, scattered. The purpose has to be one you genuinely have, not one assigned to you. The genre is one you choose. Context and culture you have to read accurately, because misreading them produces real costs.
+---
 
-The scene-versus-summary distinction (Chapter 4) applies. Real-world readers reward scene as much as classroom readers do. They give you less patience, so the scene has to do its work faster.
+## What the toolkit does in the real world
 
-The discipline of evidence (Chapters 10, 12, 14) applies, with a real-world twist: your audience can fact-check you in seconds. The cost of citing a fabricated statistic is no longer a grade penalty. It is a public correction, sometimes a job offer rescinded, sometimes a permanent damage to your credibility.
+Most of what this textbook has been building transfers without modification. What changes is how much of the work you now have to do yourself, because the assignment structure was doing some of it.
 
-The rhetorical analysis discipline (Chapter 11) becomes self-applied. You are now the writer being analyzed by readers. The moves you have learned to see in others' work are the moves readers will see in yours.
+The rhetorical situation framework still applies — but in the classroom, the rhetorical situation was specified for you. In the real world, you have to identify it. The audience is harder to define: your readers are diverse, anonymous, scattered across contexts you cannot fully anticipate. The purpose has to be one you genuinely have, not one assigned to you. Context and culture you have to read accurately on your own, because misreading them produces real consequences rather than a grade comment.
 
-The discipline of the objection section (Chapter 12) becomes critical. Real-world writing that pretends opposition does not exist will be tagged as such immediately. The discipline of engaging the strongest objection earns the trust that lets the rest of your argument land.
+The evidence discipline still applies — and now it is enforced externally. Your readers can fact-check you in seconds. The cost of citing a fabricated statistic is no longer a grade penalty. It is a public correction, sometimes a retraction, sometimes permanent damage to your credibility. The discipline that was internally motivated in academic writing becomes externally enforced in public writing.
 
-The research process (Chapter 15) applies — and now there is no syllabus telling you which sources are credible. You have to evaluate them yourself. The annotated bibliography (Chapter 16) becomes a habit, not an assignment.
+The objection-section discipline becomes more critical, not less. Real-world writing that pretends opposition does not exist will be identified as such immediately by readers who hold the opposing view. The discipline of engaging the strongest objection earns the trust that makes the rest of the argument land. This was true in academic writing. In public writing, the readers who disagree with you are present and vocal.
 
-The reasoning strategies (Chapter 13) apply across every real-world genre. The case study habit (Chapter 17) applies whenever you have to draw a general claim from specific evidence.
+The research discipline applies — and now there is no syllabus telling you which sources are credible. You have to evaluate them yourself, every time. The habit of tracing a claim back to its primary source, of checking whether a named study says what the journalism claims it says, of distinguishing an organization's research from an organization's advocacy — these were practices the course encouraged. In public writing, they are practices that protect you from error and from embarrassment.
 
-What you have been learning is a toolkit. The toolkit transfers.
+The synthesis discipline applies. The scene-versus-summary distinction applies. The craft of the claim applies. The seven elements of the rhetorical situation apply. The toolkit transfers. What changes is who is doing the environmental management that the classroom was doing for you.
 
-## What's new in the real world
+---
 
-A few specific things the textbook has not yet named, that matter in real-world writing.
+## What the toolkit does not yet have
 
-**Headlines, subject lines, openings.** Real-world readers decide whether to read your piece based on the first few words. A great headline can save a mediocre piece; a weak headline can sink a strong piece. The craft of titling and opening is a specific skill the academic genres mostly do not require. The chapters ahead will name it explicitly.
+A few things that matter in real-world writing that the academic genres mostly do not require.
 
-**Visuals.** Most real-world genres are now multimodal — they involve images, video, audio, layout. The text is one element among several. The skills for combining modes are not the same as the skills for prose alone.
+*Headlines, subject lines, openings.* Real-world readers decide whether to read your piece based on the first few words — sometimes the first sentence, sometimes just the title. A strong headline can carry a mediocre piece further than it deserves. A weak headline can stop a strong piece from being read at all. Academic writing almost never required you to write a headline that competed for attention; the assignment title and the reader's professional obligation did that work. The craft of titling and opening is a specific skill that needs to be built.
 
-**Speed.** Real-world writing often has to be produced quickly. The luxury of three drafts plus peer review plus instructor feedback that the classroom version of a piece gets is rare in the real world. The skills you have developed slowly need to compress.
+*Visuals.* Most real-world writing is now multimodal. Text is one element among several, alongside images, video, audio, and layout. The skills for combining modes are not the same as the skills for prose alone, and they are increasingly difficult to separate. A piece that is strong in prose and visually incoherent reads differently than it would have read when text was the only medium.
 
-**Audience response.** Real-world writing produces feedback. Comments, replies, criticism, occasionally harassment. The skill of receiving response and using it well — without being either crushed by it or unmoved by it — is a real skill that no chapter so far has taught.
+*Platform-specific conventions.* A LinkedIn post is not a Substack essay is not a thread is not a Medium piece is not a personal blog post. Each platform has expected lengths, expected tones, expected response patterns, and conventions that have developed through use rather than through formal rule-setting. Writing well for a specific platform is a different skill from writing well in the abstract.
 
-**Platform-specific conventions.** A LinkedIn post is not a Substack essay is not a Twitter thread is not a Medium piece is not a personal blog post. Each platform has conventions, expected lengths, expected tones, expected response patterns. The skill of writing well for a specific platform is a different skill from writing well in the abstract.
+*Audience response.* Real-world writing produces feedback that academic writing does not — comments, replies, criticism, disagreement, occasionally hostility. The skill of receiving that response and using it well, without being either crushed by negative feedback or unmoved by legitimate criticism, is a real skill. No chapter so far has addressed it directly.
 
-The remaining chapters of this book engage with several of these directly. Chapter 19 turns to textual analysis as the bridge from academic close reading to public criticism. Chapter 20 takes on image analysis. Chapter 21 takes on multimodal writing across platforms. Chapter 22 turns to scripted public speech. Chapter 23 is portfolio reflection — the move of looking back at the whole semester and making sense of what you now know.
+*Speed.* The luxury of multiple drafts plus peer review plus instructor feedback that the classroom version of a piece got is rare in professional and public writing. The skills developed slowly in the classroom need to compress. The chapter-by-chapter scaffolding that made careful revision habitual has to become a faster internal process.
 
-## A note about LLMs in real-world writing
+<!-- → [TABLE: new skills required in real-world writing — columns: skill, what it requires, where to develop it — rows: headline/opening craft, visual integration, platform-specific conventions, receiving and using audience response, producing under time pressure; student sees what the remaining chapters will address and what they will need to develop through practice] -->
 
-The chapters that follow are all about writing for audiences outside the classroom. The LLM question is sharper here than it has been in the academic chapters, because the audience question changes the stakes.
+---
 
-In academic writing, the question of LLM use is mostly internal to the institution — what the instructor accepts, what the department's policy is, whether disclosure is required. The institution has rules, and you follow them.
+## The LLM question in public-facing writing
 
-In real-world writing, the LLM question is external. Your readers will form judgments about your relationship to LLMs based on your prose. They are increasingly good at spotting LLM-shaped writing. The market response to *obvious LLM use* is mostly negative — readers feel they have been given output rather than thought. The market response to *invisible LLM use* — writing that has been LLM-assisted but reads as the writer's own — is more complicated and less stable.
+In academic writing, the question of LLM use is mostly internal to the institution. There are rules; you follow them or you don't and accept the consequences.
 
-There is no single right answer here. The thing I want to offer in this bridge chapter is a question, not a rule.
+In public-facing writing, the question is external and the stakes are different. Your readers will form judgments about your relationship to LLMs based on the texture of your prose. They are increasingly good at recognizing LLM-shaped writing — the particular smoothness, the hedging, the absence of the idiosyncratic moves that come from a specific person's actual thinking about a specific question. The market response to *obvious LLM use* is mostly negative: readers feel they have been given output rather than thought. The market response to *invisible LLM use* — prose that is LLM-assisted but reads as the writer's own — is more complicated, less stable, and evolving in real time.
 
-When you publish in your real name, what relationship do you want your readers to be able to assume between the words on the page and your own thinking? You can decide *I want my readers to know that everything they read is what I would have written, possibly assisted, possibly edited, but recognizably mine*. You can decide *I want my readers to know I use LLMs heavily, and the prose they are reading is significantly co-authored*. Either is a defensible choice. The pretending — the writing that has been LLM-assisted in ways the writer hopes the reader will not notice — is the choice with the worst long-term outcomes.
+There is no single right answer I can give you here, and I want to be honest about that. What I can offer is a question rather than a rule.
 
-The chapters that follow assume you have made some version of this choice for yourself and that the choice is visible in your work either by disclosure or by the texture of the writing.
+When you publish under your real name, what relationship do you want your readers to be able to assume between the words on the page and your own thinking? You can decide: *I want my readers to know that what they read is what I would have written — possibly assisted, possibly edited, but recognizably mine in its choices and its thinking.* You can decide: *I use LLMs heavily, and the prose they are reading is significantly co-authored, and I am comfortable with that being the case.* Either is a defensible position that a writer can hold consistently.
 
-## What to do before Chapter 19
+The choice with the worst long-term consequences is the pretending: writing that has been LLM-assisted in ways the writer hopes the reader will not notice, where the pretense of unassisted authorship is itself a kind of misrepresentation. Not because the assistance is wrong but because the pretense is — and because the pretense is increasingly detectable.
 
-A short reflective exercise, before the next chapter.
+The norms are forming in real time. They vary by platform, by audience, by genre. Advice that feels right in 2026 may be obviously wrong by 2028. The discipline I want to encourage is not a specific answer but a deliberate one: think through the question, write down your position, and then act consistently with what you wrote down rather than defaulting into whatever is most convenient in the moment.
 
-Open one of the assignments you have written for this course. Read the opening paragraph. Ask yourself: *if this were posted under my real name on a public platform tomorrow, would I want anyone to read it?*
+---
 
-If yes, what is it doing right?
+## A short look forward
 
-If no, what specifically would have to change for the answer to be yes?
+The remaining chapters of this book apply the toolkit to real-world genres.
 
-You do not have to publish the piece. The exercise is to practice seeing your own writing the way a non-instructor reader would. That seeing is the central new skill the remaining chapters will be teaching.
+Chapter 19 takes textual analysis — the close-reading practice you have been building throughout the course — and applies it to the public-facing genre of criticism. You will write for a reader who has not necessarily read the source and does not know the assignment.
+
+Chapter 20 takes on image analysis: what it means to argue about a visual, what evidence looks like when the primary text is not prose.
+
+Chapter 21 takes on multimodal writing across platforms: the skills of combining text and image, the platform-specific conventions, the question of how form and argument relate when the form is chosen rather than assigned.
+
+Chapter 22 is scripted public speech: argument built to be delivered to a live audience, which enforces different constraints from argument built to be read.
+
+Chapter 23 is portfolio reflection: looking back at the whole semester and making sense of what you now know — which turns out to be a genre with its own conventions and its own demands.
+
+Each of these is a real-world genre. Each requires specific adjustments to the toolkit. The chapters ahead will name the adjustments. This chapter is the frame.
+
+---
+
+## What would change my mind
+
+If the gap between academic and real-world writing turned out to be smaller than this chapter implies — if the skills transferred so completely that the transitional framing was unnecessary overhead — I would revise the chapter's central claim that the shift requires deliberate adjustment. The evidence from writers I have talked to points the other way: the move out of the classroom takes real work even for students who were strong inside it. But the claim could be wrong, and the transitional framing could be creating anxiety that is not productive. I hold the framing with some uncertainty.
+
+---
+
+## Still puzzling
+
+The LLM-disclosure question in public-facing writing is genuinely unresolved. The norms are forming in real time, vary by platform and audience and genre, and are moving faster than a textbook can follow. The chapter's position — *think about it deliberately and act consistently* — is more about the discipline of having thought through the question than about any specific answer. The specific answers will keep moving. I am not confident the answer I would give today is the answer I would give in two years, and I want to say that openly rather than presenting a position as settled that isn't.
+
+---
+
+## Exercises
+
+**Warm-up**
+
+1. *Audience translation.* Take the opening two paragraphs of any piece you have written for this course. Rewrite them for a specific real-world reader you can name — a person in a profession you're interested in, a family member, a community you belong to. What did you have to change? What did you keep? Identify two specific decisions you made and explain why you made them. (Tests: ability to consciously shift the rhetorical situation away from instructor-as-audience — the foundational move this chapter is asking for.)
+
+2. *Permanence audit.* Find something you have published publicly in the last three years — a social media post, a comment, a profile, anything under your real name that is searchable. Read it now. Would you want a future employer to read it? Would you want it to represent you at thirty-five? Identify one specific thing you would change and explain what the change reveals about how your standards for public writing differ from your standards for temporary writing. (Tests: the permanence-awareness the chapter is building — applied to existing work rather than to a hypothetical.)
+
+3. *Platform comparison.* Take one claim from a piece you have written for this course — a specific sentence making an argument. Rewrite it three ways: as the opening line of a LinkedIn post, as the opening of a Substack essay, and as the first sentence of a personal blog post. What changed across the three? What stayed the same? (Tests: platform-specific convention awareness — the skill of adapting the same argument to different audience expectations and norms.)
+
+**Application**
+
+4. *Headline practice.* Take the title of the last paper you submitted for this course. It is probably a description of the topic, not a headline. Write five alternative titles that would compete for attention from a reader who owes you nothing. Then write one sentence for each explaining what that title promises the reader and whether your paper delivers on the promise. (Tests: the headline-and-opening craft the chapter names as new — applied to material the student already knows.)
+
+5. *Evidence exposure.* Choose one claim from a position argument or analytical piece you have written. Imagine a reader who is hostile to your position and who fact-checks your sources. Trace your claim back to its primary source. Is the claim in the paper supported by the source, or is it an overstatement of what the source actually shows? If it is an overstatement, rewrite the claim to match the evidence. (Tests: the externally-enforced evidence discipline — what changes when readers can check your sources rather than grade them.)
+
+6. *The objection section in public.* Take the objection section from a position argument you have written. Read it aloud as if you are one of the readers who holds the opposing view. Does the section feel like it was written for you — like the writer took your position seriously — or does it feel like it was written to dismiss your view efficiently? Revise one objection to pass that test: a reader who holds the opposing view should feel their position was engaged, not caricatured. (Tests: the objection-section discipline applied to a real draft, from the perspective of an actual dissenting reader.)
+
+**Synthesis**
+
+7. *LLM policy draft.* Before running the full LLM exercise below, write a 150-word draft of your personal policy on LLM use in public writing — without the interview, just from your own current thinking. Then run the LLM exercise. Compare your pre-interview draft to the post-interview policy. What did the interview surface that you had not already named? What positions shifted? What stayed exactly the same? (Tests: the chapter's core argument that deliberate reflection on the LLM question produces a better-considered position than defaulting — demonstrated by the student's own before-and-after.)
+
+8. *Toolkit transfer map.* Write a 300-word analysis identifying which three skills from earlier chapters you think will transfer most directly to the real-world writing you expect to do in the next five years, and which three will require the most adjustment. Be specific about what the adjustment looks like — not just "it will be harder" but "the evidence standard will be externally enforced, which means I will need to develop the habit of verifying every claim before publishing rather than after." (Tests: metacognitive application of the chapter's framework to the student's own situation — which varies by field, platform, and intended audience.)
+
+**Challenge**
+
+9. *Publish something.* Choose a piece of writing from this course that you believe is strong enough to share publicly. Post it somewhere under your real name — a Substack, a LinkedIn post, a personal blog, a community forum you belong to. After posting, write a 200-word reflection: what did you change in the process of preparing it to publish? What did you decide to leave as it was? What did you learn about the difference between writing for your instructor and writing for everyone else? (The publishing is the assignment. The reflection is the analysis of what the publishing revealed.)
+
+---
 
 ## LLM Exercise — Chapter 18
 
-**What you're building:** an explicit, written-out policy for your own relationship to LLMs in any writing you intend to publish in your real name. The policy is for you; it can change later; but having it written down means you have *thought about it* rather than defaulted into a stance.
+**What you're building:** a written personal policy on LLM use in any writing you publish in your real name. The policy is for you; it can change later; writing it down means you have thought about it deliberately rather than defaulted into a stance.
 
 **Tool:** [Claude.ai](https://claude.ai/) chat.
 
@@ -138,7 +192,7 @@ specific phrasing where I gave it. Do not soften or generalize the
 positions I took.
 ```
 
-**What this produces:** a one-page personal policy on LLM use in your public writing — articulated, written out, available for revision later. After this, you have a position you can return to as the remaining chapters' exercises ask you to publish work.
+**What this produces:** a one-page personal policy on LLM use in your public writing — in your voice, articulated, available for revision. After this, you have a position you can return to as the remaining chapters ask you to write for public audiences.
 
 **How to adapt this prompt:**
 
@@ -146,41 +200,29 @@ positions I took.
 - *For Cowork:* tell Cowork to save the policy to a file named `llm-policy.md` in your project folder.
 - *For Claude Code:* not the right tool.
 
-**The instructive failure to expect:** when the model summarizes your answers, it may generalize the positions to sound less specific than what you said. Push back: *"Use my exact phrasing where I gave it. Don't soften."* Your policy is most useful in your voice.
-
-**Preview of next chapter:** Chapter 19 takes textual analysis — the close-reading skill you have been practicing throughout the book — and applies it to the public-facing genre of criticism. You will write a textual analysis of a specific text, intended not for your instructor but for a public reader who has not necessarily read the source.
-
-## What would change my mind
-
-If the gap between academic and real-world writing turned out to be smaller than this chapter implies — if the skills transferred so completely that the transitional framing was unnecessary — I would revise the chapter's central claim that the shift to real-world writing requires deliberate adjustments. The evidence from working writers I have talked to is the other way: the move out of the classroom takes deliberate work even for students who were strong inside the classroom. But the claim could be wrong.
-
-## Still puzzling
-
-The LLM-disclosure question in public-facing writing is genuinely unresolved. The norms are forming in real time, and they vary by platform, by audience, by genre. Advice that feels right in 2026 may be obviously wrong by 2028. The chapter's stance — *think about it deliberately and act consistently* — is more about the discipline of thinking through the question than about any specific answer. The specific answers will keep moving.
-
----
-
-*Sources cited above link to primary text where available. The chapter draws on the OpenStax* Writing Guide with Handbook *Unit 3 introductory framing as the underlying scaffold, with all rendering, examples, voice, and analytical claims reworked for this textbook's pedagogy.*
-
+**The instructive failure to expect:** when the model summarizes your answers, it will often generalize them — smoothing your specific phrasing into more abstract language. Push back: *"Use my exact phrasing where I gave it. Don't soften or generalize."* The policy is most useful in your own words.
 
 ---
 
 ## 🕰️ AI Wayback Machine
 
-The ideas in this chapter didn't appear from nowhere. **Edward Said** was working on *Representations of the Intellectual* and *Orientalism* — arguments that the public role of the writer is to be exilic, oppositional, and willing to be unwelcome at the table decades before most people had heard of navigating rhetoric in real-life public contexts. Here's a prompt to find out more — and then make it better.
+The ideas in this chapter didn't appear from nowhere. **Edward Said** was working on *Representations of the Intellectual* and *Orientalism* — arguments that the public role of the writer is to be exilic, oppositional, and willing to be unwelcome at the table — decades before most people had heard of navigating rhetoric in public, workplace, and political settings. Here's a prompt to find out more — and then make it better.
 
 **Run this:**
 
 ```
-Who was Edward Said, and how does their work on the public intellectual's role and rhetoric outside the academy connect to navigating rhetoric in public, workplace, and political settings? Keep it to three paragraphs. End with the single most surprising thing about their career or ideas.
+Who was Edward Said, and how does their work on the public intellectual's
+role and rhetoric outside the academy connect to navigating rhetoric in
+public, workplace, and political settings? Keep it to three paragraphs.
+End with the single most surprising thing about their career or ideas.
 ```
 
 → Search **"Edward Said"** on Wikipedia after you run this. See what the model got right, got wrong, or left out.
 
 **Now make the prompt better.** Try one of these:
 
-- Ask it to walk through Said's argument that the intellectual is, properly, an *amateur* and an *exile* — and what each word means in his usage
+- Ask it to walk through Said's argument that the intellectual is, properly, an *amateur* and an *exile* — and what each word means in his usage.
 - Ask: "Said wrote *Orientalism* as a scholar and a Palestinian. Which audience did each chapter target — and how would the book have differed if he had pretended his standpoint didn't matter?"
-- Add the framing: "Answer as if you're writing the prologue to a 2026 reissue of *Representations of the Intellectual* aimed at writers entering public life under platforms Said didn't live to see"
+- Add the framing: "Answer as if you're writing the prologue to a 2026 reissue of *Representations of the Intellectual* aimed at writers entering public life under platforms Said didn't live to see."
 
 What changes? What gets better? What gets worse?
