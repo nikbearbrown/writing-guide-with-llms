@@ -2,7 +2,7 @@
 
 *Doing the Work the Live Human Won't Be There to Do.*
 
-Here is a puzzle worth sitting with before we start.
+---
 
 On the third of March, 1887, a six-year-old girl who could not see and could not hear stood on a porch in Tuscumbia, Alabama, feeling the leaves of the honeysuckle that covered the railing. She did this because she always felt things. It was how she knew where she was.
 
@@ -18,156 +18,192 @@ What changed in five seconds at the well?
 
 That is the question this chapter is about. Not Keller's particular answer. Yours.
 
-## What "literacy" stops meaning
+---
 
-Start with the word, because it is doing more work than it appears to.
+## What happened at the well
 
-In ordinary English, "literacy" means knowing how to read and write. In a 2026 classroom, it does not mean only that. UNESCO defines it as "a means of identification, understanding, interpretation, creation, and communication in an increasingly digital, text-mediated, information-rich, and fast-changing world."[^2] The National Council of Teachers of English calls it "competence in communication" across many modes.[^3]
+I want to dwell on the well-house for a moment longer, because it is doing a precise thing and I want you to see exactly what.
+
+Keller had been learning finger-spelled letters for weeks. She had produced them back when Sullivan asked. She was not failing at imitation. She was exceptionally good at imitation. But imitation is not language. You can mimic a signal without understanding that it means anything, just as a parrot produces the phoneme *water* without the idea. What Keller had was phonemes. What she lacked was the understanding that phonemes pointed at things. That the shape *w-a-t-e-r* and the cool flowing substance were not associated — not paired by habit, the way a Pavlovian bell is paired with a response — but equivalent. They were, in some fundamental sense, the same thing.
+
+That equivalence is the entire foundation of human language. It is so foundational that most people cannot remember not having it. You learned it so early that it left no trace in explicit memory, only in the structure of everything you have ever understood. Keller is extraordinary precisely because she learned it late enough to describe it — at six, after seven years of no language at all, she fell into it in a single afternoon and could report, sixteen years later, what the falling felt like.
+
+I find this useful not because Keller's situation is typical, but because it is extreme enough to isolate the mechanism. The mechanism is: language is not a catalog of associations. Language is a system of equivalences. When you write a sentence, you are not producing a series of conditioned signals. You are producing a map of equivalences — this word for that idea, this structure for that relationship between ideas — and you are trusting your reader to navigate by the same map. A literacy narrative is a story about the moment that map became yours, in whatever domain the map covers.
+
+<!-- → [DIAGRAM: Two-column contrast — left column "Association (Pavlovian)": bell → response, dashed arrow, labeled "paired by habit"; right column "Equivalence (Language)": w-a-t-e-r ↔ [flowing water], solid double-headed arrow, labeled "the same thing." Caption: "What changed at the well." Purpose: make the association/equivalence distinction concrete before it resurfaces in Exercise 7.] -->
+
+---
+
+## What "literacy" actually means now
+
+The word "literacy" has been stretched, and I think with good reason, and I want to be specific about why.
+
+When most human communication happened through printed text, "literacy" could do its job by meaning reading and writing. But communication now includes images joined to text, video joined to audio, code joined to interfaces, and — and this is new enough that the field has not finished adjusting to it — direct conversation with language models that respond to natural-language prompts and produce text that, in many registers, is indistinguishable from text a person wrote. If "literacy" still means only reading and writing print, it has stopped describing the full range of things humans now need to do with language.
+
+UNESCO defines literacy as "a means of identification, understanding, interpretation, creation, and communication in an increasingly digital, text-mediated, information-rich, and fast-changing world."[^2] The National Council of Teachers of English calls it "competence in communication" across many modes.[^3]
 
 [^2]: ["Literacy," UNESCO](https://en.unesco.org/themes/literacy).
 [^3]: ["Definition of Literacy in a Digital Age," NCTE, 7 Nov. 2019](https://ncte.org/statement/nctes-definition-literacy-digital-age/).
 
-That is a definition wide enough to fall through. Let me make it specific.
+Those definitions are wide enough to be slippery, so let me make it concrete. You are literate in any domain where you can understand and produce meaning fluently. Reading and writing in the ordinary sense, yes. But also: writing a three-line text that lands exactly right with your closest friend; reading a play-by-play and knowing whether your team is in trouble; cooking a dish your grandmother taught you without consulting a recipe; navigating a Discord server with its own norms; reading a chord chart; producing a TikTok that works; writing a clean commit message. Each of these is a literacy. Each has a grammar. Each had an apprenticeship, even if nobody called it that.
 
-You are literate in any area where you can understand and produce meaning fluently. Reading and writing in the ordinary sense, yes. But also: writing a text message that lands with your closest friend in three lines; reading a play-by-play to know whether your team is winning; cooking a dish your grandmother taught you without consulting a recipe; navigating Discord; reading a chord chart; producing a passable TikTok; writing a clean commit message. Each of these is a literacy. Each has its own grammar, its own conventions, its own apprenticeship.
+<!-- → [INFOGRAPHIC: Grid or wheel of 8–10 literacy domains — alphabetic reading/writing, musical notation, code, cooking from memory, social media production, athletic form, digital navigation, conversation — each with a one-line description of what "fluency" looks like in that domain. Purpose: make the widened definition of literacy visceral and personal before the student is asked to choose which literacy to write about.] -->
 
-The reason "literacy" got wider is that the texts got wider. When most communication happened through alphabetic print, "literacy" could cover the ground by meaning reading and writing print. Once communication included images stitched to text, video stitched to audio, code stitched to interfaces, and direct conversation with language models that respond to natural-language prompts, "literacy" had to widen or you would need ten new words. The field chose to stretch the word.
+The literacy narrative — the genre this chapter is teaching — is about the moment a literacy of any kind became yours. Not necessarily alphabetic literacy. The hinge moment in your story might be the day you first understood why a chord progression resolved. It might be the day you realized your grandmother's stories all started with the weather and that this was not an accident. It might be the day you produced a prompt to an AI that generated something you could not have generated alone, and you understood for the first time what writing-with-a-machine actually is. I will come back to that last one.
 
-That stretch matters here because the literacy narrative — the genre this chapter is teaching — is about the moment a literacy of any kind became yours. Not necessarily reading. Not necessarily writing. The hinge moment in your story might be the day you first understood why a chord progression resolved. Or the day you realized your grandmother's stories all started with the weather. Or — and this one is now on the table in a way it wasn't five years ago — the day you wrote a prompt to an AI that produced something you could not have produced alone, and you understood, for the first time, what writing-with-a-machine actually is. I will come back to that. Hold it.
+There is one more term I want to introduce before we move, because it is precise and useful and not common. The word is *idiolect*.
 
-One more term before we move. The word is *idiolect*.
+An idiolect — from the Greek *idios*, "own," and *lect*, "speech" — is your personal way of using language. Your specific words. Your specific rhythm. The phrases your family uses that no one else's family uses. The way your register shifts when you text a friend versus when you email a professor versus when you talk to a child. Everyone has one. Most people never notice they have one, because you only notice the water when you are out of it.
 
-An *idiolect* — from the Greek *idios*, "own," and *lect*, "speech" — is your personal way of using language. Your specific words. Your specific rhythm. The phrases your family uses that nobody else's family does. The way you switch registers when you text a friend versus when you email a professor versus when you talk to a child. Everyone has one. Most people don't notice they have one.
+Your idiolect is the raw material of your literacy narrative. In most college writing, the assignment asks you to translate yourself away from your idiolect — to produce the grammatical conventions of academic prose, the citation style of a particular discipline, the register of a professional. That translation is a real skill, worth learning. But the literacy narrative is one of the rare assignments where writing in your idiolect is not a defect to be corrected. It is the assignment.
 
-Your idiolect is the raw material of your literacy narrative. Every time you write something in a voice that does not sound like your idiolect, you are translating yourself into someone else's grammar. Sometimes that is the assignment. Lab reports want a particular voice. Cover letters want another. But the literacy narrative is one of the rare college assignments where you get to write in your idiolect, and the grade rewards you for doing so.
-
-That permission is older than it sounds. In 1987 the writer Gloria Anzaldúa published *Borderlands / La Frontera*, a book that moves through English, Spanish, Tex-Mex, Nahuatl, and Chicano English without translating itself. Anzaldúa wrote: "I will no longer be made to feel ashamed of existing. I will have my voice: Indian, Spanish, white."[^4] That sentence is the literacy-narrative permission slip. It says, in eighteen words, that the writer's authentic linguistic identity is the asset, not the defect.
+That permission is older than it sounds. In 1987, the writer Gloria Anzaldúa published *Borderlands / La Frontera*, a book that moves through English, Spanish, Tex-Mex, Nahuatl, and Chicano English without translating itself for a monolingual reader. Anzaldúa wrote: "I will no longer be made to feel ashamed of existing. I will have my voice: Indian, Spanish, white."[^4] That sentence is the permission slip. If you grew up speaking African American Vernacular English, the literacy narrative is the place to write in it. If you switch between English and Tagalog mid-thought, the literacy narrative is the place to switch. The genre is asking you to write the language you actually live in, not a performance of a language you don't own.
 
 [^4]: Gloria Anzaldúa, *Borderlands / La Frontera: The New Mestiza* (Aunt Lute Books, 1987), 59.
 
-When I say "write in your idiolect," I mean: write the sentences your mouth would actually say. If you grew up speaking African American Vernacular English, the literacy narrative is the place to write in it. If you switch between English and Tagalog mid-thought, the literacy narrative is the place to switch. The genre is not asking you to perform a "standard" English you do not own. It is asking you to write the language you actually live in.
+---
 
-## What makes a story a story
+## The mechanism: scene and summary
 
-A literacy narrative is a story about literacy. So before you can write one, you need to be specific about what makes anything a story.
+Here is the thing students most often get wrong, and it is a single, fixable, architectural error.
 
-Five elements. Each doing a specific job.
+A story has two modes. *Scene* puts the reader inside a specific moment — sensory detail, real-time pacing, the reader experiencing events as they occur. *Summary* puts the reader outside a span of time — compressed pacing, reported information, the reader told about events rather than experiencing them. Both modes have purposes. A literacy narrative needs both. But it lives or dies on its scenes.
 
-**Plot** — events in an order that produces consequence. In fiction, the sequence is invented. In nonfiction, the events happened. Either way, plot is not "and then, and then, and then." It is *because*. One thing leads to another in a way the reader can trace. Keller waited on the porch *because* something unusual was about to happen. Sullivan put her hand under the water *because* the morning's lesson with the doll hadn't worked. Keller understood "water" *because* she felt the cool stream and the spelled letters at the same instant. Plot is the chain of becauses.
+The trade-off is stark. Scene is expensive: it costs many words, and it requires you to remember a moment with enough specificity to render it. Summary is cheap: you can cover years in a sentence. The temptation in a first draft is to stay in summary, because summary is easier to write and because the events feel equally important and you do not want to leave anything out. But a narrative made entirely of summary reads like a Wikipedia entry about your own life. The information is present; the reader is not.
 
-**Characters** — the people the events happen to. In a literacy narrative, the central character is usually you. Other characters are the people who taught you, blocked you, or witnessed your learning. They need enough specificity that the reader can see them. "My grandmother" is a label. "My grandmother — who taught piano in the basement of her church, who smelled like Pond's cold cream, who tapped my knuckles with a pencil when I crossed thumbs the wrong way" is a person.
+Look at the ratio in Keller. She lived seven years before Sullivan arrived. The autobiography covers those seven years in a few sentences: anger, bitterness, deep languor, the feeling of being a ship in a tangible white darkness with no compass. Fifty words for seven years. Then the well-house, and the pacing collapses. We get the path. The fragrance of the honeysuckle. The hand under the spout. The cool stream. The spelling — first slowly, then rapidly. The moment of misty consciousness. Several hundred words for five seconds. That ratio — fifty words for seven years, several hundred words for five seconds — is the craft. It is not accidental. It is the writer's argument about where the meaning lives.
 
-**Setting** — where and when, but also *in what culture*. Setting in nonfiction is doing more work than people realize. The well at Tuscumbia in 1887 isn't just a well. It is post-Reconstruction Alabama, a household with the means to hire a private teacher for a disabled child, a specific moment in disability history. The literacy narrative needs to place itself in time and culture explicitly enough that the reader can locate the events.
+<!-- → [CHART: Horizontal bar chart or timeline showing word-count vs. time-span for each passage in Keller's opening chapter — years of childhood compressed to ~50 words; the well-house scene (~300 words) covering ~5 seconds. The visual disproportion is the point. Caption: "The ratio is the argument: the writer's word-count tells you where the meaning lives." Purpose: make the scene/summary ratio legible as a deliberate structural choice, not just a stylistic one.] -->
 
-**Problem and resolution** — the tension that makes the story go. Without a problem, there is no story. Without a resolution — even a partial, ambiguous, or failed one — the story does not land. The literacy narrative's problem is usually some version of "I could not yet do this, and I needed to." The resolution is "I came to be able to, and here is what changed when I did." Or sometimes: "I never could, and here is what I learned from failing."
-
-**Story arc** — the shape of the telling. Most stories have a beginning, middle, and end. You do not have to tell them in that order. You can start in the middle of the most charged scene and explain how you got there. The arc is the order in which you reveal the events, not the order in which they happened. Skilled writers choose the arc deliberately. Beginning writers default to chronological because it is easy, and chronological is sometimes wrong — it makes the most interesting moment land in the middle of the essay, when it should land near the end.
-
-Malala Yousafzai opens her memoir *I Am Malala* with one sentence: "The day when everything changed was Tuesday, 9 October 2012."[^5] One sentence. Five elements, simultaneously.
-
-[^5]: Malala Yousafzai, *I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban* (Weidenfeld & Nicolson, 2013).
-
-Plot: *the day when everything changed* — there is a before and after; the chain of becauses is implied. Character: *I*, with all the authority of first-person testimony. Setting: *Tuesday, 9 October 2012* — specific day, specific calendar, no ambiguity. Problem: *everything changed* — we know without being told that what follows will not be safe. Story arc: by opening here, the writer signals that the rest will explain how that day came to pass and what followed. Eighteen words. Five elements. That is the compression a literacy narrative can reach when its writer knows what every word is doing.
-
-## Scene and summary — the central mechanism
-
-If you remember one thing from this chapter, it is this. Most student literacy narratives fail at the same point, in the same way, and the fix is always the same.
-
-**Scene** puts the reader *inside* a specific moment. Sensory detail. Real-time pacing. The reader experiences the events.
-
-**Summary** puts the reader *outside* a span of time. Reported information. Compressed pacing. The reader is told about the events.
-
-Both have uses. Scene is expensive — it takes many words and requires you to actually remember the moment well enough to render it. Summary is cheap — you can cover months in a paragraph. A literacy narrative needs both. But it lives or dies on its scenes.
-
-Name the trade-off directly. **Scene buys you presence at the cost of generalization. Summary buys you generalization at the cost of presence.** A narrative made entirely of summary reads like a Wikipedia entry about your own life. A narrative made entirely of scene loses the reader in detail and can't deliver the meaning. The craft is in choosing which moments get the scene treatment and which moments get compressed to a sentence.
-
-Look at Keller again. She lived seven years before Sullivan arrived. The autobiography summarizes those seven years in a few sentences: anger, bitterness, deep languor, the feeling of being a ship at sea in a tangible white darkness with no compass or sounding-line. Fifty words for seven years. Then she arrives at the well-house and the pacing collapses. We get the path. The fragrance of the honeysuckle. The hand under the spout. The cool stream. The spelling — first slowly, then rapidly. The moment of misty consciousness. Several hundred words for five seconds. That ratio is the craft.
-
-Here is what that looks like when it goes wrong. A student literacy narrative, once submitted in my workshop:
+A student literacy narrative that came through my workshop once opened like this:
 
 > I have always been a reader. My mom read to me every night when I was little. In elementary school I read all the time. I would read in the car, at lunch, at recess. By middle school I was reading hundreds of pages a week. Reading has always been a part of my identity.
 
-Six sentences. Six summaries. Twenty years compressed. No moment, no scene, no specific event the reader can locate. The information is true. The writing is dead.
+Six sentences. Six summaries. Twenty years, compressed to nothing. No moment. No scene. No specific event the reader can locate in space or time. The information is probably true. The writing is not yet a story.
 
-By the end of revision, the opening was this:
+By the end of revision, the opening was:
 
 > The day my grandmother handed me her copy of *A Wrinkle in Time*, the cover was held on with tape and the back third smelled like the inside of her coat closet — wool, cedar, an old container of Vicks. I was eight. I asked her if I could borrow it. She said no. She said I could have it. That was the day I understood that books could be given, not just lent.
 
-One scene. One moment. Specific sensory detail — wool, cedar, Vicks. Specific object. Specific exchange — *borrow*, *no*, *have*. A small, real turning point: the moment a child understood that books are objects you can be given, with all the cultural weight of generosity attached. That paragraph took the same writer thirty minutes to produce. The first one took her four. Scene takes more time. It produces more meaning per word.
+Same student. Same experience. This time: one scene, one moment, specific sensory detail, specific object, specific exchange. A small and real turning point — the moment a child understood that books are objects someone can give you, with all the weight of generosity attached to that giving. That paragraph took the same writer thirty minutes. The first one took her four. Scene takes longer. It produces more meaning per word.
 
-Here is how to tell scene from summary in your own draft. Read it aloud. Mark every sentence that begins with a phrase about a *span of time*: "for years," "during high school," "every Sunday." Those are summary. Mark every sentence that begins with a phrase about a *specific moment*: "the morning of," "that Tuesday," "I was thirteen and it was raining." Those are scene-eligible. A first draft is almost always too much summary. The revision moves the camera in.
+The diagnostic test is this: read your draft aloud and mark every sentence that begins with a phrase about a *span of time* — "for years," "during high school," "every Sunday morning." Those are summary. Mark every sentence that begins with a phrase about a *specific moment* — "the morning of," "that Tuesday," "I was thirteen and it was raining." Those are scene-eligible. A first draft is almost always too much summary. Revision moves the camera in.
 
-One technique that helps when you cannot find a scene: pick any object that was present in the literacy event. The book. The chair. The teacher's pen. The phone screen. Anything. Describe it sensorily in three sentences. Then drop yourself into that object's vicinity in time. The scene will start to assemble itself, because memory is associative — one anchored sensory detail pulls the rest behind it.
+One technique for finding the scene when the memory is vague: pick any object that was physically present during the literacy event. The book. The chair. The teacher's red pen. The phone screen. Anything. Describe it in three sentences using only sense data — what you saw, felt, heard, smelled. Then place yourself in the vicinity of that object in time. Memory is associative; one anchored sensory detail pulls others behind it, and the scene begins to assemble itself.
 
-## Three turning points
+---
 
-Three writers. Three hinge moments. Read them as a set. Look for the move all three make, and the moves that distinguish them.
+## Three hinge moments
 
-**Frederick Douglass — the moment of overhearing.** Douglass was born into slavery in Maryland in 1818.[^6] By the time he wrote his *Narrative* (1845), he was twenty-seven and famous enough as an abolitionist orator that his enslavers had reason to want him back.
+Three writers. Three moments. I want you to read them as a set and look for what they share, and for what distinguishes them.
 
-[^6]: ["Frederick Douglass," U.S. National Park Service](https://www.nps.gov/people/frederick-douglass.htm).
+**Frederick Douglass.** Douglass was born into slavery in Maryland in 1818.[^5] By the time he wrote his *Narrative of the Life of Frederick Douglass* in 1845, he was twenty-seven, a famous enough abolitionist orator that his enslavers had legal reason to want him returned.
 
-The hinge moment in his literacy narrative is not the moment he learned to read. It is the moment he learned *that he was forbidden to*. He had been living with Mr. and Mrs. Auld in Baltimore. Mrs. Auld had begun teaching him the alphabet. Mr. Auld, when he found out, forbade it — telling her, within Douglass's hearing, that teaching a slave to read would "forever unfit him to be a slave."
+[^5]: ["Frederick Douglass," U.S. National Park Service](https://www.nps.gov/people/frederick-douglass.htm).
 
-Douglass's account of what happened inside him at that moment:
+The hinge moment in his literacy narrative is not the moment he learned to read. It is the moment he learned that he was forbidden to. Mrs. Auld had been teaching him the alphabet. Mr. Auld, discovering this, forbade her from continuing — telling her, within Douglass's hearing, that teaching a slave to read would "forever unfit him to be a slave." Douglass's account of what happened inside him at that moment:
 
 > These words sank deep into my heart, stirred up sentiments within that lay slumbering, and called into existence an entirely new train of thought. It was a new and special revelation, explaining dark and mysterious things, with which my youthful understanding had struggled, but struggled in vain. I now understood what had been to me a most perplexing difficulty — to wit, the white man's power to enslave the black man. From that moment, I understood the pathway from slavery to freedom.
 
-The move: Douglass takes a moment that lasted seconds — he is overhearing one adult speak to another in a room — and expands it into a paragraph that explains the entire structural argument of his life. The moment is small. The reading of the moment is enormous. The reader experiences both at once. Then watch what he does not do. He does not list the books he later read. He does not summarize his subsequent reading lessons. He gives us one specific tactic — befriending the white boys on Philpot Street, trading bread for letters — and one specific phrase from his enslaver that he will return to later in the narrative, naming the *inch* and the *ell* as the moment by which he, in turn, took the ell. The literary structure is doing argumentative work.
+Notice the structure of the move. Douglass takes a moment that lasted seconds — he is overhearing one adult speak to another — and expands it into a paragraph that contains the entire structural argument of his life. The moment is tiny. The reading of the moment is enormous. The reader experiences both at the same time. Then watch what he does not do. He does not list the books he later read. He gives us one specific tactic — befriending the white boys on Philpot Street, trading bread for spelling lessons — and one phrase from his enslaver that he returns to explicitly later in the *Narrative*, naming the *inch* as the moment he decided to take the *ell*. The literary structure is doing argumentative work. The scene is not decoration. It is the claim.
 
-**Helen Keller — the moment of equivalence.** We have already met Keller at the well. What I want you to notice now, with the scene/summary distinction in hand, is how much of the narrative leading up to the well is summary, and how the well-house itself is the only sustained scene in the whole opening. Two scenes in the chapter: the breaking of the doll that morning, and the well. Everything around them is summary. The ratio is doing the work.
+**Helen Keller.** We have already met Keller at the well. Now look at the ratio. Everything before the well — seven years of life — is summary. Two scenes in the chapter: the breaking of the doll, and the well. Everything around them is compressed. Keller renders the well-house at a pace of seconds per sentence. The surrounding years pass at years per sentence. The reader feels the difference in pacing as the approach of something. When the scene arrives, it has the weight all that compression has been building toward.
 
-When the literacy moment arrives, Keller writes it as the discovery of *equivalence* — the realization that the shape *w-a-t-e-r* and the cool wet substance flowing over her hand are the *same thing*. Not associated. Not connected. The same thing. That equivalence is the foundation of all human language. Keller felt herself fall into it.
+What she is discovering at the well is equivalence: the shape *w-a-t-e-r* and the cool flowing substance are not just associated. They are the same thing, in the deep structural sense that makes language work. She is not learning a label. She is falling into the system that makes labeling possible. That is why the doll, later the same day, suddenly has a different valence — it is now a *doll*, not merely an unpleasant thing. The word does not just describe the object. It locates the object in a web of relations the word carries with it.
 
-**Tara Westover — the moment of refusal.** Westover's *Educated: A Memoir* (2018) is a literacy narrative running through 350 pages.[^7] The hinge is not a single scene — it is a slow rotation, accumulated across years — and that is interesting in its own right because it shows what a longer-form literacy narrative looks like when the turning point itself takes a long time to turn.
+**Tara Westover.** Westover's *Educated: A Memoir* (2018) is a literacy narrative running 350 pages.[^6] Her hinge is not a single scene. It is a slow rotation across years — and that is worth attention because it shows what a literacy narrative looks like when the turning point itself takes a long time to turn.
 
-[^7]: Tara Westover, *Educated: A Memoir* (Random House, 2018).
+[^6]: Tara Westover, *Educated: A Memoir* (Random House, 2018).
 
-Westover grew up in a survivalist, fundamentalist Mormon family in Idaho, the youngest of seven children, homeschooled in the loosest sense. Her literary world consisted almost exclusively of religious texts. Her other literacies — preserving food, preparing herbs, working her family's junkyard — were genuine and substantial; the memoir does not dismiss them. The book's argument is partly that "education" is not the same as "literacy," and that one can be deeply literate in a closed system that does not equip you for the world outside it.
+Westover grew up in a survivalist, fundamentalist household in rural Idaho, the youngest of seven children, homeschooled in the loosest sense. Her literary world was almost entirely religious text. Other literacies — preserving food, preparing herbs, working the family junkyard — were genuine and substantial; the book does not dismiss them. The memoir's argument is partly that "education" and "literacy" are not the same thing, and that a person can be deeply literate in a closed system that does not equip them for the world outside it.
 
-Her brother Tyler leaves first. Westover watches, and begins to consider it for herself. She buys an ACT prep book, studies on her own, gets into Brigham Young University. She arrives on campus with large gaps in basic historical knowledge — she had not learned about the Holocaust — and a faith-based interpretation of events that her college coursework systematically disassembled. The hinge: her father eventually calls her home, demands she renounce her education and return to his interpretation of Mormonism. She declines. The relationship with most of her family does not survive that refusal. Three of the Westover children who left the mountain, including her, went on to earn PhDs.
+Her brother Tyler leaves first. She watches, and begins to consider it for herself. She gets an ACT prep book, studies on her own, gets into Brigham Young University. She arrives on campus with large gaps in basic historical knowledge — she had not been taught about the Holocaust — and a faith-based interpretation of events that her coursework systematically disassembles. Her father eventually calls her home and demands she renounce her education. She declines. The relationship with most of her family does not survive that refusal. Three of the Westover children who left the mountain, including her, earned PhDs.
 
-Put all three side by side and the lesson is clear. The hinge moment can be five seconds (Keller) or five years (Westover) or somewhere in between (Douglass) — but every literacy narrative has one, and the writer's job is to render it at the pace it actually moved. Westover's case suggests the hinge can be distributed in time. None of them suggest it can be absent.
+All three side by side: the hinge can be five seconds (Keller) or five years (Westover) or somewhere between (Douglass). But every literacy narrative has one. Westover's case suggests the hinge can be distributed across time. None of them suggest it can be absent.
+
+<!-- → [TABLE: Three-column comparison of Douglass, Keller, and Westover — rows: hinge duration, what is gained, what is lost or refused, structural technique used (ratio, pacing, expanded moment), whether the hinge is a single scene or a distributed rotation. Purpose: let the student see the three examples as variations on a pattern before the "Finding yours" section asks them to apply it.] -->
+
+---
 
 ## Finding yours
 
 Before you write, you have to find your hinge. Some questions that help.
 
-What literacy do you have now that you did not have at some point in the past? Any literacy — alphabetic, musical, athletic, technical, social, conversational. Something you actually use, not something you should have.
+What literacy do you have now that you did not have at some point in the past? Any literacy — alphabetic, musical, athletic, technical, social, conversational. Something you actually use. Not something you think you should have.
 
 When did you not yet have it? Specific: year, season, age, where you were living.
 
-Was there a moment — an hour, a day, a week — when something turned? Not the whole acquisition; just the moment when "I cannot yet" became "I can," or "I am outside this thing" became "I am inside it." For some readers that moment will be obvious. For others — particularly those whose literacy grew gradually — it will be subtle, and you may have to think before you find it.
+Was there a moment — an hour, a day, a week — when something turned? Not the whole acquisition. The moment when "I cannot yet" became "I can," or when "I am outside this thing" became "I am inside it." For some readers that moment will be immediate. For others, particularly those whose literacy accumulated gradually, it will be subtle, and you may have to look. If you cannot find a single moment, consider whether your story is more like Westover's — a slow rotation that crystallized into a specific recognition. The hinge in that case is the moment of recognition, not the moment of acquisition.
 
-If you cannot find a single moment, consider whether your story is more like Westover's — a slow rotation that recognition of crystallized into a specific event. The hinge in that case is the moment of recognition, not the moment of acquisition.
+Once you have the hinge, draft it first. Not chronologically — anchor in the scene. Put yourself back in the room. Write in present tense. Use sensory detail. Write the moment at the pace it actually moved. That scene is your anchor. The rest of the narrative assembles around it.
 
-A rhetorical situation is the configuration of who is speaking, to whom, for what purpose, in what setting, under what constraints. Map yours before you draft.
+Then ask two questions. What does the reader need to know *before* the scene to understand what is at stake? Write that as efficient summary — Keller covered seven years in a metaphor; you may need a paragraph. What does the hinge cost you, change in you, or send you toward? That is your resolution. It is usually shorter than you expect. Resist the urge to explain what the scene means. A scene rendered well does not need its meaning announced. The meaning is in the scene.
 
-Who is the **author** — which version of yourself is writing? The one who shows up in your group chat? The one who applies for jobs? You have a choice; pick the most honest one you can. Who is the **audience** — your instructor reads it, your classmates might, but could this end up in the [Digital Archive of Literacy Narratives (DALN)](https://www.thedaln.org/#/home), which collects literacy narratives from people of every background? What is the **purpose** — earning a grade is real, add at least one other. What are the **means** — written essay, audio, video, multimodal? What is the **context** — what is happening in your life and the wider world that gives the moment its weight? A literacy narrative written in 2026 is being written now, and what is now is part of its situation. What **culture** shapes what you are bringing to the writing, and what your reader will bring? Where are the gaps you should anticipate?
-
-Once you have the map, draft the hinge moment first. Not chronologically — anchor in the scene. Put yourself back in the room and write the moment in present tense with sensory detail, for as long as you can sustain it. That scene is your anchor. The rest assembles around it.
-
-Then ask: what does the reader need to know before the scene to understand what is at stake? Write that as efficient summary. Keller did the seven preceding years in a metaphor; you may have to do five years in a paragraph. After the scene: what does it cost you, change in you, or send you toward? That is the resolution. Often shorter than you expect. Resist the urge to over-explain. A scene rendered well does not need its meaning announced.
-
-## The sentences
-
-After a draft, the first revision pass is not for content. It is for sentences.
-
-**Combine.** Most first drafts contain runs of short, repetitive sentences that read choppy. "I learned to play piano. I was five years old. Memorizing the location of the keys is my literacy experience." Three sentences, one idea. Combined: "Learning to play piano at five — memorizing the location of the keys, where my fingers were supposed to land — is the literacy experience I keep returning to." One sentence. Richer. The information remains; the rhythm does something. Short sentences still have a place. They land. They cut. The discipline is to use them on purpose, not by accident.
-
-**Define *you* and *this*.** Search your draft for the word *you*. Each time it appears, decide: am I addressing my actual reader, or am I using *you* to mean "a generic person," in which case the sentence is hazier than I think? Replace the hazy ones. Same for *this*: every *this* should be followed — or recently preceded — by a noun phrase telling the reader what *this* is.
-
-**Cut wordiness.** Take a paragraph at random from your draft. Read it once. Rewrite it shorter. Then shorter again. The third version is usually the publishable one. William Strunk's rule is three words long: *Omit needless words.* It works.
-
-**Replace passive constructions where you can.** "It is challenging and rewarding to revise a composition" is a sentence with no actor. "I feel challenged and rewarded when I revise" puts you on the page. Sentences with actors land harder than sentences without them.
+---
 
 ## A note about AI
 
-The literacy narrative you are being asked to write is about how you came to communicate fluently in something. That question is now inescapably tangled with a new tool that communicates fluently in almost everything, on demand, without apparent effort.
+The literacy narrative you are being asked to write is about how you came to communicate fluently in something. That question is now inescapably tangled with a tool that communicates fluently in almost everything, on demand, without apparent effort.
 
-This creates a genuine question, not a rule. If you draft your literacy narrative with a language model's help, what exactly is your relationship to the resulting prose? Is the model's output the shitty first draft you now revise? Is using it fluently itself a literacy you should be writing about? Does assistance change whether the story is yours?
+This creates a genuine question, not a rule. If you draft your literacy narrative with a language model's help, what exactly is your relationship to the resulting prose? Is the model's output the first draft you now revise and own? Is fluent use of AI itself a literacy you might be writing about? Does the presence of assistance change whether the story is yours?
 
-These are not rhetorical questions designed to steer you toward not using AI. They are actual questions the genre is going to be working through for a while, and you are writing at the exact moment when nobody has clean answers. The most honest thing you can do is decide where you stand and let that decision show in the work.
+These are not rhetorical questions designed to steer you away from using the tool. They are actual questions the genre is working through in real time, and you are writing at the exact moment when nobody has clean answers. The most honest thing you can do is decide where you stand and let that decision show in the work. Writers who think carefully about their tools make better work than writers who don't think about them at all. That has always been true. It is more urgently true now.
+
+---
+
+## Exercises
+
+The chapter's inferred learning objectives: (1) explain the concept of a literacy hinge — the specific moment when a new competence became operative — and distinguish it from the gradual process of acquisition; (2) apply the scene/summary distinction to a literacy narrative draft, diagnosing where summary is doing work that scene should do; (3) analyze how a published literacy narrative (Douglass, Keller, or Westover) uses pacing, ratio, and structural choices to make an argument rather than just tell a story; (4) produce a first-draft scene of your own hinge moment using sensory anchoring and present-tense rendering; (5) articulate a position on the role of AI assistance in a first-person literacy narrative.
+
+---
+
+**Warm-up**
+
+*1. Summary to scene.* Take the student's first draft that appears in the chapter — the six-sentence summary of a reading life — and revise it into a scene. You have not met this student and do not know their actual history, so you must invent a specific moment: a real object, a real place, a real exchange. The invented moment must be specific enough that the reader can locate it in space and time. Write 100–150 words. The goal is not accuracy (you cannot be accurate) but specificity — practicing the move from summary to scene before you apply it to your own material.
+*(Tests objective 2 — the scene/summary distinction as a practical skill.)*
+*Difficulty: Low.*
+
+*2. Ratio inventory.* Take the opening two pages of any memoir or personal essay you have read — or a piece from this course. Mark every passage of summary (spans of time, generalizations) and every passage of scene (specific moments rendered in sensory detail). Calculate a rough ratio: how many words of summary per scene? Then ask: does the ratio match the chapter's argument about where meaning lives? Write 150–200 words explaining what you found and what it implies.
+*(Tests objective 1 — understanding the hinge and scene/summary as tools for locating meaning.)*
+*Difficulty: Low.*
+
+---
+
+**Application**
+
+*3. The Douglass move.* Douglass takes a moment that lasted seconds and expands it into a paragraph that contains the entire structural argument of his life. Find a moment in your own experience — any experience, not necessarily a literacy event — where a small thing revealed a large structure. Write that moment as a scene (100–150 words), then write one paragraph explaining what large structure the small moment revealed (100 words). The goal is to practice the compression move: specific moment → structural claim, without summarizing your way to the claim.
+*(Tests objective 3 — analyzing and then replicating the structural move from a published example.)*
+*Difficulty: Medium.*
+
+*4. Three hinges, one pattern.* The chapter presents three literacy narratives with hinges of very different durations: five seconds (Keller), weeks to months (Douglass), and years (Westover). Describe a fourth hinge from a literacy narrative you have read — or, if you have not read one, from any memoir or personal essay where a character's relationship to language or communication changes. Where does this hinge fall on the duration spectrum? What does the author do structurally to handle a hinge of that duration? Write 300–400 words.
+*(Tests objective 3 — applying the hinge concept beyond the examples given.)*
+*Difficulty: Medium.*
+
+*5. Idiolect inventory.* The chapter claims that your idiolect — your personal way of using language — is the raw material of the literacy narrative. Produce evidence for this. Find two texts you have written in the past month: one in your natural register (a message to a friend, a post, a note to yourself) and one in an academic or professional register (a paper, an email to an instructor, a job application). Identify three specific features that differ between them — word choice, sentence length, punctuation, tone, anything measurable. Then ask: is the academic text translating you, or replacing you? Write 200–300 words.
+*(Tests objectives 1 and 2 — connecting idiolect to the literacy narrative assignment.)*
+*Difficulty: Medium.*
+
+---
+
+**Synthesis**
+
+*6. Draft the hinge.* Using the sensory-anchoring technique described in the chapter — pick one object present at your literacy event, describe it in three sentences of pure sense data, then place yourself in its vicinity — write a first-draft scene of your own hinge moment. Present tense. 300–400 words. After the scene, write one paragraph (not part of the narrative) naming: what the reader needs to know before this scene to understand the stakes, and what happens after it that counts as resolution. Do not write those sections yet. Just name what they would cover.
+*(Tests objective 4 — producing a first-draft scene using the chapter's specific technique.)*
+*Difficulty: Medium-high.*
+
+*7. The equivalence argument.* The chapter claims that what Keller discovered at the well was not an association but an equivalence — the understanding that the word and the thing are the same thing in a way that makes language itself possible. Apply that distinction to your own hinge moment. What, specifically, shifted from association to equivalence? If your literacy is not alphabetic — if it is musical, athletic, technical, social — describe what the equivalent of the Keller moment looks like in your domain. Write 300–400 words.
+*(Tests objectives 1, 3, and 4 together — applying the chapter's central mechanism to original material.)*
+*Difficulty: High.*
+
+---
+
+**Challenge**
+
+*8. The AI authorship question.* The chapter asks whether a literacy narrative written with significant AI assistance is still the writer's story. Take a position and defend it in 400–600 words. Your argument should engage specifically with the chapter's framing of the literacy narrative as a story about *how you came to communicate fluently in something* — and therefore should address what it would mean if the genre's own conventions were now complicated by the tool the narrative might be about. You are not being asked for a policy. You are being asked for an argument that could survive scrutiny.
+*(Open-ended. Tests objective 5 and the student's capacity to use the chapter's concepts as tools for an original claim.)*
+*Difficulty: High.*
+
+---
 
 ## LLM Exercise — Chapter 4
 
@@ -196,7 +232,7 @@ sentences, moments, however fragmentary].
 Ask me five questions, one at a time, that push me to make these
 memories more specific. After my answers, identify which one of my
 specific moments has the strongest claim to being the "hinge" — the
-single moment when something changed — and explain in 2-3 sentences
+single moment when something changed — and explain in 2–3 sentences
 why that moment, not the others.
 
 Do not write any prose for my essay. Do not draft scenes. Your job is
@@ -207,47 +243,31 @@ to interrogate my memory and help me see which moment to write.
 
 **How to adapt this prompt:**
 
-- *For ChatGPT or Gemini:* works as written; you may need to remind the tool not to draft scenes itself, since some models default to "helpful" by producing prose you didn't ask for.
-- *For Claude Code:* not the right tool for this exercise — this is a conversational interrogation, not a code or file task.
-- *For Cowork:* useful if you want to keep a running notes file of the memories. Tell Cowork to save each answer to a local `literacy-memories.md` file as you go.
+For ChatGPT or Gemini, the prompt works as written; you may need to remind the model not to draft scenes itself, since some models default to "helpful" by producing prose you didn't ask for. For Claude Code: wrong tool for this exercise — this is a conversational interrogation, not a code or file task. For Cowork: useful if you want a running notes file. Tell Cowork to save each answer to a local `literacy-memories.md` file as you go.
 
-**The instructive failure to expect:** Claude will sometimes try to write the scene for you, even after you said not to. When that happens, push back: *"Stop. I asked you to interrogate my memory, not draft the essay. Ask the next question."* The exercise of saying no to an LLM is itself part of the literacy you are now developing — knowing when to take an LLM's output and when to refuse it.
-
-**Connection backward:** this is the first LLM-assisted exercise in the book. The pattern — using Claude as an interlocutor rather than a writer — recurs.
-
-**Preview of next chapter:** the next chapter is a short bridge into the divide between personal voice and academic register. The LLM exercise there will move you toward making that translation deliberately rather than by accident.
-
-## What would change my mind
-
-If a substantial body of published literacy narratives turned out to be successful without a clearly identifiable hinge moment — driven instead by accumulation, mood, or pattern with no single rotation point — I would revise the central claim of this chapter that every literacy narrative has one. Westover's case suggests the hinge can be distributed in time; I am not sure it suggests it can be absent.
-
-## Still puzzling
-
-I do not yet have a clean way to teach what to do when the student's hinge moment isn't remembered well enough to render in scene. Memory is unreliable, and a literacy narrative needs a specificity it can't always honestly supply. The current advice — anchor in one sensory object and let the rest assemble — works some of the time. It does not work all the time.
+**The instructive failure to expect:** Claude will sometimes try to write the scene for you, even after you said not to. When that happens, push back: *"Stop. I asked you to interrogate my memory, not draft the essay. Ask the next question."* The exercise of saying no to an LLM is part of the literacy you are now developing — knowing when to take an LLM's output and when to refuse it.
 
 ---
 
-*Sources cited above link to primary text where available. The chapter draws on the OpenStax* Writing Guide with Handbook *literacy-narrative modules as the underlying curriculum scaffold, with all rendering, examples, voice, and analytical claims reworked for this textbook's pedagogy.*
+## AI Wayback Machine
 
-
----
-
-## 🕰️ AI Wayback Machine
-
-The ideas in this chapter didn't appear from nowhere. **Mike Rose** was working on *Lives on the Boundary* — a literacy narrative that put working-class students' actual cognitive work on the page, against decades of deficit framing decades before most people had heard of the literacy narrative as a genre. Here's a prompt to find out more — and then make it better.
+The ideas in this chapter did not appear from nowhere. **Mike Rose** was working on *Lives on the Boundary* — a literacy narrative that put working-class students' actual cognitive work on the page, against decades of deficit framing — decades before most people had heard of the literacy narrative as a genre.
 
 **Run this:**
 
 ```
-Who was Mike Rose, and how does their work on literacy memoir and the cognition of remedial writers connect to the literacy narrative as a way of writing about your own learning? Keep it to three paragraphs. End with the single most surprising thing about their career or ideas.
+Who was Mike Rose, and how does their work on literacy memoir and the
+cognition of remedial writers connect to the literacy narrative as a
+way of writing about your own learning? Keep it to three paragraphs.
+End with the single most surprising thing about their career or ideas.
 ```
 
-→ Search **"Mike Rose"** on Wikipedia after you run this. See what the model got right, got wrong, or left out.
+Then search **"Mike Rose"** on Wikipedia. See what the model got right, got wrong, or left out.
 
 **Now make the prompt better.** Try one of these:
 
-- Ask it to summarize the scene in *Lives on the Boundary* where Rose realizes a "remedial" student is doing more analytical work than the test can measure
+- Ask it to summarize the scene in *Lives on the Boundary* where Rose realizes a "remedial" student is doing more analytical work than the test can measure.
 - Ask: "What did Rose's working-class Italian-American upbringing in Los Angeles give him as a literacy autobiographer that a different writer wouldn't have had?"
-- Add the framing: "Answer as if you're writing the back-cover blurb for a 30th-anniversary edition of *Lives on the Boundary*"
+- Add the framing: "Answer as if you're writing the back-cover blurb for a 30th-anniversary edition of *Lives on the Boundary*."
 
 What changes? What gets better? What gets worse?
