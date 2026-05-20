@@ -162,6 +162,20 @@ The filters that matter for this assignment.
 
 ---
 
+## A note about AI
+
+Rhetorical analysis is the genre where the LLM is most superficially competent and most analytically thin, and the gap between those two things is the trap.
+
+A model can read the Smith essay and produce a paragraph identifying ethos, pathos, logos, and kairos in their conventional places. The paragraph will be grammatically smooth. It will read like rhetorical analysis. What it will usually not do is the thing that distinguishes analysis from cataloging: explain why a specific rhetorical move was the right move for *this* text in *this* situation, and what the cost would have been if the writer had chosen differently. The catalog is identification. The analysis is the *why*.
+
+Where the model genuinely helps: pasting your draft and asking it to flag which paragraphs are doing cataloging (*this passage uses parallel structure*) versus which are doing analysis (*this passage uses parallel structure because the rhythm of three-part repetition makes the writer's anger feel rehearsed, deliberate, controlled rather than vented*). The line between the two is sometimes invisible to the writer of the draft. The model can also surface a counter-reading — *here is how a hostile reader might dismiss this passage* — and that counter-reading sharpens your own.
+
+Where the model does damage: writing the close reading itself. The point of close reading is the slow contact with the text. Close reading the model has done for you produces an analysis that names rhetorical moves you have not noticed and therefore cannot defend if questioned. The model will also produce a confident reading from a single pass through the text — when in fact it has conflated two passages, misattributed a quote, or fabricated a transition that isn't there. Cross-check anything the model says about a specific passage against the passage itself, by your own eyes.
+
+The rule: the model can sharpen the analytical layer once you have done the close reading. It cannot replace the close reading itself. Reading slowly is the work of the genre.
+
+---
+
 ## LLM Exercise — Chapter 11
 
 **What you're building:** a structured first reading of your subject text, organized for use as drafting scaffolding.

@@ -244,7 +244,7 @@ Here are my notes:
 
 ---
 
-## 🕰️ AI Wayback Machine
+## AI Wayback Machine
 
 The ideas in this chapter didn't appear from nowhere. **Wesley Morris** was working on criticism that argues for itself — Pulitzer-winning reviews of film, music, and culture that make the criteria visible on the page rather than hidden behind taste — decades before most people had heard of evaluation or review as a teachable genre. Here's a prompt to find out more, and then make it better.
 

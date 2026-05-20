@@ -224,7 +224,7 @@ or video. The composition is mine to do.
 
 ---
 
-## 🕰️ AI Wayback Machine
+## AI Wayback Machine
 
 The ideas in this chapter didn't appear from nowhere. **Vilém Flusser** was working on *Towards a Philosophy of Photography* and *Does Writing Have a Future?* — a media philosophy arguing that the photograph, the program, and the platform each have a grammar a writer must read before composing in them — decades before most people had heard of multimodal and online writing. Here's a prompt to find out more — and then make it better.
 

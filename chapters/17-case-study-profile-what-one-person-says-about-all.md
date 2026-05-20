@@ -140,6 +140,22 @@ The case study is doing the genre's work. It hypothesizes specifically. It limit
 
 ---
 
+## A note about AI
+
+A case study has the same vulnerability as a profile, plus one more.
+
+The vulnerability the case study shares with the profile is that the substance requires irreplaceable work the model cannot have done — the interview, the observation, the actual specific person at the center of the study. A case study built without that work is not a case study; it is a generic essay disguised in case-study clothing.
+
+The case study's distinct vulnerability is the generalization move — the careful claim that this one subject's specifics speak to a broader pattern. The model is trained on patterns, which means it will generalize too quickly, too smoothly, and from too little. Asked to discuss what Mateo's code-switching means about bilingual emotional language in general, the model will produce a confident discussion that treats one case as definitive when the case is only suggestive. The discipline of the genre is the discipline of not overclaiming, and the model has not internalized that discipline; if anything, it has internalized the opposite.
+
+Where the model genuinely helps: after you have collected your data, you can paste your findings and ask the model to draft three possible interpretations of the same pattern — and then ask which interpretation the data does and does not distinguish among. You can ask it to identify limitations you have not yet named. You can ask it to push back on your generalization and require you to defend the scope of your claim.
+
+Where the model does damage: producing the methods section as if research had happened, generating the discussion before the data is in, and softening the limitations into reassurance. Each substitutes the model's pattern-confidence for the writer's empirical honesty.
+
+The rule: the case study lives in the gap between what one subject can support and what the writer might want to claim. The model does not feel that gap. You have to.
+
+---
+
 ## LLM Exercise — Chapter 17
 
 **What you're building:** the analytical scaffold for your case study — from the question through the methods through the patterns in your data.

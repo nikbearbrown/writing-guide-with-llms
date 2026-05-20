@@ -247,7 +247,7 @@ scenes. The narrative is mine to write.
 
 ---
 
-## 🕰️ AI Wayback Machine
+## AI Wayback Machine
 
 The ideas in this chapter didn't appear from nowhere. **Vivian Gornick** was working on *The Situation and the Story* — the craft book that named the distinction at the heart of memoir: the situation is what happened; the story is what the writer made of it — decades before most people had heard of memoir as a teachable genre. Here's a prompt to find out more, and then make it better.
 

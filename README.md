@@ -123,3 +123,69 @@ _No `book.md` / `_notes.md` overview available yet. Add a one-sentence descripti
 ---
 
 _Generated overview-and-TOC README. Source files (`book.md`, `outline.md`, etc.) remain the working documents._
+
+---
+
+## What This Book Is
+
+<!-- TODO: populate from chapter content -->
+
+---
+
+## Who This Book Is For
+
+reader's roadmap)
+
+This file is a stub. Sections 1–10 and 12–13 are placeholders for a later pass.
+Section 11 (A note about AI) is substantive and written.
+
+A good model for the full version: Pearl's "The Mind Over Data" introduction,
+Molnar's Interpretable ML introduction. Both are argument-first and tell the
+reader exactly what to expect from each chapter.
+-->
+
+# Introduction
+
+<!-- [1] COLD OPEN
+     A specific named scene with real stakes.
+     No "this book will...", no throat-clearing.
+
+---
+
+## How to Read It
+
+<!-- TODO: populate from chapter content -->
+
+---
+
+## Signature Simulations
+
+<!-- TODO: populate from chapter content -->
+
+---
+
+## About the Author
+
+**Nik Bear Brown** teaches at Northeastern University and writes across several modes — technical, pedagogical, and creative. Through [Musinique LLC](https://www.musinique.net/) he produces music and writes ghost-artist material; through [Bear Brown & Company](https://www.bearbrown.co/) he writes a working blog on AI methods; through [Humanitarians AI](https://www.humanitarians.ai/) he edits and publishes the work of OPT fellows.
+
+He is the author of *Irreducibly Human*, *Computational Skepticism for AI*, and the *with LLMs* textbook series. The writing questions this guide asks are questions he engages every day in different keys.
+
+He works in Boston. [nikbearbrown.com](https://www.nikbearbrown.com) · [irreducibly.xyz](https://irreducibly.xyz) · [skepticism.ai](https://www.skepticism.ai)
+
+---
+
+## Copyright
+
+Copyright © 2026 Nik Bear Brown. All rights reserved.
+
+Published by Bear Brown, LLC.
+
+No part of this publication may be reproduced, distributed, or transmitted in
+any form or by any means without the prior written permission of the publisher,
+except in the case of brief quotations in critical reviews and certain other
+noncommercial uses permitted by copyright law.
+
+ISBN: [INSERT ISBN]
+
+First edition: 2026
+

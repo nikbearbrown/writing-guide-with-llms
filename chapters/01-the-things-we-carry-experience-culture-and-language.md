@@ -100,6 +100,20 @@ You are about to spend a semester learning to write in registers that are not ye
 
 ---
 
+## A note about AI
+
+The chapter's title is about what you carry. The model carries nothing.
+
+A large language model can produce prose about identity, culture, language, and lived experience in a register that sounds like a writer who has carried specific things into specific rooms. It has not. The biographical specificity this chapter asks you to put in the ledger — the phrase your family uses when someone is being dramatic, the moment you decided you were not a writer, the voice you found in some online space — those are not in the model's pack because the model has no pack. It has the synthesized averages of millions of other people's packs, which is not the same thing.
+
+Where the model genuinely helps: after you have written your list of five items, you can paste the list and ask it to push back on which items you might be underweighting. Models are sometimes useful as a sparring partner against your own modesty about what you carry. You can ask it to suggest the kinds of writing your daily life involves that you have not yet counted — birthday cards, group-chat moderation, captions that had to land — and check the suggestions against your actual life.
+
+Where the model does damage: writing the items for you, or "improving" the way you describe them. The pack is the one thing in this course that has to be yours specifically. A reflection on your literacy that has been smoothed by the model is no longer a reflection on your literacy. It is a reflection on the model's idea of someone like you.
+
+The third thing this chapter asked you to do was to be honest about your relationship with the model. That honesty is the first move of taking the tool seriously. Tools you use without thinking about them shape you in ways you cannot see. Tools you think about carefully, you get to choose how they shape you.
+
+---
+
 ## Exercises
 
 The chapter's inferred learning objectives: (1) articulate the concept of a "literacy pack" — the non-object things carried into a writing context; (2) identify the conventions and entry conditions of academic discourse communities without conflating membership with replacement of prior literacies; (3) describe the costs and trade-offs involved when a writer is asked to abandon one register for another; (4) position LLM use as a new literacy requiring the same reflective awareness as any other carried tool.

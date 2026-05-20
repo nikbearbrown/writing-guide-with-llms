@@ -204,7 +204,7 @@ positions I took.
 
 ---
 
-## 🕰️ AI Wayback Machine
+## AI Wayback Machine
 
 The ideas in this chapter didn't appear from nowhere. **Edward Said** was working on *Representations of the Intellectual* and *Orientalism* — arguments that the public role of the writer is to be exilic, oppositional, and willing to be unwelcome at the table — decades before most people had heard of navigating rhetoric in public, workplace, and political settings. Here's a prompt to find out more — and then make it better.
 

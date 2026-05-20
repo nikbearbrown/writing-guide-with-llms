@@ -249,7 +249,7 @@ is mine to do.
 
 ---
 
-## 🕰️ AI Wayback Machine
+## AI Wayback Machine
 
 The ideas in this chapter didn't appear from nowhere. **Stuart Hall** was working on essays that argued positions in the open — "Encoding/Decoding," "The Whites of Their Eyes," "Notes on Deconstructing the Popular" — at the founding moment of cultural studies, decades before most people had heard of the position argument as a teachable genre. Here's a prompt to find out more — and then make it better.
 

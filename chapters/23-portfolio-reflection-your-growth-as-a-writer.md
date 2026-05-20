@@ -164,6 +164,20 @@ Your voice — the voice that emerged through this semester's work, the voice th
 
 ---
 
+## A note about AI
+
+The reflection asks you to look back at a semester of writing and articulate what changed. The Voice section above named that LLM use can flatten reflective prose toward generic plausibility. I want to add a question that this chapter cannot answer for you.
+
+If you used an LLM during the semester — heavily, lightly, never — that use is part of what changed. The reflection is not honest if it edits the model out. But the reflection is also not honest if the model writes it for you. Between those two failures is a real question: how do you write a reflection on your growth as a writer that includes your relationship to a tool that writes for you?
+
+There is no canonical answer. The questions you have to work out for yourself are these. Did the model help you do work you couldn't have done, or did it skip work you needed to do in order to grow? Where in your portfolio is the evidence either way? Is the voice that emerged this semester yours, or yours-shaped-by-the-model, and how can you tell the difference? The instructor reading your portfolio is not certain how to evaluate the answer. Neither, honestly, is the field. You are writing inside an unresolved question.
+
+The most honest move is to name your actual practice and what you understand about it now. If your relationship to the model was something you do not yet have words for, say so. The reader of a reflective letter trusts a writer who is admitting uncertainty more than a writer who is performing certainty about something nobody yet understands.
+
+The reflection should be in your voice. That includes your voice's uncertainty about what your voice now is.
+
+---
+
 ## LLM Exercise — Chapter 23
 
 **What you're building:** the structural and evidential scaffold for your reflective letter, before you draft it in your own voice.

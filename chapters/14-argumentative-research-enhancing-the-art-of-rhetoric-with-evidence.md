@@ -244,7 +244,7 @@ mine.
 
 ---
 
-## 🕰️ AI Wayback Machine
+## AI Wayback Machine
 
 The ideas in this chapter didn't appear from nowhere. **Patricia Hill Collins** was working on *Black Feminist Thought* — argumentative research that entered a scholarly conversation, named its omissions, and built evidence-based claims from a standpoint the field had been treating as illegible — decades before most people had heard of argumentative research as a teachable genre. Here's a prompt to find out more — and then make it better.
 
